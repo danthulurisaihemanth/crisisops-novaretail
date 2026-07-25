@@ -1,4 +1,11 @@
+import sys
+from pathlib import Path
+
 import streamlit as st
+
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
 from backend.agent_orchestrator import CrisisOpsAgent
 from backend.data_store import DataStore
@@ -54,4 +61,5 @@ with col2:
         shipment_statuses = {}
         for shipment in data_store.shipments()[:10]:
             shipment_statuses[shipment["id"]] = shipment.get("delay_hours", 0)
-        st.bar_chart(shipment_statuses)
+        st.write("Recent shipment delays")
+        st.json(shipment_statuses)
