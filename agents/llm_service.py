@@ -8,10 +8,14 @@ class LLMService:
         self.provider = "fallback"
         if settings.gemini_api_key:
             self.provider = "gemini"
+        elif settings.openai_api_key:
+            self.provider = "openai"
 
     def generate(self, prompt: str, context: Dict[str, Any] | None = None) -> str:
         if self.provider == "gemini":
             return f"Gemini integration is configured with a key. Prompt: {prompt[:120]}"
+        if self.provider == "openai":
+            return f"OpenAI integration is configured with a key. Prompt: {prompt[:120]}"
         return self._fallback_response(prompt, context or {})
 
     def _fallback_response(self, prompt: str, context: Dict[str, Any]) -> str:

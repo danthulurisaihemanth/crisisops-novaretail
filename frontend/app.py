@@ -2,6 +2,7 @@ import sys
 from pathlib import Path
 
 import streamlit as st
+from config.settings import settings
 
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
@@ -17,6 +18,9 @@ st.markdown("<style>body{background:#0f172a;color:#f8fafc;} .stTextInput>div>div
 data_store = DataStore("data")
 memory = ConversationMemory()
 agent = CrisisOpsAgent(data_store, memory)
+
+if not settings.gemini_api_key and not settings.openai_api_key:
+    st.warning("No LLM key is configured. The assistant is running in fallback mode with basic guidance only. Add GEMINI_API_KEY or OPENAI_API_KEY in Streamlit secrets for full AI responses.")
 
 if "session_id" not in st.session_state:
     st.session_state.session_id = "session-1"

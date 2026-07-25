@@ -20,6 +20,8 @@ git push -u origin main
 3. Configure environment variables (App > Settings > Secrets) — add your secrets there. Typical env names used by this project:
    - `OPENAI_API_KEY` or `GEMINI_API_KEY` (LLM provider key)
    - `LANGSMITH_API_KEY` (LangSmith tracing)
+   - `LANGSMITH_TRACING` (set to `false` if you do not want tracing)
+   - `LANGSMITH_PROJECT` (Streamlit Cloud will use `novaretail-crisisops` by default)
    - `LANGGRAPH_API_KEY` (if used)
    - `CHROMA_SERVER_URL` or `CHROMA_DB_DIR` (if using remote Chroma)
    - `DATABASE_URL` (if you use a DB)
