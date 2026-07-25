@@ -14,4 +14,7 @@ class Settings:
     langsmith_project: str = os.getenv("LANGSMITH_PROJECT", "novaretail-crisisops")
     data_dir: str = os.getenv("DATA_DIR", "data")
 
+    def __getattr__(self, name: str) -> str:
+        return ""
+
 settings = Settings()

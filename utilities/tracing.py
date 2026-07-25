@@ -11,10 +11,10 @@ except Exception:  # pragma: no cover
 F = TypeVar("F", bound=Callable)
 
 def traceable(func: F) -> F:
-    if settings.langsmith_tracing and langsmith_traceable is not None:
+    if getattr(settings, "langsmith_tracing", False) and langsmith_traceable is not None:
         return langsmith_traceable(func)  # type: ignore[return-value]
     return func
 
 def trace_event(name: str, **payload: object) -> None:
-    if settings.langsmith_tracing:
+    if getattr(settings, "langsmith_tracing", False):
         LOGGER.info("trace:%s %s", name, payload)
