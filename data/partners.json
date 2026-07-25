@@ -1,0 +1,162 @@
+[
+  {
+    "id": "PART-1",
+    "name": "Partner 1",
+    "region": "South",
+    "score": 4.1,
+    "capacity": 10400,
+    "service_level": "silver"
+  },
+  {
+    "id": "PART-2",
+    "name": "Partner 2",
+    "region": "East",
+    "score": 4.2,
+    "capacity": 10800,
+    "service_level": "gold"
+  },
+  {
+    "id": "PART-3",
+    "name": "Partner 3",
+    "region": "West",
+    "score": 4.3,
+    "capacity": 11200,
+    "service_level": "silver"
+  },
+  {
+    "id": "PART-4",
+    "name": "Partner 4",
+    "region": "North",
+    "score": 4.4,
+    "capacity": 11600,
+    "service_level": "gold"
+  },
+  {
+    "id": "PART-5",
+    "name": "Partner 5",
+    "region": "South",
+    "score": 4.5,
+    "capacity": 12000,
+    "service_level": "silver"
+  },
+  {
+    "id": "PART-6",
+    "name": "Partner 6",
+    "region": "East",
+    "score": 4.6,
+    "capacity": 12400,
+    "service_level": "gold"
+  },
+  {
+    "id": "PART-7",
+    "name": "Partner 7",
+    "region": "West",
+    "score": 4.7,
+    "capacity": 12800,
+    "service_level": "silver"
+  },
+  {
+    "id": "PART-8",
+    "name": "Partner 8",
+    "region": "North",
+    "score": 4.8,
+    "capacity": 13200,
+    "service_level": "gold"
+  },
+  {
+    "id": "PART-9",
+    "name": "Partner 9",
+    "region": "South",
+    "score": 4.9,
+    "capacity": 13600,
+    "service_level": "silver"
+  },
+  {
+    "id": "PART-10",
+    "name": "Partner 10",
+    "region": "East",
+    "score": 4.0,
+    "capacity": 14000,
+    "service_level": "gold"
+  },
+  {
+    "id": "PART-11",
+    "name": "Partner 11",
+    "region": "West",
+    "score": 4.1,
+    "capacity": 14400,
+    "service_level": "silver"
+  },
+  {
+    "id": "PART-12",
+    "name": "Partner 12",
+    "region": "North",
+    "score": 4.2,
+    "capacity": 14800,
+    "service_level": "gold"
+  },
+  {
+    "id": "PART-13",
+    "name": "Partner 13",
+    "region": "South",
+    "score": 4.3,
+    "capacity": 15200,
+    "service_level": "silver"
+  },
+  {
+    "id": "PART-14",
+    "name": "Partner 14",
+    "region": "East",
+    "score": 4.4,
+    "capacity": 15600,
+    "service_level": "gold"
+  },
+  {
+    "id": "PART-15",
+    "name": "Partner 15",
+    "region": "West",
+    "score": 4.5,
+    "capacity": 16000,
+    "service_level": "silver"
+  },
+  {
+    "id": "PART-16",
+    "name": "Partner 16",
+    "region": "North",
+    "score": 4.6,
+    "capacity": 16400,
+    "service_level": "gold"
+  },
+  {
+    "id": "PART-17",
+    "name": "Partner 17",
+    "region": "South",
+    "score": 4.7,
+    "capacity": 16800,
+    "service_level": "silver"
+  },
+  {
+    "id": "PART-18",
+    "name": "Partner 18",
+    "region": "East",
+    "score": 4.8,
+    "capacity": 17200,
+    "service_level": "gold"
+  },
+  {
+    "id": "PART-19",
+    "name": "Partner 19",
+    "region": "West",
+    "score": 4.9,
+    "capacity": 17600,
+    "service_level": "silver"
+  },
+  {
+    "id": "PART-20",
+    "name": "Partner 20",
+    "region": "North",
+    "score": 4.0,
+    "capacity": 18000,
+    "service_level": "gold"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "SUP-1",
+    "name": "Supplier 1",
+    "region": "South",
+    "rating": 3.6,
+    "lead_time_days": 3,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1015
+  },
+  {
+    "id": "SUP-2",
+    "name": "Supplier 2",
+    "region": "East",
+    "rating": 3.7,
+    "lead_time_days": 4,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1030
+  },
+  {
+    "id": "SUP-3",
+    "name": "Supplier 3",
+    "region": "West",
+    "rating": 3.8,
+    "lead_time_days": 5,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1045
+  },
+  {
+    "id": "SUP-4",
+    "name": "Supplier 4",
+    "region": "North",
+    "rating": 3.9,
+    "lead_time_days": 6,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1060
+  },
+  {
+    "id": "SUP-5",
+    "name": "Supplier 5",
+    "region": "South",
+    "rating": 4.0,
+    "lead_time_days": 7,
+    "status": "risk",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1075
+  },
+  {
+    "id": "SUP-6",
+    "name": "Supplier 6",
+    "region": "East",
+    "rating": 4.1,
+    "lead_time_days": 8,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1090
+  },
+  {
+    "id": "SUP-7",
+    "name": "Supplier 7",
+    "region": "West",
+    "rating": 4.2,
+    "lead_time_days": 9,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1105
+  },
+  {
+    "id": "SUP-8",
+    "name": "Supplier 8",
+    "region": "North",
+    "rating": 4.3,
+    "lead_time_days": 2,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1120
+  },
+  {
+    "id": "SUP-9",
+    "name": "Supplier 9",
+    "region": "South",
+    "rating": 4.4,
+    "lead_time_days": 3,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1135
+  },
+  {
+    "id": "SUP-10",
+    "name": "Supplier 10",
+    "region": "East",
+    "rating": 3.5,
+    "lead_time_days": 4,
+    "status": "risk",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1150
+  },
+  {
+    "id": "SUP-11",
+    "name": "Supplier 11",
+    "region": "West",
+    "rating": 3.6,
+    "lead_time_days": 5,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1165
+  },
+  {
+    "id": "SUP-12",
+    "name": "Supplier 12",
+    "region": "North",
+    "rating": 3.7,
+    "lead_time_days": 6,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1180
+  },
+  {
+    "id": "SUP-13",
+    "name": "Supplier 13",
+    "region": "South",
+    "rating": 3.8,
+    "lead_time_days": 7,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1195
+  },
+  {
+    "id": "SUP-14",
+    "name": "Supplier 14",
+    "region": "East",
+    "rating": 3.9,
+    "lead_time_days": 8,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1210
+  },
+  {
+    "id": "SUP-15",
+    "name": "Supplier 15",
+    "region": "West",
+    "rating": 4.0,
+    "lead_time_days": 9,
+    "status": "risk",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1225
+  },
+  {
+    "id": "SUP-16",
+    "name": "Supplier 16",
+    "region": "North",
+    "rating": 4.1,
+    "lead_time_days": 2,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1240
+  },
+  {
+    "id": "SUP-17",
+    "name": "Supplier 17",
+    "region": "South",
+    "rating": 4.2,
+    "lead_time_days": 3,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1255
+  },
+  {
+    "id": "SUP-18",
+    "name": "Supplier 18",
+    "region": "East",
+    "rating": 4.3,
+    "lead_time_days": 4,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1270
+  },
+  {
+    "id": "SUP-19",
+    "name": "Supplier 19",
+    "region": "West",
+    "rating": 4.4,
+    "lead_time_days": 5,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1285
+  },
+  {
+    "id": "SUP-20",
+    "name": "Supplier 20",
+    "region": "North",
+    "rating": 3.5,
+    "lead_time_days": 6,
+    "status": "risk",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1300
+  },
+  {
+    "id": "SUP-21",
+    "name": "Supplier 21",
+    "region": "South",
+    "rating": 3.6,
+    "lead_time_days": 7,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1315
+  },
+  {
+    "id": "SUP-22",
+    "name": "Supplier 22",
+    "region": "East",
+    "rating": 3.7,
+    "lead_time_days": 8,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1330
+  },
+  {
+    "id": "SUP-23",
+    "name": "Supplier 23",
+    "region": "West",
+    "rating": 3.8,
+    "lead_time_days": 9,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1345
+  },
+  {
+    "id": "SUP-24",
+    "name": "Supplier 24",
+    "region": "North",
+    "rating": 3.9,
+    "lead_time_days": 2,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1360
+  },
+  {
+    "id": "SUP-25",
+    "name": "Supplier 25",
+    "region": "South",
+    "rating": 4.0,
+    "lead_time_days": 3,
+    "status": "risk",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1375
+  },
+  {
+    "id": "SUP-26",
+    "name": "Supplier 26",
+    "region": "East",
+    "rating": 4.1,
+    "lead_time_days": 4,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1390
+  },
+  {
+    "id": "SUP-27",
+    "name": "Supplier 27",
+    "region": "West",
+    "rating": 4.2,
+    "lead_time_days": 5,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1405
+  },
+  {
+    "id": "SUP-28",
+    "name": "Supplier 28",
+    "region": "North",
+    "rating": 4.3,
+    "lead_time_days": 6,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1420
+  },
+  {
+    "id": "SUP-29",
+    "name": "Supplier 29",
+    "region": "South",
+    "rating": 4.4,
+    "lead_time_days": 7,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1435
+  },
+  {
+    "id": "SUP-30",
+    "name": "Supplier 30",
+    "region": "East",
+    "rating": 3.5,
+    "lead_time_days": 8,
+    "status": "risk",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1450
+  },
+  {
+    "id": "SUP-31",
+    "name": "Supplier 31",
+    "region": "West",
+    "rating": 3.6,
+    "lead_time_days": 9,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1465
+  },
+  {
+    "id": "SUP-32",
+    "name": "Supplier 32",
+    "region": "North",
+    "rating": 3.7,
+    "lead_time_days": 2,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1480
+  },
+  {
+    "id": "SUP-33",
+    "name": "Supplier 33",
+    "region": "South",
+    "rating": 3.8,
+    "lead_time_days": 3,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1495
+  },
+  {
+    "id": "SUP-34",
+    "name": "Supplier 34",
+    "region": "East",
+    "rating": 3.9,
+    "lead_time_days": 4,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1510
+  },
+  {
+    "id": "SUP-35",
+    "name": "Supplier 35",
+    "region": "West",
+    "rating": 4.0,
+    "lead_time_days": 5,
+    "status": "risk",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1525
+  },
+  {
+    "id": "SUP-36",
+    "name": "Supplier 36",
+    "region": "North",
+    "rating": 4.1,
+    "lead_time_days": 6,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1540
+  },
+  {
+    "id": "SUP-37",
+    "name": "Supplier 37",
+    "region": "South",
+    "rating": 4.2,
+    "lead_time_days": 7,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1555
+  },
+  {
+    "id": "SUP-38",
+    "name": "Supplier 38",
+    "region": "East",
+    "rating": 4.3,
+    "lead_time_days": 8,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1570
+  },
+  {
+    "id": "SUP-39",
+    "name": "Supplier 39",
+    "region": "West",
+    "rating": 4.4,
+    "lead_time_days": 9,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1585
+  },
+  {
+    "id": "SUP-40",
+    "name": "Supplier 40",
+    "region": "North",
+    "rating": 3.5,
+    "lead_time_days": 2,
+    "status": "risk",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1600
+  },
+  {
+    "id": "SUP-41",
+    "name": "Supplier 41",
+    "region": "South",
+    "rating": 3.6,
+    "lead_time_days": 3,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1615
+  },
+  {
+    "id": "SUP-42",
+    "name": "Supplier 42",
+    "region": "East",
+    "rating": 3.7,
+    "lead_time_days": 4,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1630
+  },
+  {
+    "id": "SUP-43",
+    "name": "Supplier 43",
+    "region": "West",
+    "rating": 3.8,
+    "lead_time_days": 5,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1645
+  },
+  {
+    "id": "SUP-44",
+    "name": "Supplier 44",
+    "region": "North",
+    "rating": 3.9,
+    "lead_time_days": 6,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1660
+  },
+  {
+    "id": "SUP-45",
+    "name": "Supplier 45",
+    "region": "South",
+    "rating": 4.0,
+    "lead_time_days": 7,
+    "status": "risk",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1675
+  },
+  {
+    "id": "SUP-46",
+    "name": "Supplier 46",
+    "region": "East",
+    "rating": 4.1,
+    "lead_time_days": 8,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1690
+  },
+  {
+    "id": "SUP-47",
+    "name": "Supplier 47",
+    "region": "West",
+    "rating": 4.2,
+    "lead_time_days": 9,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1705
+  },
+  {
+    "id": "SUP-48",
+    "name": "Supplier 48",
+    "region": "North",
+    "rating": 4.3,
+    "lead_time_days": 2,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1720
+  },
+  {
+    "id": "SUP-49",
+    "name": "Supplier 49",
+    "region": "South",
+    "rating": 4.4,
+    "lead_time_days": 3,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1735
+  },
+  {
+    "id": "SUP-50",
+    "name": "Supplier 50",
+    "region": "East",
+    "rating": 3.5,
+    "lead_time_days": 4,
+    "status": "risk",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1750
+  },
+  {
+    "id": "SUP-51",
+    "name": "Supplier 51",
+    "region": "West",
+    "rating": 3.6,
+    "lead_time_days": 5,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1765
+  },
+  {
+    "id": "SUP-52",
+    "name": "Supplier 52",
+    "region": "North",
+    "rating": 3.7,
+    "lead_time_days": 6,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1780
+  },
+  {
+    "id": "SUP-53",
+    "name": "Supplier 53",
+    "region": "South",
+    "rating": 3.8,
+    "lead_time_days": 7,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1795
+  },
+  {
+    "id": "SUP-54",
+    "name": "Supplier 54",
+    "region": "East",
+    "rating": 3.9,
+    "lead_time_days": 8,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1810
+  },
+  {
+    "id": "SUP-55",
+    "name": "Supplier 55",
+    "region": "West",
+    "rating": 4.0,
+    "lead_time_days": 9,
+    "status": "risk",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1825
+  },
+  {
+    "id": "SUP-56",
+    "name": "Supplier 56",
+    "region": "North",
+    "rating": 4.1,
+    "lead_time_days": 2,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1840
+  },
+  {
+    "id": "SUP-57",
+    "name": "Supplier 57",
+    "region": "South",
+    "rating": 4.2,
+    "lead_time_days": 3,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1855
+  },
+  {
+    "id": "SUP-58",
+    "name": "Supplier 58",
+    "region": "East",
+    "rating": 4.3,
+    "lead_time_days": 4,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1870
+  },
+  {
+    "id": "SUP-59",
+    "name": "Supplier 59",
+    "region": "West",
+    "rating": 4.4,
+    "lead_time_days": 5,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1885
+  },
+  {
+    "id": "SUP-60",
+    "name": "Supplier 60",
+    "region": "North",
+    "rating": 3.5,
+    "lead_time_days": 6,
+    "status": "risk",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1900
+  },
+  {
+    "id": "SUP-61",
+    "name": "Supplier 61",
+    "region": "South",
+    "rating": 3.6,
+    "lead_time_days": 7,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1915
+  },
+  {
+    "id": "SUP-62",
+    "name": "Supplier 62",
+    "region": "East",
+    "rating": 3.7,
+    "lead_time_days": 8,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1930
+  },
+  {
+    "id": "SUP-63",
+    "name": "Supplier 63",
+    "region": "West",
+    "rating": 3.8,
+    "lead_time_days": 9,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 1945
+  },
+  {
+    "id": "SUP-64",
+    "name": "Supplier 64",
+    "region": "North",
+    "rating": 3.9,
+    "lead_time_days": 2,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 1960
+  },
+  {
+    "id": "SUP-65",
+    "name": "Supplier 65",
+    "region": "South",
+    "rating": 4.0,
+    "lead_time_days": 3,
+    "status": "risk",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 1975
+  },
+  {
+    "id": "SUP-66",
+    "name": "Supplier 66",
+    "region": "East",
+    "rating": 4.1,
+    "lead_time_days": 4,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 1990
+  },
+  {
+    "id": "SUP-67",
+    "name": "Supplier 67",
+    "region": "West",
+    "rating": 4.2,
+    "lead_time_days": 5,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 2005
+  },
+  {
+    "id": "SUP-68",
+    "name": "Supplier 68",
+    "region": "North",
+    "rating": 4.3,
+    "lead_time_days": 6,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 2020
+  },
+  {
+    "id": "SUP-69",
+    "name": "Supplier 69",
+    "region": "South",
+    "rating": 4.4,
+    "lead_time_days": 7,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 2035
+  },
+  {
+    "id": "SUP-70",
+    "name": "Supplier 70",
+    "region": "East",
+    "rating": 3.5,
+    "lead_time_days": 8,
+    "status": "risk",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 2050
+  },
+  {
+    "id": "SUP-71",
+    "name": "Supplier 71",
+    "region": "West",
+    "rating": 3.6,
+    "lead_time_days": 9,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 2065
+  },
+  {
+    "id": "SUP-72",
+    "name": "Supplier 72",
+    "region": "North",
+    "rating": 3.7,
+    "lead_time_days": 2,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 2080
+  },
+  {
+    "id": "SUP-73",
+    "name": "Supplier 73",
+    "region": "South",
+    "rating": 3.8,
+    "lead_time_days": 3,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 2095
+  },
+  {
+    "id": "SUP-74",
+    "name": "Supplier 74",
+    "region": "East",
+    "rating": 3.9,
+    "lead_time_days": 4,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 2110
+  },
+  {
+    "id": "SUP-75",
+    "name": "Supplier 75",
+    "region": "West",
+    "rating": 4.0,
+    "lead_time_days": 5,
+    "status": "risk",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 2125
+  },
+  {
+    "id": "SUP-76",
+    "name": "Supplier 76",
+    "region": "North",
+    "rating": 4.1,
+    "lead_time_days": 6,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 2140
+  },
+  {
+    "id": "SUP-77",
+    "name": "Supplier 77",
+    "region": "South",
+    "rating": 4.2,
+    "lead_time_days": 7,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 2155
+  },
+  {
+    "id": "SUP-78",
+    "name": "Supplier 78",
+    "region": "East",
+    "rating": 4.3,
+    "lead_time_days": 8,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 2170
+  },
+  {
+    "id": "SUP-79",
+    "name": "Supplier 79",
+    "region": "West",
+    "rating": 4.4,
+    "lead_time_days": 9,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 2185
+  },
+  {
+    "id": "SUP-80",
+    "name": "Supplier 80",
+    "region": "North",
+    "rating": 3.5,
+    "lead_time_days": 2,
+    "status": "risk",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 2200
+  },
+  {
+    "id": "SUP-81",
+    "name": "Supplier 81",
+    "region": "South",
+    "rating": 3.6,
+    "lead_time_days": 3,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 2215
+  },
+  {
+    "id": "SUP-82",
+    "name": "Supplier 82",
+    "region": "East",
+    "rating": 3.7,
+    "lead_time_days": 4,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 2230
+  },
+  {
+    "id": "SUP-83",
+    "name": "Supplier 83",
+    "region": "West",
+    "rating": 3.8,
+    "lead_time_days": 5,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 2245
+  },
+  {
+    "id": "SUP-84",
+    "name": "Supplier 84",
+    "region": "North",
+    "rating": 3.9,
+    "lead_time_days": 6,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 2260
+  },
+  {
+    "id": "SUP-85",
+    "name": "Supplier 85",
+    "region": "South",
+    "rating": 4.0,
+    "lead_time_days": 7,
+    "status": "risk",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 2275
+  },
+  {
+    "id": "SUP-86",
+    "name": "Supplier 86",
+    "region": "East",
+    "rating": 4.1,
+    "lead_time_days": 8,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 2290
+  },
+  {
+    "id": "SUP-87",
+    "name": "Supplier 87",
+    "region": "West",
+    "rating": 4.2,
+    "lead_time_days": 9,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 2305
+  },
+  {
+    "id": "SUP-88",
+    "name": "Supplier 88",
+    "region": "North",
+    "rating": 4.3,
+    "lead_time_days": 2,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 2320
+  },
+  {
+    "id": "SUP-89",
+    "name": "Supplier 89",
+    "region": "South",
+    "rating": 4.4,
+    "lead_time_days": 3,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 2335
+  },
+  {
+    "id": "SUP-90",
+    "name": "Supplier 90",
+    "region": "East",
+    "rating": 3.5,
+    "lead_time_days": 4,
+    "status": "risk",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 2350
+  },
+  {
+    "id": "SUP-91",
+    "name": "Supplier 91",
+    "region": "West",
+    "rating": 3.6,
+    "lead_time_days": 5,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 2365
+  },
+  {
+    "id": "SUP-92",
+    "name": "Supplier 92",
+    "region": "North",
+    "rating": 3.7,
+    "lead_time_days": 6,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 2380
+  },
+  {
+    "id": "SUP-93",
+    "name": "Supplier 93",
+    "region": "South",
+    "rating": 3.8,
+    "lead_time_days": 7,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 2395
+  },
+  {
+    "id": "SUP-94",
+    "name": "Supplier 94",
+    "region": "East",
+    "rating": 3.9,
+    "lead_time_days": 8,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 2410
+  },
+  {
+    "id": "SUP-95",
+    "name": "Supplier 95",
+    "region": "West",
+    "rating": 4.0,
+    "lead_time_days": 9,
+    "status": "risk",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 2425
+  },
+  {
+    "id": "SUP-96",
+    "name": "Supplier 96",
+    "region": "North",
+    "rating": 4.1,
+    "lead_time_days": 2,
+    "status": "active",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 2440
+  },
+  {
+    "id": "SUP-97",
+    "name": "Supplier 97",
+    "region": "South",
+    "rating": 4.2,
+    "lead_time_days": 3,
+    "status": "active",
+    "product_categories": [
+      "Apparel"
+    ],
+    "capacity": 2455
+  },
+  {
+    "id": "SUP-98",
+    "name": "Supplier 98",
+    "region": "East",
+    "rating": 4.3,
+    "lead_time_days": 4,
+    "status": "active",
+    "product_categories": [
+      "Home"
+    ],
+    "capacity": 2470
+  },
+  {
+    "id": "SUP-99",
+    "name": "Supplier 99",
+    "region": "West",
+    "rating": 4.4,
+    "lead_time_days": 5,
+    "status": "active",
+    "product_categories": [
+      "Food"
+    ],
+    "capacity": 2485
+  },
+  {
+    "id": "SUP-100",
+    "name": "Supplier 100",
+    "region": "North",
+    "rating": 3.5,
+    "lead_time_days": 6,
+    "status": "risk",
+    "product_categories": [
+      "Electronics"
+    ],
+    "capacity": 2500
+  }
+]

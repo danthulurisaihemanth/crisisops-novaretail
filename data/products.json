@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "P-1",
+    "name": "Product 1",
+    "category": "Apparel",
+    "sku": "SKU-001",
+    "unit_cost": 10.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-1"
+  },
+  {
+    "id": "P-2",
+    "name": "Product 2",
+    "category": "Home",
+    "sku": "SKU-002",
+    "unit_cost": 10.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-2"
+  },
+  {
+    "id": "P-3",
+    "name": "Product 3",
+    "category": "Food",
+    "sku": "SKU-003",
+    "unit_cost": 11.35,
+    "weight_kg": 1.5,
+    "criticality": "high",
+    "supplier_id": "SUP-3"
+  },
+  {
+    "id": "P-4",
+    "name": "Product 4",
+    "category": "Electronics",
+    "sku": "SKU-004",
+    "unit_cost": 11.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-4"
+  },
+  {
+    "id": "P-5",
+    "name": "Product 5",
+    "category": "Apparel",
+    "sku": "SKU-005",
+    "unit_cost": 12.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-5"
+  },
+  {
+    "id": "P-6",
+    "name": "Product 6",
+    "category": "Home",
+    "sku": "SKU-006",
+    "unit_cost": 12.7,
+    "weight_kg": 2.7,
+    "criticality": "high",
+    "supplier_id": "SUP-6"
+  },
+  {
+    "id": "P-7",
+    "name": "Product 7",
+    "category": "Food",
+    "sku": "SKU-007",
+    "unit_cost": 13.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-7"
+  },
+  {
+    "id": "P-8",
+    "name": "Product 8",
+    "category": "Electronics",
+    "sku": "SKU-008",
+    "unit_cost": 13.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-8"
+  },
+  {
+    "id": "P-9",
+    "name": "Product 9",
+    "category": "Apparel",
+    "sku": "SKU-009",
+    "unit_cost": 14.05,
+    "weight_kg": 3.9,
+    "criticality": "high",
+    "supplier_id": "SUP-9"
+  },
+  {
+    "id": "P-10",
+    "name": "Product 10",
+    "category": "Home",
+    "sku": "SKU-010",
+    "unit_cost": 14.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-10"
+  },
+  {
+    "id": "P-11",
+    "name": "Product 11",
+    "category": "Food",
+    "sku": "SKU-011",
+    "unit_cost": 14.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-11"
+  },
+  {
+    "id": "P-12",
+    "name": "Product 12",
+    "category": "Electronics",
+    "sku": "SKU-012",
+    "unit_cost": 15.4,
+    "weight_kg": 5.1,
+    "criticality": "high",
+    "supplier_id": "SUP-12"
+  },
+  {
+    "id": "P-13",
+    "name": "Product 13",
+    "category": "Apparel",
+    "sku": "SKU-013",
+    "unit_cost": 15.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-13"
+  },
+  {
+    "id": "P-14",
+    "name": "Product 14",
+    "category": "Home",
+    "sku": "SKU-014",
+    "unit_cost": 16.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-14"
+  },
+  {
+    "id": "P-15",
+    "name": "Product 15",
+    "category": "Food",
+    "sku": "SKU-015",
+    "unit_cost": 16.75,
+    "weight_kg": 6.3,
+    "criticality": "high",
+    "supplier_id": "SUP-15"
+  },
+  {
+    "id": "P-16",
+    "name": "Product 16",
+    "category": "Electronics",
+    "sku": "SKU-016",
+    "unit_cost": 17.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-16"
+  },
+  {
+    "id": "P-17",
+    "name": "Product 17",
+    "category": "Apparel",
+    "sku": "SKU-017",
+    "unit_cost": 17.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-17"
+  },
+  {
+    "id": "P-18",
+    "name": "Product 18",
+    "category": "Home",
+    "sku": "SKU-018",
+    "unit_cost": 18.1,
+    "weight_kg": 7.5,
+    "criticality": "high",
+    "supplier_id": "SUP-18"
+  },
+  {
+    "id": "P-19",
+    "name": "Product 19",
+    "category": "Food",
+    "sku": "SKU-019",
+    "unit_cost": 18.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-19"
+  },
+  {
+    "id": "P-20",
+    "name": "Product 20",
+    "category": "Electronics",
+    "sku": "SKU-020",
+    "unit_cost": 19.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-20"
+  },
+  {
+    "id": "P-21",
+    "name": "Product 21",
+    "category": "Apparel",
+    "sku": "SKU-021",
+    "unit_cost": 19.45,
+    "weight_kg": 0.7,
+    "criticality": "high",
+    "supplier_id": "SUP-21"
+  },
+  {
+    "id": "P-22",
+    "name": "Product 22",
+    "category": "Home",
+    "sku": "SKU-022",
+    "unit_cost": 19.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-22"
+  },
+  {
+    "id": "P-23",
+    "name": "Product 23",
+    "category": "Food",
+    "sku": "SKU-023",
+    "unit_cost": 20.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-23"
+  },
+  {
+    "id": "P-24",
+    "name": "Product 24",
+    "category": "Electronics",
+    "sku": "SKU-024",
+    "unit_cost": 20.8,
+    "weight_kg": 1.9,
+    "criticality": "high",
+    "supplier_id": "SUP-24"
+  },
+  {
+    "id": "P-25",
+    "name": "Product 25",
+    "category": "Apparel",
+    "sku": "SKU-025",
+    "unit_cost": 21.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-25"
+  },
+  {
+    "id": "P-26",
+    "name": "Product 26",
+    "category": "Home",
+    "sku": "SKU-026",
+    "unit_cost": 21.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-26"
+  },
+  {
+    "id": "P-27",
+    "name": "Product 27",
+    "category": "Food",
+    "sku": "SKU-027",
+    "unit_cost": 22.15,
+    "weight_kg": 3.1,
+    "criticality": "high",
+    "supplier_id": "SUP-27"
+  },
+  {
+    "id": "P-28",
+    "name": "Product 28",
+    "category": "Electronics",
+    "sku": "SKU-028",
+    "unit_cost": 22.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-28"
+  },
+  {
+    "id": "P-29",
+    "name": "Product 29",
+    "category": "Apparel",
+    "sku": "SKU-029",
+    "unit_cost": 23.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-29"
+  },
+  {
+    "id": "P-30",
+    "name": "Product 30",
+    "category": "Home",
+    "sku": "SKU-030",
+    "unit_cost": 23.5,
+    "weight_kg": 4.3,
+    "criticality": "high",
+    "supplier_id": "SUP-30"
+  },
+  {
+    "id": "P-31",
+    "name": "Product 31",
+    "category": "Food",
+    "sku": "SKU-031",
+    "unit_cost": 23.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-31"
+  },
+  {
+    "id": "P-32",
+    "name": "Product 32",
+    "category": "Electronics",
+    "sku": "SKU-032",
+    "unit_cost": 24.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-32"
+  },
+  {
+    "id": "P-33",
+    "name": "Product 33",
+    "category": "Apparel",
+    "sku": "SKU-033",
+    "unit_cost": 24.85,
+    "weight_kg": 5.5,
+    "criticality": "high",
+    "supplier_id": "SUP-33"
+  },
+  {
+    "id": "P-34",
+    "name": "Product 34",
+    "category": "Home",
+    "sku": "SKU-034",
+    "unit_cost": 25.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-34"
+  },
+  {
+    "id": "P-35",
+    "name": "Product 35",
+    "category": "Food",
+    "sku": "SKU-035",
+    "unit_cost": 25.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-35"
+  },
+  {
+    "id": "P-36",
+    "name": "Product 36",
+    "category": "Electronics",
+    "sku": "SKU-036",
+    "unit_cost": 26.2,
+    "weight_kg": 6.7,
+    "criticality": "high",
+    "supplier_id": "SUP-36"
+  },
+  {
+    "id": "P-37",
+    "name": "Product 37",
+    "category": "Apparel",
+    "sku": "SKU-037",
+    "unit_cost": 26.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-37"
+  },
+  {
+    "id": "P-38",
+    "name": "Product 38",
+    "category": "Home",
+    "sku": "SKU-038",
+    "unit_cost": 27.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-38"
+  },
+  {
+    "id": "P-39",
+    "name": "Product 39",
+    "category": "Food",
+    "sku": "SKU-039",
+    "unit_cost": 27.55,
+    "weight_kg": 7.9,
+    "criticality": "high",
+    "supplier_id": "SUP-39"
+  },
+  {
+    "id": "P-40",
+    "name": "Product 40",
+    "category": "Electronics",
+    "sku": "SKU-040",
+    "unit_cost": 28.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-40"
+  },
+  {
+    "id": "P-41",
+    "name": "Product 41",
+    "category": "Apparel",
+    "sku": "SKU-041",
+    "unit_cost": 28.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-41"
+  },
+  {
+    "id": "P-42",
+    "name": "Product 42",
+    "category": "Home",
+    "sku": "SKU-042",
+    "unit_cost": 28.9,
+    "weight_kg": 1.1,
+    "criticality": "high",
+    "supplier_id": "SUP-42"
+  },
+  {
+    "id": "P-43",
+    "name": "Product 43",
+    "category": "Food",
+    "sku": "SKU-043",
+    "unit_cost": 29.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-43"
+  },
+  {
+    "id": "P-44",
+    "name": "Product 44",
+    "category": "Electronics",
+    "sku": "SKU-044",
+    "unit_cost": 29.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-44"
+  },
+  {
+    "id": "P-45",
+    "name": "Product 45",
+    "category": "Apparel",
+    "sku": "SKU-045",
+    "unit_cost": 30.25,
+    "weight_kg": 2.3,
+    "criticality": "high",
+    "supplier_id": "SUP-45"
+  },
+  {
+    "id": "P-46",
+    "name": "Product 46",
+    "category": "Home",
+    "sku": "SKU-046",
+    "unit_cost": 30.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-46"
+  },
+  {
+    "id": "P-47",
+    "name": "Product 47",
+    "category": "Food",
+    "sku": "SKU-047",
+    "unit_cost": 31.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-47"
+  },
+  {
+    "id": "P-48",
+    "name": "Product 48",
+    "category": "Electronics",
+    "sku": "SKU-048",
+    "unit_cost": 31.6,
+    "weight_kg": 3.5,
+    "criticality": "high",
+    "supplier_id": "SUP-48"
+  },
+  {
+    "id": "P-49",
+    "name": "Product 49",
+    "category": "Apparel",
+    "sku": "SKU-049",
+    "unit_cost": 32.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-49"
+  },
+  {
+    "id": "P-50",
+    "name": "Product 50",
+    "category": "Home",
+    "sku": "SKU-050",
+    "unit_cost": 32.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-50"
+  },
+  {
+    "id": "P-51",
+    "name": "Product 51",
+    "category": "Food",
+    "sku": "SKU-051",
+    "unit_cost": 32.95,
+    "weight_kg": 4.7,
+    "criticality": "high",
+    "supplier_id": "SUP-51"
+  },
+  {
+    "id": "P-52",
+    "name": "Product 52",
+    "category": "Electronics",
+    "sku": "SKU-052",
+    "unit_cost": 33.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-52"
+  },
+  {
+    "id": "P-53",
+    "name": "Product 53",
+    "category": "Apparel",
+    "sku": "SKU-053",
+    "unit_cost": 33.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-53"
+  },
+  {
+    "id": "P-54",
+    "name": "Product 54",
+    "category": "Home",
+    "sku": "SKU-054",
+    "unit_cost": 34.3,
+    "weight_kg": 5.9,
+    "criticality": "high",
+    "supplier_id": "SUP-54"
+  },
+  {
+    "id": "P-55",
+    "name": "Product 55",
+    "category": "Food",
+    "sku": "SKU-055",
+    "unit_cost": 34.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-55"
+  },
+  {
+    "id": "P-56",
+    "name": "Product 56",
+    "category": "Electronics",
+    "sku": "SKU-056",
+    "unit_cost": 35.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-56"
+  },
+  {
+    "id": "P-57",
+    "name": "Product 57",
+    "category": "Apparel",
+    "sku": "SKU-057",
+    "unit_cost": 35.65,
+    "weight_kg": 7.1,
+    "criticality": "high",
+    "supplier_id": "SUP-57"
+  },
+  {
+    "id": "P-58",
+    "name": "Product 58",
+    "category": "Home",
+    "sku": "SKU-058",
+    "unit_cost": 36.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-58"
+  },
+  {
+    "id": "P-59",
+    "name": "Product 59",
+    "category": "Food",
+    "sku": "SKU-059",
+    "unit_cost": 36.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-59"
+  },
+  {
+    "id": "P-60",
+    "name": "Product 60",
+    "category": "Electronics",
+    "sku": "SKU-060",
+    "unit_cost": 37.0,
+    "weight_kg": 0.3,
+    "criticality": "high",
+    "supplier_id": "SUP-60"
+  },
+  {
+    "id": "P-61",
+    "name": "Product 61",
+    "category": "Apparel",
+    "sku": "SKU-061",
+    "unit_cost": 37.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-61"
+  },
+  {
+    "id": "P-62",
+    "name": "Product 62",
+    "category": "Home",
+    "sku": "SKU-062",
+    "unit_cost": 37.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-62"
+  },
+  {
+    "id": "P-63",
+    "name": "Product 63",
+    "category": "Food",
+    "sku": "SKU-063",
+    "unit_cost": 38.35,
+    "weight_kg": 1.5,
+    "criticality": "high",
+    "supplier_id": "SUP-63"
+  },
+  {
+    "id": "P-64",
+    "name": "Product 64",
+    "category": "Electronics",
+    "sku": "SKU-064",
+    "unit_cost": 38.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-64"
+  },
+  {
+    "id": "P-65",
+    "name": "Product 65",
+    "category": "Apparel",
+    "sku": "SKU-065",
+    "unit_cost": 39.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-65"
+  },
+  {
+    "id": "P-66",
+    "name": "Product 66",
+    "category": "Home",
+    "sku": "SKU-066",
+    "unit_cost": 39.7,
+    "weight_kg": 2.7,
+    "criticality": "high",
+    "supplier_id": "SUP-66"
+  },
+  {
+    "id": "P-67",
+    "name": "Product 67",
+    "category": "Food",
+    "sku": "SKU-067",
+    "unit_cost": 40.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-67"
+  },
+  {
+    "id": "P-68",
+    "name": "Product 68",
+    "category": "Electronics",
+    "sku": "SKU-068",
+    "unit_cost": 40.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-68"
+  },
+  {
+    "id": "P-69",
+    "name": "Product 69",
+    "category": "Apparel",
+    "sku": "SKU-069",
+    "unit_cost": 41.05,
+    "weight_kg": 3.9,
+    "criticality": "high",
+    "supplier_id": "SUP-69"
+  },
+  {
+    "id": "P-70",
+    "name": "Product 70",
+    "category": "Home",
+    "sku": "SKU-070",
+    "unit_cost": 41.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-70"
+  },
+  {
+    "id": "P-71",
+    "name": "Product 71",
+    "category": "Food",
+    "sku": "SKU-071",
+    "unit_cost": 41.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-71"
+  },
+  {
+    "id": "P-72",
+    "name": "Product 72",
+    "category": "Electronics",
+    "sku": "SKU-072",
+    "unit_cost": 42.4,
+    "weight_kg": 5.1,
+    "criticality": "high",
+    "supplier_id": "SUP-72"
+  },
+  {
+    "id": "P-73",
+    "name": "Product 73",
+    "category": "Apparel",
+    "sku": "SKU-073",
+    "unit_cost": 42.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-73"
+  },
+  {
+    "id": "P-74",
+    "name": "Product 74",
+    "category": "Home",
+    "sku": "SKU-074",
+    "unit_cost": 43.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-74"
+  },
+  {
+    "id": "P-75",
+    "name": "Product 75",
+    "category": "Food",
+    "sku": "SKU-075",
+    "unit_cost": 43.75,
+    "weight_kg": 6.3,
+    "criticality": "high",
+    "supplier_id": "SUP-75"
+  },
+  {
+    "id": "P-76",
+    "name": "Product 76",
+    "category": "Electronics",
+    "sku": "SKU-076",
+    "unit_cost": 44.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-76"
+  },
+  {
+    "id": "P-77",
+    "name": "Product 77",
+    "category": "Apparel",
+    "sku": "SKU-077",
+    "unit_cost": 44.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-77"
+  },
+  {
+    "id": "P-78",
+    "name": "Product 78",
+    "category": "Home",
+    "sku": "SKU-078",
+    "unit_cost": 45.1,
+    "weight_kg": 7.5,
+    "criticality": "high",
+    "supplier_id": "SUP-78"
+  },
+  {
+    "id": "P-79",
+    "name": "Product 79",
+    "category": "Food",
+    "sku": "SKU-079",
+    "unit_cost": 45.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-79"
+  },
+  {
+    "id": "P-80",
+    "name": "Product 80",
+    "category": "Electronics",
+    "sku": "SKU-080",
+    "unit_cost": 46.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-80"
+  },
+  {
+    "id": "P-81",
+    "name": "Product 81",
+    "category": "Apparel",
+    "sku": "SKU-081",
+    "unit_cost": 46.45,
+    "weight_kg": 0.7,
+    "criticality": "high",
+    "supplier_id": "SUP-81"
+  },
+  {
+    "id": "P-82",
+    "name": "Product 82",
+    "category": "Home",
+    "sku": "SKU-082",
+    "unit_cost": 46.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-82"
+  },
+  {
+    "id": "P-83",
+    "name": "Product 83",
+    "category": "Food",
+    "sku": "SKU-083",
+    "unit_cost": 47.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-83"
+  },
+  {
+    "id": "P-84",
+    "name": "Product 84",
+    "category": "Electronics",
+    "sku": "SKU-084",
+    "unit_cost": 47.8,
+    "weight_kg": 1.9,
+    "criticality": "high",
+    "supplier_id": "SUP-84"
+  },
+  {
+    "id": "P-85",
+    "name": "Product 85",
+    "category": "Apparel",
+    "sku": "SKU-085",
+    "unit_cost": 48.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-85"
+  },
+  {
+    "id": "P-86",
+    "name": "Product 86",
+    "category": "Home",
+    "sku": "SKU-086",
+    "unit_cost": 48.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-86"
+  },
+  {
+    "id": "P-87",
+    "name": "Product 87",
+    "category": "Food",
+    "sku": "SKU-087",
+    "unit_cost": 49.15,
+    "weight_kg": 3.1,
+    "criticality": "high",
+    "supplier_id": "SUP-87"
+  },
+  {
+    "id": "P-88",
+    "name": "Product 88",
+    "category": "Electronics",
+    "sku": "SKU-088",
+    "unit_cost": 49.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-88"
+  },
+  {
+    "id": "P-89",
+    "name": "Product 89",
+    "category": "Apparel",
+    "sku": "SKU-089",
+    "unit_cost": 50.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-89"
+  },
+  {
+    "id": "P-90",
+    "name": "Product 90",
+    "category": "Home",
+    "sku": "SKU-090",
+    "unit_cost": 50.5,
+    "weight_kg": 4.3,
+    "criticality": "high",
+    "supplier_id": "SUP-90"
+  },
+  {
+    "id": "P-91",
+    "name": "Product 91",
+    "category": "Food",
+    "sku": "SKU-091",
+    "unit_cost": 50.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-91"
+  },
+  {
+    "id": "P-92",
+    "name": "Product 92",
+    "category": "Electronics",
+    "sku": "SKU-092",
+    "unit_cost": 51.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-92"
+  },
+  {
+    "id": "P-93",
+    "name": "Product 93",
+    "category": "Apparel",
+    "sku": "SKU-093",
+    "unit_cost": 51.85,
+    "weight_kg": 5.5,
+    "criticality": "high",
+    "supplier_id": "SUP-93"
+  },
+  {
+    "id": "P-94",
+    "name": "Product 94",
+    "category": "Home",
+    "sku": "SKU-094",
+    "unit_cost": 52.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-94"
+  },
+  {
+    "id": "P-95",
+    "name": "Product 95",
+    "category": "Food",
+    "sku": "SKU-095",
+    "unit_cost": 52.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-95"
+  },
+  {
+    "id": "P-96",
+    "name": "Product 96",
+    "category": "Electronics",
+    "sku": "SKU-096",
+    "unit_cost": 53.2,
+    "weight_kg": 6.7,
+    "criticality": "high",
+    "supplier_id": "SUP-96"
+  },
+  {
+    "id": "P-97",
+    "name": "Product 97",
+    "category": "Apparel",
+    "sku": "SKU-097",
+    "unit_cost": 53.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-97"
+  },
+  {
+    "id": "P-98",
+    "name": "Product 98",
+    "category": "Home",
+    "sku": "SKU-098",
+    "unit_cost": 54.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-98"
+  },
+  {
+    "id": "P-99",
+    "name": "Product 99",
+    "category": "Food",
+    "sku": "SKU-099",
+    "unit_cost": 54.55,
+    "weight_kg": 7.9,
+    "criticality": "high",
+    "supplier_id": "SUP-99"
+  },
+  {
+    "id": "P-100",
+    "name": "Product 100",
+    "category": "Electronics",
+    "sku": "SKU-100",
+    "unit_cost": 55.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-100"
+  },
+  {
+    "id": "P-101",
+    "name": "Product 101",
+    "category": "Apparel",
+    "sku": "SKU-101",
+    "unit_cost": 55.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-1"
+  },
+  {
+    "id": "P-102",
+    "name": "Product 102",
+    "category": "Home",
+    "sku": "SKU-102",
+    "unit_cost": 55.9,
+    "weight_kg": 1.1,
+    "criticality": "high",
+    "supplier_id": "SUP-2"
+  },
+  {
+    "id": "P-103",
+    "name": "Product 103",
+    "category": "Food",
+    "sku": "SKU-103",
+    "unit_cost": 56.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-3"
+  },
+  {
+    "id": "P-104",
+    "name": "Product 104",
+    "category": "Electronics",
+    "sku": "SKU-104",
+    "unit_cost": 56.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-4"
+  },
+  {
+    "id": "P-105",
+    "name": "Product 105",
+    "category": "Apparel",
+    "sku": "SKU-105",
+    "unit_cost": 57.25,
+    "weight_kg": 2.3,
+    "criticality": "high",
+    "supplier_id": "SUP-5"
+  },
+  {
+    "id": "P-106",
+    "name": "Product 106",
+    "category": "Home",
+    "sku": "SKU-106",
+    "unit_cost": 57.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-6"
+  },
+  {
+    "id": "P-107",
+    "name": "Product 107",
+    "category": "Food",
+    "sku": "SKU-107",
+    "unit_cost": 58.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-7"
+  },
+  {
+    "id": "P-108",
+    "name": "Product 108",
+    "category": "Electronics",
+    "sku": "SKU-108",
+    "unit_cost": 58.6,
+    "weight_kg": 3.5,
+    "criticality": "high",
+    "supplier_id": "SUP-8"
+  },
+  {
+    "id": "P-109",
+    "name": "Product 109",
+    "category": "Apparel",
+    "sku": "SKU-109",
+    "unit_cost": 59.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-9"
+  },
+  {
+    "id": "P-110",
+    "name": "Product 110",
+    "category": "Home",
+    "sku": "SKU-110",
+    "unit_cost": 59.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-10"
+  },
+  {
+    "id": "P-111",
+    "name": "Product 111",
+    "category": "Food",
+    "sku": "SKU-111",
+    "unit_cost": 59.95,
+    "weight_kg": 4.7,
+    "criticality": "high",
+    "supplier_id": "SUP-11"
+  },
+  {
+    "id": "P-112",
+    "name": "Product 112",
+    "category": "Electronics",
+    "sku": "SKU-112",
+    "unit_cost": 60.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-12"
+  },
+  {
+    "id": "P-113",
+    "name": "Product 113",
+    "category": "Apparel",
+    "sku": "SKU-113",
+    "unit_cost": 60.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-13"
+  },
+  {
+    "id": "P-114",
+    "name": "Product 114",
+    "category": "Home",
+    "sku": "SKU-114",
+    "unit_cost": 61.3,
+    "weight_kg": 5.9,
+    "criticality": "high",
+    "supplier_id": "SUP-14"
+  },
+  {
+    "id": "P-115",
+    "name": "Product 115",
+    "category": "Food",
+    "sku": "SKU-115",
+    "unit_cost": 61.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-15"
+  },
+  {
+    "id": "P-116",
+    "name": "Product 116",
+    "category": "Electronics",
+    "sku": "SKU-116",
+    "unit_cost": 62.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-16"
+  },
+  {
+    "id": "P-117",
+    "name": "Product 117",
+    "category": "Apparel",
+    "sku": "SKU-117",
+    "unit_cost": 62.65,
+    "weight_kg": 7.1,
+    "criticality": "high",
+    "supplier_id": "SUP-17"
+  },
+  {
+    "id": "P-118",
+    "name": "Product 118",
+    "category": "Home",
+    "sku": "SKU-118",
+    "unit_cost": 63.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-18"
+  },
+  {
+    "id": "P-119",
+    "name": "Product 119",
+    "category": "Food",
+    "sku": "SKU-119",
+    "unit_cost": 63.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-19"
+  },
+  {
+    "id": "P-120",
+    "name": "Product 120",
+    "category": "Electronics",
+    "sku": "SKU-120",
+    "unit_cost": 64.0,
+    "weight_kg": 0.3,
+    "criticality": "high",
+    "supplier_id": "SUP-20"
+  },
+  {
+    "id": "P-121",
+    "name": "Product 121",
+    "category": "Apparel",
+    "sku": "SKU-121",
+    "unit_cost": 64.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-21"
+  },
+  {
+    "id": "P-122",
+    "name": "Product 122",
+    "category": "Home",
+    "sku": "SKU-122",
+    "unit_cost": 64.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-22"
+  },
+  {
+    "id": "P-123",
+    "name": "Product 123",
+    "category": "Food",
+    "sku": "SKU-123",
+    "unit_cost": 65.35,
+    "weight_kg": 1.5,
+    "criticality": "high",
+    "supplier_id": "SUP-23"
+  },
+  {
+    "id": "P-124",
+    "name": "Product 124",
+    "category": "Electronics",
+    "sku": "SKU-124",
+    "unit_cost": 65.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-24"
+  },
+  {
+    "id": "P-125",
+    "name": "Product 125",
+    "category": "Apparel",
+    "sku": "SKU-125",
+    "unit_cost": 66.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-25"
+  },
+  {
+    "id": "P-126",
+    "name": "Product 126",
+    "category": "Home",
+    "sku": "SKU-126",
+    "unit_cost": 66.7,
+    "weight_kg": 2.7,
+    "criticality": "high",
+    "supplier_id": "SUP-26"
+  },
+  {
+    "id": "P-127",
+    "name": "Product 127",
+    "category": "Food",
+    "sku": "SKU-127",
+    "unit_cost": 67.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-27"
+  },
+  {
+    "id": "P-128",
+    "name": "Product 128",
+    "category": "Electronics",
+    "sku": "SKU-128",
+    "unit_cost": 67.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-28"
+  },
+  {
+    "id": "P-129",
+    "name": "Product 129",
+    "category": "Apparel",
+    "sku": "SKU-129",
+    "unit_cost": 68.05,
+    "weight_kg": 3.9,
+    "criticality": "high",
+    "supplier_id": "SUP-29"
+  },
+  {
+    "id": "P-130",
+    "name": "Product 130",
+    "category": "Home",
+    "sku": "SKU-130",
+    "unit_cost": 68.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-30"
+  },
+  {
+    "id": "P-131",
+    "name": "Product 131",
+    "category": "Food",
+    "sku": "SKU-131",
+    "unit_cost": 68.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-31"
+  },
+  {
+    "id": "P-132",
+    "name": "Product 132",
+    "category": "Electronics",
+    "sku": "SKU-132",
+    "unit_cost": 69.4,
+    "weight_kg": 5.1,
+    "criticality": "high",
+    "supplier_id": "SUP-32"
+  },
+  {
+    "id": "P-133",
+    "name": "Product 133",
+    "category": "Apparel",
+    "sku": "SKU-133",
+    "unit_cost": 69.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-33"
+  },
+  {
+    "id": "P-134",
+    "name": "Product 134",
+    "category": "Home",
+    "sku": "SKU-134",
+    "unit_cost": 70.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-34"
+  },
+  {
+    "id": "P-135",
+    "name": "Product 135",
+    "category": "Food",
+    "sku": "SKU-135",
+    "unit_cost": 70.75,
+    "weight_kg": 6.3,
+    "criticality": "high",
+    "supplier_id": "SUP-35"
+  },
+  {
+    "id": "P-136",
+    "name": "Product 136",
+    "category": "Electronics",
+    "sku": "SKU-136",
+    "unit_cost": 71.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-36"
+  },
+  {
+    "id": "P-137",
+    "name": "Product 137",
+    "category": "Apparel",
+    "sku": "SKU-137",
+    "unit_cost": 71.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-37"
+  },
+  {
+    "id": "P-138",
+    "name": "Product 138",
+    "category": "Home",
+    "sku": "SKU-138",
+    "unit_cost": 72.1,
+    "weight_kg": 7.5,
+    "criticality": "high",
+    "supplier_id": "SUP-38"
+  },
+  {
+    "id": "P-139",
+    "name": "Product 139",
+    "category": "Food",
+    "sku": "SKU-139",
+    "unit_cost": 72.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-39"
+  },
+  {
+    "id": "P-140",
+    "name": "Product 140",
+    "category": "Electronics",
+    "sku": "SKU-140",
+    "unit_cost": 73.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-40"
+  },
+  {
+    "id": "P-141",
+    "name": "Product 141",
+    "category": "Apparel",
+    "sku": "SKU-141",
+    "unit_cost": 73.45,
+    "weight_kg": 0.7,
+    "criticality": "high",
+    "supplier_id": "SUP-41"
+  },
+  {
+    "id": "P-142",
+    "name": "Product 142",
+    "category": "Home",
+    "sku": "SKU-142",
+    "unit_cost": 73.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-42"
+  },
+  {
+    "id": "P-143",
+    "name": "Product 143",
+    "category": "Food",
+    "sku": "SKU-143",
+    "unit_cost": 74.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-43"
+  },
+  {
+    "id": "P-144",
+    "name": "Product 144",
+    "category": "Electronics",
+    "sku": "SKU-144",
+    "unit_cost": 74.8,
+    "weight_kg": 1.9,
+    "criticality": "high",
+    "supplier_id": "SUP-44"
+  },
+  {
+    "id": "P-145",
+    "name": "Product 145",
+    "category": "Apparel",
+    "sku": "SKU-145",
+    "unit_cost": 75.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-45"
+  },
+  {
+    "id": "P-146",
+    "name": "Product 146",
+    "category": "Home",
+    "sku": "SKU-146",
+    "unit_cost": 75.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-46"
+  },
+  {
+    "id": "P-147",
+    "name": "Product 147",
+    "category": "Food",
+    "sku": "SKU-147",
+    "unit_cost": 76.15,
+    "weight_kg": 3.1,
+    "criticality": "high",
+    "supplier_id": "SUP-47"
+  },
+  {
+    "id": "P-148",
+    "name": "Product 148",
+    "category": "Electronics",
+    "sku": "SKU-148",
+    "unit_cost": 76.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-48"
+  },
+  {
+    "id": "P-149",
+    "name": "Product 149",
+    "category": "Apparel",
+    "sku": "SKU-149",
+    "unit_cost": 77.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-49"
+  },
+  {
+    "id": "P-150",
+    "name": "Product 150",
+    "category": "Home",
+    "sku": "SKU-150",
+    "unit_cost": 77.5,
+    "weight_kg": 4.3,
+    "criticality": "high",
+    "supplier_id": "SUP-50"
+  },
+  {
+    "id": "P-151",
+    "name": "Product 151",
+    "category": "Food",
+    "sku": "SKU-151",
+    "unit_cost": 77.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-51"
+  },
+  {
+    "id": "P-152",
+    "name": "Product 152",
+    "category": "Electronics",
+    "sku": "SKU-152",
+    "unit_cost": 78.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-52"
+  },
+  {
+    "id": "P-153",
+    "name": "Product 153",
+    "category": "Apparel",
+    "sku": "SKU-153",
+    "unit_cost": 78.85,
+    "weight_kg": 5.5,
+    "criticality": "high",
+    "supplier_id": "SUP-53"
+  },
+  {
+    "id": "P-154",
+    "name": "Product 154",
+    "category": "Home",
+    "sku": "SKU-154",
+    "unit_cost": 79.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-54"
+  },
+  {
+    "id": "P-155",
+    "name": "Product 155",
+    "category": "Food",
+    "sku": "SKU-155",
+    "unit_cost": 79.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-55"
+  },
+  {
+    "id": "P-156",
+    "name": "Product 156",
+    "category": "Electronics",
+    "sku": "SKU-156",
+    "unit_cost": 80.2,
+    "weight_kg": 6.7,
+    "criticality": "high",
+    "supplier_id": "SUP-56"
+  },
+  {
+    "id": "P-157",
+    "name": "Product 157",
+    "category": "Apparel",
+    "sku": "SKU-157",
+    "unit_cost": 80.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-57"
+  },
+  {
+    "id": "P-158",
+    "name": "Product 158",
+    "category": "Home",
+    "sku": "SKU-158",
+    "unit_cost": 81.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-58"
+  },
+  {
+    "id": "P-159",
+    "name": "Product 159",
+    "category": "Food",
+    "sku": "SKU-159",
+    "unit_cost": 81.55,
+    "weight_kg": 7.9,
+    "criticality": "high",
+    "supplier_id": "SUP-59"
+  },
+  {
+    "id": "P-160",
+    "name": "Product 160",
+    "category": "Electronics",
+    "sku": "SKU-160",
+    "unit_cost": 82.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-60"
+  },
+  {
+    "id": "P-161",
+    "name": "Product 161",
+    "category": "Apparel",
+    "sku": "SKU-161",
+    "unit_cost": 82.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-61"
+  },
+  {
+    "id": "P-162",
+    "name": "Product 162",
+    "category": "Home",
+    "sku": "SKU-162",
+    "unit_cost": 82.9,
+    "weight_kg": 1.1,
+    "criticality": "high",
+    "supplier_id": "SUP-62"
+  },
+  {
+    "id": "P-163",
+    "name": "Product 163",
+    "category": "Food",
+    "sku": "SKU-163",
+    "unit_cost": 83.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-63"
+  },
+  {
+    "id": "P-164",
+    "name": "Product 164",
+    "category": "Electronics",
+    "sku": "SKU-164",
+    "unit_cost": 83.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-64"
+  },
+  {
+    "id": "P-165",
+    "name": "Product 165",
+    "category": "Apparel",
+    "sku": "SKU-165",
+    "unit_cost": 84.25,
+    "weight_kg": 2.3,
+    "criticality": "high",
+    "supplier_id": "SUP-65"
+  },
+  {
+    "id": "P-166",
+    "name": "Product 166",
+    "category": "Home",
+    "sku": "SKU-166",
+    "unit_cost": 84.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-66"
+  },
+  {
+    "id": "P-167",
+    "name": "Product 167",
+    "category": "Food",
+    "sku": "SKU-167",
+    "unit_cost": 85.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-67"
+  },
+  {
+    "id": "P-168",
+    "name": "Product 168",
+    "category": "Electronics",
+    "sku": "SKU-168",
+    "unit_cost": 85.6,
+    "weight_kg": 3.5,
+    "criticality": "high",
+    "supplier_id": "SUP-68"
+  },
+  {
+    "id": "P-169",
+    "name": "Product 169",
+    "category": "Apparel",
+    "sku": "SKU-169",
+    "unit_cost": 86.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-69"
+  },
+  {
+    "id": "P-170",
+    "name": "Product 170",
+    "category": "Home",
+    "sku": "SKU-170",
+    "unit_cost": 86.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-70"
+  },
+  {
+    "id": "P-171",
+    "name": "Product 171",
+    "category": "Food",
+    "sku": "SKU-171",
+    "unit_cost": 86.95,
+    "weight_kg": 4.7,
+    "criticality": "high",
+    "supplier_id": "SUP-71"
+  },
+  {
+    "id": "P-172",
+    "name": "Product 172",
+    "category": "Electronics",
+    "sku": "SKU-172",
+    "unit_cost": 87.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-72"
+  },
+  {
+    "id": "P-173",
+    "name": "Product 173",
+    "category": "Apparel",
+    "sku": "SKU-173",
+    "unit_cost": 87.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-73"
+  },
+  {
+    "id": "P-174",
+    "name": "Product 174",
+    "category": "Home",
+    "sku": "SKU-174",
+    "unit_cost": 88.3,
+    "weight_kg": 5.9,
+    "criticality": "high",
+    "supplier_id": "SUP-74"
+  },
+  {
+    "id": "P-175",
+    "name": "Product 175",
+    "category": "Food",
+    "sku": "SKU-175",
+    "unit_cost": 88.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-75"
+  },
+  {
+    "id": "P-176",
+    "name": "Product 176",
+    "category": "Electronics",
+    "sku": "SKU-176",
+    "unit_cost": 89.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-76"
+  },
+  {
+    "id": "P-177",
+    "name": "Product 177",
+    "category": "Apparel",
+    "sku": "SKU-177",
+    "unit_cost": 89.65,
+    "weight_kg": 7.1,
+    "criticality": "high",
+    "supplier_id": "SUP-77"
+  },
+  {
+    "id": "P-178",
+    "name": "Product 178",
+    "category": "Home",
+    "sku": "SKU-178",
+    "unit_cost": 90.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-78"
+  },
+  {
+    "id": "P-179",
+    "name": "Product 179",
+    "category": "Food",
+    "sku": "SKU-179",
+    "unit_cost": 90.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-79"
+  },
+  {
+    "id": "P-180",
+    "name": "Product 180",
+    "category": "Electronics",
+    "sku": "SKU-180",
+    "unit_cost": 91.0,
+    "weight_kg": 0.3,
+    "criticality": "high",
+    "supplier_id": "SUP-80"
+  },
+  {
+    "id": "P-181",
+    "name": "Product 181",
+    "category": "Apparel",
+    "sku": "SKU-181",
+    "unit_cost": 91.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-81"
+  },
+  {
+    "id": "P-182",
+    "name": "Product 182",
+    "category": "Home",
+    "sku": "SKU-182",
+    "unit_cost": 91.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-82"
+  },
+  {
+    "id": "P-183",
+    "name": "Product 183",
+    "category": "Food",
+    "sku": "SKU-183",
+    "unit_cost": 92.35,
+    "weight_kg": 1.5,
+    "criticality": "high",
+    "supplier_id": "SUP-83"
+  },
+  {
+    "id": "P-184",
+    "name": "Product 184",
+    "category": "Electronics",
+    "sku": "SKU-184",
+    "unit_cost": 92.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-84"
+  },
+  {
+    "id": "P-185",
+    "name": "Product 185",
+    "category": "Apparel",
+    "sku": "SKU-185",
+    "unit_cost": 93.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-85"
+  },
+  {
+    "id": "P-186",
+    "name": "Product 186",
+    "category": "Home",
+    "sku": "SKU-186",
+    "unit_cost": 93.7,
+    "weight_kg": 2.7,
+    "criticality": "high",
+    "supplier_id": "SUP-86"
+  },
+  {
+    "id": "P-187",
+    "name": "Product 187",
+    "category": "Food",
+    "sku": "SKU-187",
+    "unit_cost": 94.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-87"
+  },
+  {
+    "id": "P-188",
+    "name": "Product 188",
+    "category": "Electronics",
+    "sku": "SKU-188",
+    "unit_cost": 94.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-88"
+  },
+  {
+    "id": "P-189",
+    "name": "Product 189",
+    "category": "Apparel",
+    "sku": "SKU-189",
+    "unit_cost": 95.05,
+    "weight_kg": 3.9,
+    "criticality": "high",
+    "supplier_id": "SUP-89"
+  },
+  {
+    "id": "P-190",
+    "name": "Product 190",
+    "category": "Home",
+    "sku": "SKU-190",
+    "unit_cost": 95.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-90"
+  },
+  {
+    "id": "P-191",
+    "name": "Product 191",
+    "category": "Food",
+    "sku": "SKU-191",
+    "unit_cost": 95.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-91"
+  },
+  {
+    "id": "P-192",
+    "name": "Product 192",
+    "category": "Electronics",
+    "sku": "SKU-192",
+    "unit_cost": 96.4,
+    "weight_kg": 5.1,
+    "criticality": "high",
+    "supplier_id": "SUP-92"
+  },
+  {
+    "id": "P-193",
+    "name": "Product 193",
+    "category": "Apparel",
+    "sku": "SKU-193",
+    "unit_cost": 96.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-93"
+  },
+  {
+    "id": "P-194",
+    "name": "Product 194",
+    "category": "Home",
+    "sku": "SKU-194",
+    "unit_cost": 97.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-94"
+  },
+  {
+    "id": "P-195",
+    "name": "Product 195",
+    "category": "Food",
+    "sku": "SKU-195",
+    "unit_cost": 97.75,
+    "weight_kg": 6.3,
+    "criticality": "high",
+    "supplier_id": "SUP-95"
+  },
+  {
+    "id": "P-196",
+    "name": "Product 196",
+    "category": "Electronics",
+    "sku": "SKU-196",
+    "unit_cost": 98.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-96"
+  },
+  {
+    "id": "P-197",
+    "name": "Product 197",
+    "category": "Apparel",
+    "sku": "SKU-197",
+    "unit_cost": 98.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-97"
+  },
+  {
+    "id": "P-198",
+    "name": "Product 198",
+    "category": "Home",
+    "sku": "SKU-198",
+    "unit_cost": 99.1,
+    "weight_kg": 7.5,
+    "criticality": "high",
+    "supplier_id": "SUP-98"
+  },
+  {
+    "id": "P-199",
+    "name": "Product 199",
+    "category": "Food",
+    "sku": "SKU-199",
+    "unit_cost": 99.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-99"
+  },
+  {
+    "id": "P-200",
+    "name": "Product 200",
+    "category": "Electronics",
+    "sku": "SKU-200",
+    "unit_cost": 100.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-100"
+  },
+  {
+    "id": "P-201",
+    "name": "Product 201",
+    "category": "Apparel",
+    "sku": "SKU-201",
+    "unit_cost": 100.45,
+    "weight_kg": 0.7,
+    "criticality": "high",
+    "supplier_id": "SUP-1"
+  },
+  {
+    "id": "P-202",
+    "name": "Product 202",
+    "category": "Home",
+    "sku": "SKU-202",
+    "unit_cost": 100.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-2"
+  },
+  {
+    "id": "P-203",
+    "name": "Product 203",
+    "category": "Food",
+    "sku": "SKU-203",
+    "unit_cost": 101.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-3"
+  },
+  {
+    "id": "P-204",
+    "name": "Product 204",
+    "category": "Electronics",
+    "sku": "SKU-204",
+    "unit_cost": 101.8,
+    "weight_kg": 1.9,
+    "criticality": "high",
+    "supplier_id": "SUP-4"
+  },
+  {
+    "id": "P-205",
+    "name": "Product 205",
+    "category": "Apparel",
+    "sku": "SKU-205",
+    "unit_cost": 102.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-5"
+  },
+  {
+    "id": "P-206",
+    "name": "Product 206",
+    "category": "Home",
+    "sku": "SKU-206",
+    "unit_cost": 102.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-6"
+  },
+  {
+    "id": "P-207",
+    "name": "Product 207",
+    "category": "Food",
+    "sku": "SKU-207",
+    "unit_cost": 103.15,
+    "weight_kg": 3.1,
+    "criticality": "high",
+    "supplier_id": "SUP-7"
+  },
+  {
+    "id": "P-208",
+    "name": "Product 208",
+    "category": "Electronics",
+    "sku": "SKU-208",
+    "unit_cost": 103.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-8"
+  },
+  {
+    "id": "P-209",
+    "name": "Product 209",
+    "category": "Apparel",
+    "sku": "SKU-209",
+    "unit_cost": 104.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-9"
+  },
+  {
+    "id": "P-210",
+    "name": "Product 210",
+    "category": "Home",
+    "sku": "SKU-210",
+    "unit_cost": 104.5,
+    "weight_kg": 4.3,
+    "criticality": "high",
+    "supplier_id": "SUP-10"
+  },
+  {
+    "id": "P-211",
+    "name": "Product 211",
+    "category": "Food",
+    "sku": "SKU-211",
+    "unit_cost": 104.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-11"
+  },
+  {
+    "id": "P-212",
+    "name": "Product 212",
+    "category": "Electronics",
+    "sku": "SKU-212",
+    "unit_cost": 105.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-12"
+  },
+  {
+    "id": "P-213",
+    "name": "Product 213",
+    "category": "Apparel",
+    "sku": "SKU-213",
+    "unit_cost": 105.85,
+    "weight_kg": 5.5,
+    "criticality": "high",
+    "supplier_id": "SUP-13"
+  },
+  {
+    "id": "P-214",
+    "name": "Product 214",
+    "category": "Home",
+    "sku": "SKU-214",
+    "unit_cost": 106.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-14"
+  },
+  {
+    "id": "P-215",
+    "name": "Product 215",
+    "category": "Food",
+    "sku": "SKU-215",
+    "unit_cost": 106.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-15"
+  },
+  {
+    "id": "P-216",
+    "name": "Product 216",
+    "category": "Electronics",
+    "sku": "SKU-216",
+    "unit_cost": 107.2,
+    "weight_kg": 6.7,
+    "criticality": "high",
+    "supplier_id": "SUP-16"
+  },
+  {
+    "id": "P-217",
+    "name": "Product 217",
+    "category": "Apparel",
+    "sku": "SKU-217",
+    "unit_cost": 107.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-17"
+  },
+  {
+    "id": "P-218",
+    "name": "Product 218",
+    "category": "Home",
+    "sku": "SKU-218",
+    "unit_cost": 108.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-18"
+  },
+  {
+    "id": "P-219",
+    "name": "Product 219",
+    "category": "Food",
+    "sku": "SKU-219",
+    "unit_cost": 108.55,
+    "weight_kg": 7.9,
+    "criticality": "high",
+    "supplier_id": "SUP-19"
+  },
+  {
+    "id": "P-220",
+    "name": "Product 220",
+    "category": "Electronics",
+    "sku": "SKU-220",
+    "unit_cost": 109.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-20"
+  },
+  {
+    "id": "P-221",
+    "name": "Product 221",
+    "category": "Apparel",
+    "sku": "SKU-221",
+    "unit_cost": 109.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-21"
+  },
+  {
+    "id": "P-222",
+    "name": "Product 222",
+    "category": "Home",
+    "sku": "SKU-222",
+    "unit_cost": 109.9,
+    "weight_kg": 1.1,
+    "criticality": "high",
+    "supplier_id": "SUP-22"
+  },
+  {
+    "id": "P-223",
+    "name": "Product 223",
+    "category": "Food",
+    "sku": "SKU-223",
+    "unit_cost": 110.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-23"
+  },
+  {
+    "id": "P-224",
+    "name": "Product 224",
+    "category": "Electronics",
+    "sku": "SKU-224",
+    "unit_cost": 110.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-24"
+  },
+  {
+    "id": "P-225",
+    "name": "Product 225",
+    "category": "Apparel",
+    "sku": "SKU-225",
+    "unit_cost": 111.25,
+    "weight_kg": 2.3,
+    "criticality": "high",
+    "supplier_id": "SUP-25"
+  },
+  {
+    "id": "P-226",
+    "name": "Product 226",
+    "category": "Home",
+    "sku": "SKU-226",
+    "unit_cost": 111.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-26"
+  },
+  {
+    "id": "P-227",
+    "name": "Product 227",
+    "category": "Food",
+    "sku": "SKU-227",
+    "unit_cost": 112.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-27"
+  },
+  {
+    "id": "P-228",
+    "name": "Product 228",
+    "category": "Electronics",
+    "sku": "SKU-228",
+    "unit_cost": 112.6,
+    "weight_kg": 3.5,
+    "criticality": "high",
+    "supplier_id": "SUP-28"
+  },
+  {
+    "id": "P-229",
+    "name": "Product 229",
+    "category": "Apparel",
+    "sku": "SKU-229",
+    "unit_cost": 113.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-29"
+  },
+  {
+    "id": "P-230",
+    "name": "Product 230",
+    "category": "Home",
+    "sku": "SKU-230",
+    "unit_cost": 113.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-30"
+  },
+  {
+    "id": "P-231",
+    "name": "Product 231",
+    "category": "Food",
+    "sku": "SKU-231",
+    "unit_cost": 113.95,
+    "weight_kg": 4.7,
+    "criticality": "high",
+    "supplier_id": "SUP-31"
+  },
+  {
+    "id": "P-232",
+    "name": "Product 232",
+    "category": "Electronics",
+    "sku": "SKU-232",
+    "unit_cost": 114.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-32"
+  },
+  {
+    "id": "P-233",
+    "name": "Product 233",
+    "category": "Apparel",
+    "sku": "SKU-233",
+    "unit_cost": 114.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-33"
+  },
+  {
+    "id": "P-234",
+    "name": "Product 234",
+    "category": "Home",
+    "sku": "SKU-234",
+    "unit_cost": 115.3,
+    "weight_kg": 5.9,
+    "criticality": "high",
+    "supplier_id": "SUP-34"
+  },
+  {
+    "id": "P-235",
+    "name": "Product 235",
+    "category": "Food",
+    "sku": "SKU-235",
+    "unit_cost": 115.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-35"
+  },
+  {
+    "id": "P-236",
+    "name": "Product 236",
+    "category": "Electronics",
+    "sku": "SKU-236",
+    "unit_cost": 116.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-36"
+  },
+  {
+    "id": "P-237",
+    "name": "Product 237",
+    "category": "Apparel",
+    "sku": "SKU-237",
+    "unit_cost": 116.65,
+    "weight_kg": 7.1,
+    "criticality": "high",
+    "supplier_id": "SUP-37"
+  },
+  {
+    "id": "P-238",
+    "name": "Product 238",
+    "category": "Home",
+    "sku": "SKU-238",
+    "unit_cost": 117.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-38"
+  },
+  {
+    "id": "P-239",
+    "name": "Product 239",
+    "category": "Food",
+    "sku": "SKU-239",
+    "unit_cost": 117.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-39"
+  },
+  {
+    "id": "P-240",
+    "name": "Product 240",
+    "category": "Electronics",
+    "sku": "SKU-240",
+    "unit_cost": 118.0,
+    "weight_kg": 0.3,
+    "criticality": "high",
+    "supplier_id": "SUP-40"
+  },
+  {
+    "id": "P-241",
+    "name": "Product 241",
+    "category": "Apparel",
+    "sku": "SKU-241",
+    "unit_cost": 118.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-41"
+  },
+  {
+    "id": "P-242",
+    "name": "Product 242",
+    "category": "Home",
+    "sku": "SKU-242",
+    "unit_cost": 118.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-42"
+  },
+  {
+    "id": "P-243",
+    "name": "Product 243",
+    "category": "Food",
+    "sku": "SKU-243",
+    "unit_cost": 119.35,
+    "weight_kg": 1.5,
+    "criticality": "high",
+    "supplier_id": "SUP-43"
+  },
+  {
+    "id": "P-244",
+    "name": "Product 244",
+    "category": "Electronics",
+    "sku": "SKU-244",
+    "unit_cost": 119.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-44"
+  },
+  {
+    "id": "P-245",
+    "name": "Product 245",
+    "category": "Apparel",
+    "sku": "SKU-245",
+    "unit_cost": 120.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-45"
+  },
+  {
+    "id": "P-246",
+    "name": "Product 246",
+    "category": "Home",
+    "sku": "SKU-246",
+    "unit_cost": 120.7,
+    "weight_kg": 2.7,
+    "criticality": "high",
+    "supplier_id": "SUP-46"
+  },
+  {
+    "id": "P-247",
+    "name": "Product 247",
+    "category": "Food",
+    "sku": "SKU-247",
+    "unit_cost": 121.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-47"
+  },
+  {
+    "id": "P-248",
+    "name": "Product 248",
+    "category": "Electronics",
+    "sku": "SKU-248",
+    "unit_cost": 121.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-48"
+  },
+  {
+    "id": "P-249",
+    "name": "Product 249",
+    "category": "Apparel",
+    "sku": "SKU-249",
+    "unit_cost": 122.05,
+    "weight_kg": 3.9,
+    "criticality": "high",
+    "supplier_id": "SUP-49"
+  },
+  {
+    "id": "P-250",
+    "name": "Product 250",
+    "category": "Home",
+    "sku": "SKU-250",
+    "unit_cost": 122.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-50"
+  },
+  {
+    "id": "P-251",
+    "name": "Product 251",
+    "category": "Food",
+    "sku": "SKU-251",
+    "unit_cost": 122.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-51"
+  },
+  {
+    "id": "P-252",
+    "name": "Product 252",
+    "category": "Electronics",
+    "sku": "SKU-252",
+    "unit_cost": 123.4,
+    "weight_kg": 5.1,
+    "criticality": "high",
+    "supplier_id": "SUP-52"
+  },
+  {
+    "id": "P-253",
+    "name": "Product 253",
+    "category": "Apparel",
+    "sku": "SKU-253",
+    "unit_cost": 123.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-53"
+  },
+  {
+    "id": "P-254",
+    "name": "Product 254",
+    "category": "Home",
+    "sku": "SKU-254",
+    "unit_cost": 124.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-54"
+  },
+  {
+    "id": "P-255",
+    "name": "Product 255",
+    "category": "Food",
+    "sku": "SKU-255",
+    "unit_cost": 124.75,
+    "weight_kg": 6.3,
+    "criticality": "high",
+    "supplier_id": "SUP-55"
+  },
+  {
+    "id": "P-256",
+    "name": "Product 256",
+    "category": "Electronics",
+    "sku": "SKU-256",
+    "unit_cost": 125.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-56"
+  },
+  {
+    "id": "P-257",
+    "name": "Product 257",
+    "category": "Apparel",
+    "sku": "SKU-257",
+    "unit_cost": 125.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-57"
+  },
+  {
+    "id": "P-258",
+    "name": "Product 258",
+    "category": "Home",
+    "sku": "SKU-258",
+    "unit_cost": 126.1,
+    "weight_kg": 7.5,
+    "criticality": "high",
+    "supplier_id": "SUP-58"
+  },
+  {
+    "id": "P-259",
+    "name": "Product 259",
+    "category": "Food",
+    "sku": "SKU-259",
+    "unit_cost": 126.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-59"
+  },
+  {
+    "id": "P-260",
+    "name": "Product 260",
+    "category": "Electronics",
+    "sku": "SKU-260",
+    "unit_cost": 127.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-60"
+  },
+  {
+    "id": "P-261",
+    "name": "Product 261",
+    "category": "Apparel",
+    "sku": "SKU-261",
+    "unit_cost": 127.45,
+    "weight_kg": 0.7,
+    "criticality": "high",
+    "supplier_id": "SUP-61"
+  },
+  {
+    "id": "P-262",
+    "name": "Product 262",
+    "category": "Home",
+    "sku": "SKU-262",
+    "unit_cost": 127.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-62"
+  },
+  {
+    "id": "P-263",
+    "name": "Product 263",
+    "category": "Food",
+    "sku": "SKU-263",
+    "unit_cost": 128.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-63"
+  },
+  {
+    "id": "P-264",
+    "name": "Product 264",
+    "category": "Electronics",
+    "sku": "SKU-264",
+    "unit_cost": 128.8,
+    "weight_kg": 1.9,
+    "criticality": "high",
+    "supplier_id": "SUP-64"
+  },
+  {
+    "id": "P-265",
+    "name": "Product 265",
+    "category": "Apparel",
+    "sku": "SKU-265",
+    "unit_cost": 129.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-65"
+  },
+  {
+    "id": "P-266",
+    "name": "Product 266",
+    "category": "Home",
+    "sku": "SKU-266",
+    "unit_cost": 129.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-66"
+  },
+  {
+    "id": "P-267",
+    "name": "Product 267",
+    "category": "Food",
+    "sku": "SKU-267",
+    "unit_cost": 130.15,
+    "weight_kg": 3.1,
+    "criticality": "high",
+    "supplier_id": "SUP-67"
+  },
+  {
+    "id": "P-268",
+    "name": "Product 268",
+    "category": "Electronics",
+    "sku": "SKU-268",
+    "unit_cost": 130.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-68"
+  },
+  {
+    "id": "P-269",
+    "name": "Product 269",
+    "category": "Apparel",
+    "sku": "SKU-269",
+    "unit_cost": 131.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-69"
+  },
+  {
+    "id": "P-270",
+    "name": "Product 270",
+    "category": "Home",
+    "sku": "SKU-270",
+    "unit_cost": 131.5,
+    "weight_kg": 4.3,
+    "criticality": "high",
+    "supplier_id": "SUP-70"
+  },
+  {
+    "id": "P-271",
+    "name": "Product 271",
+    "category": "Food",
+    "sku": "SKU-271",
+    "unit_cost": 131.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-71"
+  },
+  {
+    "id": "P-272",
+    "name": "Product 272",
+    "category": "Electronics",
+    "sku": "SKU-272",
+    "unit_cost": 132.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-72"
+  },
+  {
+    "id": "P-273",
+    "name": "Product 273",
+    "category": "Apparel",
+    "sku": "SKU-273",
+    "unit_cost": 132.85,
+    "weight_kg": 5.5,
+    "criticality": "high",
+    "supplier_id": "SUP-73"
+  },
+  {
+    "id": "P-274",
+    "name": "Product 274",
+    "category": "Home",
+    "sku": "SKU-274",
+    "unit_cost": 133.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-74"
+  },
+  {
+    "id": "P-275",
+    "name": "Product 275",
+    "category": "Food",
+    "sku": "SKU-275",
+    "unit_cost": 133.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-75"
+  },
+  {
+    "id": "P-276",
+    "name": "Product 276",
+    "category": "Electronics",
+    "sku": "SKU-276",
+    "unit_cost": 134.2,
+    "weight_kg": 6.7,
+    "criticality": "high",
+    "supplier_id": "SUP-76"
+  },
+  {
+    "id": "P-277",
+    "name": "Product 277",
+    "category": "Apparel",
+    "sku": "SKU-277",
+    "unit_cost": 134.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-77"
+  },
+  {
+    "id": "P-278",
+    "name": "Product 278",
+    "category": "Home",
+    "sku": "SKU-278",
+    "unit_cost": 135.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-78"
+  },
+  {
+    "id": "P-279",
+    "name": "Product 279",
+    "category": "Food",
+    "sku": "SKU-279",
+    "unit_cost": 135.55,
+    "weight_kg": 7.9,
+    "criticality": "high",
+    "supplier_id": "SUP-79"
+  },
+  {
+    "id": "P-280",
+    "name": "Product 280",
+    "category": "Electronics",
+    "sku": "SKU-280",
+    "unit_cost": 136.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-80"
+  },
+  {
+    "id": "P-281",
+    "name": "Product 281",
+    "category": "Apparel",
+    "sku": "SKU-281",
+    "unit_cost": 136.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-81"
+  },
+  {
+    "id": "P-282",
+    "name": "Product 282",
+    "category": "Home",
+    "sku": "SKU-282",
+    "unit_cost": 136.9,
+    "weight_kg": 1.1,
+    "criticality": "high",
+    "supplier_id": "SUP-82"
+  },
+  {
+    "id": "P-283",
+    "name": "Product 283",
+    "category": "Food",
+    "sku": "SKU-283",
+    "unit_cost": 137.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-83"
+  },
+  {
+    "id": "P-284",
+    "name": "Product 284",
+    "category": "Electronics",
+    "sku": "SKU-284",
+    "unit_cost": 137.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-84"
+  },
+  {
+    "id": "P-285",
+    "name": "Product 285",
+    "category": "Apparel",
+    "sku": "SKU-285",
+    "unit_cost": 138.25,
+    "weight_kg": 2.3,
+    "criticality": "high",
+    "supplier_id": "SUP-85"
+  },
+  {
+    "id": "P-286",
+    "name": "Product 286",
+    "category": "Home",
+    "sku": "SKU-286",
+    "unit_cost": 138.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-86"
+  },
+  {
+    "id": "P-287",
+    "name": "Product 287",
+    "category": "Food",
+    "sku": "SKU-287",
+    "unit_cost": 139.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-87"
+  },
+  {
+    "id": "P-288",
+    "name": "Product 288",
+    "category": "Electronics",
+    "sku": "SKU-288",
+    "unit_cost": 139.6,
+    "weight_kg": 3.5,
+    "criticality": "high",
+    "supplier_id": "SUP-88"
+  },
+  {
+    "id": "P-289",
+    "name": "Product 289",
+    "category": "Apparel",
+    "sku": "SKU-289",
+    "unit_cost": 140.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-89"
+  },
+  {
+    "id": "P-290",
+    "name": "Product 290",
+    "category": "Home",
+    "sku": "SKU-290",
+    "unit_cost": 140.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-90"
+  },
+  {
+    "id": "P-291",
+    "name": "Product 291",
+    "category": "Food",
+    "sku": "SKU-291",
+    "unit_cost": 140.95,
+    "weight_kg": 4.7,
+    "criticality": "high",
+    "supplier_id": "SUP-91"
+  },
+  {
+    "id": "P-292",
+    "name": "Product 292",
+    "category": "Electronics",
+    "sku": "SKU-292",
+    "unit_cost": 141.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-92"
+  },
+  {
+    "id": "P-293",
+    "name": "Product 293",
+    "category": "Apparel",
+    "sku": "SKU-293",
+    "unit_cost": 141.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-93"
+  },
+  {
+    "id": "P-294",
+    "name": "Product 294",
+    "category": "Home",
+    "sku": "SKU-294",
+    "unit_cost": 142.3,
+    "weight_kg": 5.9,
+    "criticality": "high",
+    "supplier_id": "SUP-94"
+  },
+  {
+    "id": "P-295",
+    "name": "Product 295",
+    "category": "Food",
+    "sku": "SKU-295",
+    "unit_cost": 142.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-95"
+  },
+  {
+    "id": "P-296",
+    "name": "Product 296",
+    "category": "Electronics",
+    "sku": "SKU-296",
+    "unit_cost": 143.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-96"
+  },
+  {
+    "id": "P-297",
+    "name": "Product 297",
+    "category": "Apparel",
+    "sku": "SKU-297",
+    "unit_cost": 143.65,
+    "weight_kg": 7.1,
+    "criticality": "high",
+    "supplier_id": "SUP-97"
+  },
+  {
+    "id": "P-298",
+    "name": "Product 298",
+    "category": "Home",
+    "sku": "SKU-298",
+    "unit_cost": 144.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-98"
+  },
+  {
+    "id": "P-299",
+    "name": "Product 299",
+    "category": "Food",
+    "sku": "SKU-299",
+    "unit_cost": 144.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-99"
+  },
+  {
+    "id": "P-300",
+    "name": "Product 300",
+    "category": "Electronics",
+    "sku": "SKU-300",
+    "unit_cost": 145.0,
+    "weight_kg": 0.3,
+    "criticality": "high",
+    "supplier_id": "SUP-100"
+  },
+  {
+    "id": "P-301",
+    "name": "Product 301",
+    "category": "Apparel",
+    "sku": "SKU-301",
+    "unit_cost": 145.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-1"
+  },
+  {
+    "id": "P-302",
+    "name": "Product 302",
+    "category": "Home",
+    "sku": "SKU-302",
+    "unit_cost": 145.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-2"
+  },
+  {
+    "id": "P-303",
+    "name": "Product 303",
+    "category": "Food",
+    "sku": "SKU-303",
+    "unit_cost": 146.35,
+    "weight_kg": 1.5,
+    "criticality": "high",
+    "supplier_id": "SUP-3"
+  },
+  {
+    "id": "P-304",
+    "name": "Product 304",
+    "category": "Electronics",
+    "sku": "SKU-304",
+    "unit_cost": 146.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-4"
+  },
+  {
+    "id": "P-305",
+    "name": "Product 305",
+    "category": "Apparel",
+    "sku": "SKU-305",
+    "unit_cost": 147.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-5"
+  },
+  {
+    "id": "P-306",
+    "name": "Product 306",
+    "category": "Home",
+    "sku": "SKU-306",
+    "unit_cost": 147.7,
+    "weight_kg": 2.7,
+    "criticality": "high",
+    "supplier_id": "SUP-6"
+  },
+  {
+    "id": "P-307",
+    "name": "Product 307",
+    "category": "Food",
+    "sku": "SKU-307",
+    "unit_cost": 148.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-7"
+  },
+  {
+    "id": "P-308",
+    "name": "Product 308",
+    "category": "Electronics",
+    "sku": "SKU-308",
+    "unit_cost": 148.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-8"
+  },
+  {
+    "id": "P-309",
+    "name": "Product 309",
+    "category": "Apparel",
+    "sku": "SKU-309",
+    "unit_cost": 149.05,
+    "weight_kg": 3.9,
+    "criticality": "high",
+    "supplier_id": "SUP-9"
+  },
+  {
+    "id": "P-310",
+    "name": "Product 310",
+    "category": "Home",
+    "sku": "SKU-310",
+    "unit_cost": 149.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-10"
+  },
+  {
+    "id": "P-311",
+    "name": "Product 311",
+    "category": "Food",
+    "sku": "SKU-311",
+    "unit_cost": 149.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-11"
+  },
+  {
+    "id": "P-312",
+    "name": "Product 312",
+    "category": "Electronics",
+    "sku": "SKU-312",
+    "unit_cost": 150.4,
+    "weight_kg": 5.1,
+    "criticality": "high",
+    "supplier_id": "SUP-12"
+  },
+  {
+    "id": "P-313",
+    "name": "Product 313",
+    "category": "Apparel",
+    "sku": "SKU-313",
+    "unit_cost": 150.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-13"
+  },
+  {
+    "id": "P-314",
+    "name": "Product 314",
+    "category": "Home",
+    "sku": "SKU-314",
+    "unit_cost": 151.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-14"
+  },
+  {
+    "id": "P-315",
+    "name": "Product 315",
+    "category": "Food",
+    "sku": "SKU-315",
+    "unit_cost": 151.75,
+    "weight_kg": 6.3,
+    "criticality": "high",
+    "supplier_id": "SUP-15"
+  },
+  {
+    "id": "P-316",
+    "name": "Product 316",
+    "category": "Electronics",
+    "sku": "SKU-316",
+    "unit_cost": 152.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-16"
+  },
+  {
+    "id": "P-317",
+    "name": "Product 317",
+    "category": "Apparel",
+    "sku": "SKU-317",
+    "unit_cost": 152.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-17"
+  },
+  {
+    "id": "P-318",
+    "name": "Product 318",
+    "category": "Home",
+    "sku": "SKU-318",
+    "unit_cost": 153.1,
+    "weight_kg": 7.5,
+    "criticality": "high",
+    "supplier_id": "SUP-18"
+  },
+  {
+    "id": "P-319",
+    "name": "Product 319",
+    "category": "Food",
+    "sku": "SKU-319",
+    "unit_cost": 153.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-19"
+  },
+  {
+    "id": "P-320",
+    "name": "Product 320",
+    "category": "Electronics",
+    "sku": "SKU-320",
+    "unit_cost": 154.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-20"
+  },
+  {
+    "id": "P-321",
+    "name": "Product 321",
+    "category": "Apparel",
+    "sku": "SKU-321",
+    "unit_cost": 154.45,
+    "weight_kg": 0.7,
+    "criticality": "high",
+    "supplier_id": "SUP-21"
+  },
+  {
+    "id": "P-322",
+    "name": "Product 322",
+    "category": "Home",
+    "sku": "SKU-322",
+    "unit_cost": 154.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-22"
+  },
+  {
+    "id": "P-323",
+    "name": "Product 323",
+    "category": "Food",
+    "sku": "SKU-323",
+    "unit_cost": 155.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-23"
+  },
+  {
+    "id": "P-324",
+    "name": "Product 324",
+    "category": "Electronics",
+    "sku": "SKU-324",
+    "unit_cost": 155.8,
+    "weight_kg": 1.9,
+    "criticality": "high",
+    "supplier_id": "SUP-24"
+  },
+  {
+    "id": "P-325",
+    "name": "Product 325",
+    "category": "Apparel",
+    "sku": "SKU-325",
+    "unit_cost": 156.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-25"
+  },
+  {
+    "id": "P-326",
+    "name": "Product 326",
+    "category": "Home",
+    "sku": "SKU-326",
+    "unit_cost": 156.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-26"
+  },
+  {
+    "id": "P-327",
+    "name": "Product 327",
+    "category": "Food",
+    "sku": "SKU-327",
+    "unit_cost": 157.15,
+    "weight_kg": 3.1,
+    "criticality": "high",
+    "supplier_id": "SUP-27"
+  },
+  {
+    "id": "P-328",
+    "name": "Product 328",
+    "category": "Electronics",
+    "sku": "SKU-328",
+    "unit_cost": 157.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-28"
+  },
+  {
+    "id": "P-329",
+    "name": "Product 329",
+    "category": "Apparel",
+    "sku": "SKU-329",
+    "unit_cost": 158.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-29"
+  },
+  {
+    "id": "P-330",
+    "name": "Product 330",
+    "category": "Home",
+    "sku": "SKU-330",
+    "unit_cost": 158.5,
+    "weight_kg": 4.3,
+    "criticality": "high",
+    "supplier_id": "SUP-30"
+  },
+  {
+    "id": "P-331",
+    "name": "Product 331",
+    "category": "Food",
+    "sku": "SKU-331",
+    "unit_cost": 158.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-31"
+  },
+  {
+    "id": "P-332",
+    "name": "Product 332",
+    "category": "Electronics",
+    "sku": "SKU-332",
+    "unit_cost": 159.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-32"
+  },
+  {
+    "id": "P-333",
+    "name": "Product 333",
+    "category": "Apparel",
+    "sku": "SKU-333",
+    "unit_cost": 159.85,
+    "weight_kg": 5.5,
+    "criticality": "high",
+    "supplier_id": "SUP-33"
+  },
+  {
+    "id": "P-334",
+    "name": "Product 334",
+    "category": "Home",
+    "sku": "SKU-334",
+    "unit_cost": 160.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-34"
+  },
+  {
+    "id": "P-335",
+    "name": "Product 335",
+    "category": "Food",
+    "sku": "SKU-335",
+    "unit_cost": 160.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-35"
+  },
+  {
+    "id": "P-336",
+    "name": "Product 336",
+    "category": "Electronics",
+    "sku": "SKU-336",
+    "unit_cost": 161.2,
+    "weight_kg": 6.7,
+    "criticality": "high",
+    "supplier_id": "SUP-36"
+  },
+  {
+    "id": "P-337",
+    "name": "Product 337",
+    "category": "Apparel",
+    "sku": "SKU-337",
+    "unit_cost": 161.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-37"
+  },
+  {
+    "id": "P-338",
+    "name": "Product 338",
+    "category": "Home",
+    "sku": "SKU-338",
+    "unit_cost": 162.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-38"
+  },
+  {
+    "id": "P-339",
+    "name": "Product 339",
+    "category": "Food",
+    "sku": "SKU-339",
+    "unit_cost": 162.55,
+    "weight_kg": 7.9,
+    "criticality": "high",
+    "supplier_id": "SUP-39"
+  },
+  {
+    "id": "P-340",
+    "name": "Product 340",
+    "category": "Electronics",
+    "sku": "SKU-340",
+    "unit_cost": 163.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-40"
+  },
+  {
+    "id": "P-341",
+    "name": "Product 341",
+    "category": "Apparel",
+    "sku": "SKU-341",
+    "unit_cost": 163.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-41"
+  },
+  {
+    "id": "P-342",
+    "name": "Product 342",
+    "category": "Home",
+    "sku": "SKU-342",
+    "unit_cost": 163.9,
+    "weight_kg": 1.1,
+    "criticality": "high",
+    "supplier_id": "SUP-42"
+  },
+  {
+    "id": "P-343",
+    "name": "Product 343",
+    "category": "Food",
+    "sku": "SKU-343",
+    "unit_cost": 164.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-43"
+  },
+  {
+    "id": "P-344",
+    "name": "Product 344",
+    "category": "Electronics",
+    "sku": "SKU-344",
+    "unit_cost": 164.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-44"
+  },
+  {
+    "id": "P-345",
+    "name": "Product 345",
+    "category": "Apparel",
+    "sku": "SKU-345",
+    "unit_cost": 165.25,
+    "weight_kg": 2.3,
+    "criticality": "high",
+    "supplier_id": "SUP-45"
+  },
+  {
+    "id": "P-346",
+    "name": "Product 346",
+    "category": "Home",
+    "sku": "SKU-346",
+    "unit_cost": 165.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-46"
+  },
+  {
+    "id": "P-347",
+    "name": "Product 347",
+    "category": "Food",
+    "sku": "SKU-347",
+    "unit_cost": 166.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-47"
+  },
+  {
+    "id": "P-348",
+    "name": "Product 348",
+    "category": "Electronics",
+    "sku": "SKU-348",
+    "unit_cost": 166.6,
+    "weight_kg": 3.5,
+    "criticality": "high",
+    "supplier_id": "SUP-48"
+  },
+  {
+    "id": "P-349",
+    "name": "Product 349",
+    "category": "Apparel",
+    "sku": "SKU-349",
+    "unit_cost": 167.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-49"
+  },
+  {
+    "id": "P-350",
+    "name": "Product 350",
+    "category": "Home",
+    "sku": "SKU-350",
+    "unit_cost": 167.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-50"
+  },
+  {
+    "id": "P-351",
+    "name": "Product 351",
+    "category": "Food",
+    "sku": "SKU-351",
+    "unit_cost": 167.95,
+    "weight_kg": 4.7,
+    "criticality": "high",
+    "supplier_id": "SUP-51"
+  },
+  {
+    "id": "P-352",
+    "name": "Product 352",
+    "category": "Electronics",
+    "sku": "SKU-352",
+    "unit_cost": 168.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-52"
+  },
+  {
+    "id": "P-353",
+    "name": "Product 353",
+    "category": "Apparel",
+    "sku": "SKU-353",
+    "unit_cost": 168.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-53"
+  },
+  {
+    "id": "P-354",
+    "name": "Product 354",
+    "category": "Home",
+    "sku": "SKU-354",
+    "unit_cost": 169.3,
+    "weight_kg": 5.9,
+    "criticality": "high",
+    "supplier_id": "SUP-54"
+  },
+  {
+    "id": "P-355",
+    "name": "Product 355",
+    "category": "Food",
+    "sku": "SKU-355",
+    "unit_cost": 169.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-55"
+  },
+  {
+    "id": "P-356",
+    "name": "Product 356",
+    "category": "Electronics",
+    "sku": "SKU-356",
+    "unit_cost": 170.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-56"
+  },
+  {
+    "id": "P-357",
+    "name": "Product 357",
+    "category": "Apparel",
+    "sku": "SKU-357",
+    "unit_cost": 170.65,
+    "weight_kg": 7.1,
+    "criticality": "high",
+    "supplier_id": "SUP-57"
+  },
+  {
+    "id": "P-358",
+    "name": "Product 358",
+    "category": "Home",
+    "sku": "SKU-358",
+    "unit_cost": 171.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-58"
+  },
+  {
+    "id": "P-359",
+    "name": "Product 359",
+    "category": "Food",
+    "sku": "SKU-359",
+    "unit_cost": 171.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-59"
+  },
+  {
+    "id": "P-360",
+    "name": "Product 360",
+    "category": "Electronics",
+    "sku": "SKU-360",
+    "unit_cost": 172.0,
+    "weight_kg": 0.3,
+    "criticality": "high",
+    "supplier_id": "SUP-60"
+  },
+  {
+    "id": "P-361",
+    "name": "Product 361",
+    "category": "Apparel",
+    "sku": "SKU-361",
+    "unit_cost": 172.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-61"
+  },
+  {
+    "id": "P-362",
+    "name": "Product 362",
+    "category": "Home",
+    "sku": "SKU-362",
+    "unit_cost": 172.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-62"
+  },
+  {
+    "id": "P-363",
+    "name": "Product 363",
+    "category": "Food",
+    "sku": "SKU-363",
+    "unit_cost": 173.35,
+    "weight_kg": 1.5,
+    "criticality": "high",
+    "supplier_id": "SUP-63"
+  },
+  {
+    "id": "P-364",
+    "name": "Product 364",
+    "category": "Electronics",
+    "sku": "SKU-364",
+    "unit_cost": 173.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-64"
+  },
+  {
+    "id": "P-365",
+    "name": "Product 365",
+    "category": "Apparel",
+    "sku": "SKU-365",
+    "unit_cost": 174.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-65"
+  },
+  {
+    "id": "P-366",
+    "name": "Product 366",
+    "category": "Home",
+    "sku": "SKU-366",
+    "unit_cost": 174.7,
+    "weight_kg": 2.7,
+    "criticality": "high",
+    "supplier_id": "SUP-66"
+  },
+  {
+    "id": "P-367",
+    "name": "Product 367",
+    "category": "Food",
+    "sku": "SKU-367",
+    "unit_cost": 175.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-67"
+  },
+  {
+    "id": "P-368",
+    "name": "Product 368",
+    "category": "Electronics",
+    "sku": "SKU-368",
+    "unit_cost": 175.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-68"
+  },
+  {
+    "id": "P-369",
+    "name": "Product 369",
+    "category": "Apparel",
+    "sku": "SKU-369",
+    "unit_cost": 176.05,
+    "weight_kg": 3.9,
+    "criticality": "high",
+    "supplier_id": "SUP-69"
+  },
+  {
+    "id": "P-370",
+    "name": "Product 370",
+    "category": "Home",
+    "sku": "SKU-370",
+    "unit_cost": 176.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-70"
+  },
+  {
+    "id": "P-371",
+    "name": "Product 371",
+    "category": "Food",
+    "sku": "SKU-371",
+    "unit_cost": 176.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-71"
+  },
+  {
+    "id": "P-372",
+    "name": "Product 372",
+    "category": "Electronics",
+    "sku": "SKU-372",
+    "unit_cost": 177.4,
+    "weight_kg": 5.1,
+    "criticality": "high",
+    "supplier_id": "SUP-72"
+  },
+  {
+    "id": "P-373",
+    "name": "Product 373",
+    "category": "Apparel",
+    "sku": "SKU-373",
+    "unit_cost": 177.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-73"
+  },
+  {
+    "id": "P-374",
+    "name": "Product 374",
+    "category": "Home",
+    "sku": "SKU-374",
+    "unit_cost": 178.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-74"
+  },
+  {
+    "id": "P-375",
+    "name": "Product 375",
+    "category": "Food",
+    "sku": "SKU-375",
+    "unit_cost": 178.75,
+    "weight_kg": 6.3,
+    "criticality": "high",
+    "supplier_id": "SUP-75"
+  },
+  {
+    "id": "P-376",
+    "name": "Product 376",
+    "category": "Electronics",
+    "sku": "SKU-376",
+    "unit_cost": 179.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-76"
+  },
+  {
+    "id": "P-377",
+    "name": "Product 377",
+    "category": "Apparel",
+    "sku": "SKU-377",
+    "unit_cost": 179.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-77"
+  },
+  {
+    "id": "P-378",
+    "name": "Product 378",
+    "category": "Home",
+    "sku": "SKU-378",
+    "unit_cost": 180.1,
+    "weight_kg": 7.5,
+    "criticality": "high",
+    "supplier_id": "SUP-78"
+  },
+  {
+    "id": "P-379",
+    "name": "Product 379",
+    "category": "Food",
+    "sku": "SKU-379",
+    "unit_cost": 180.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-79"
+  },
+  {
+    "id": "P-380",
+    "name": "Product 380",
+    "category": "Electronics",
+    "sku": "SKU-380",
+    "unit_cost": 181.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-80"
+  },
+  {
+    "id": "P-381",
+    "name": "Product 381",
+    "category": "Apparel",
+    "sku": "SKU-381",
+    "unit_cost": 181.45,
+    "weight_kg": 0.7,
+    "criticality": "high",
+    "supplier_id": "SUP-81"
+  },
+  {
+    "id": "P-382",
+    "name": "Product 382",
+    "category": "Home",
+    "sku": "SKU-382",
+    "unit_cost": 181.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-82"
+  },
+  {
+    "id": "P-383",
+    "name": "Product 383",
+    "category": "Food",
+    "sku": "SKU-383",
+    "unit_cost": 182.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-83"
+  },
+  {
+    "id": "P-384",
+    "name": "Product 384",
+    "category": "Electronics",
+    "sku": "SKU-384",
+    "unit_cost": 182.8,
+    "weight_kg": 1.9,
+    "criticality": "high",
+    "supplier_id": "SUP-84"
+  },
+  {
+    "id": "P-385",
+    "name": "Product 385",
+    "category": "Apparel",
+    "sku": "SKU-385",
+    "unit_cost": 183.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-85"
+  },
+  {
+    "id": "P-386",
+    "name": "Product 386",
+    "category": "Home",
+    "sku": "SKU-386",
+    "unit_cost": 183.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-86"
+  },
+  {
+    "id": "P-387",
+    "name": "Product 387",
+    "category": "Food",
+    "sku": "SKU-387",
+    "unit_cost": 184.15,
+    "weight_kg": 3.1,
+    "criticality": "high",
+    "supplier_id": "SUP-87"
+  },
+  {
+    "id": "P-388",
+    "name": "Product 388",
+    "category": "Electronics",
+    "sku": "SKU-388",
+    "unit_cost": 184.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-88"
+  },
+  {
+    "id": "P-389",
+    "name": "Product 389",
+    "category": "Apparel",
+    "sku": "SKU-389",
+    "unit_cost": 185.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-89"
+  },
+  {
+    "id": "P-390",
+    "name": "Product 390",
+    "category": "Home",
+    "sku": "SKU-390",
+    "unit_cost": 185.5,
+    "weight_kg": 4.3,
+    "criticality": "high",
+    "supplier_id": "SUP-90"
+  },
+  {
+    "id": "P-391",
+    "name": "Product 391",
+    "category": "Food",
+    "sku": "SKU-391",
+    "unit_cost": 185.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-91"
+  },
+  {
+    "id": "P-392",
+    "name": "Product 392",
+    "category": "Electronics",
+    "sku": "SKU-392",
+    "unit_cost": 186.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-92"
+  },
+  {
+    "id": "P-393",
+    "name": "Product 393",
+    "category": "Apparel",
+    "sku": "SKU-393",
+    "unit_cost": 186.85,
+    "weight_kg": 5.5,
+    "criticality": "high",
+    "supplier_id": "SUP-93"
+  },
+  {
+    "id": "P-394",
+    "name": "Product 394",
+    "category": "Home",
+    "sku": "SKU-394",
+    "unit_cost": 187.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-94"
+  },
+  {
+    "id": "P-395",
+    "name": "Product 395",
+    "category": "Food",
+    "sku": "SKU-395",
+    "unit_cost": 187.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-95"
+  },
+  {
+    "id": "P-396",
+    "name": "Product 396",
+    "category": "Electronics",
+    "sku": "SKU-396",
+    "unit_cost": 188.2,
+    "weight_kg": 6.7,
+    "criticality": "high",
+    "supplier_id": "SUP-96"
+  },
+  {
+    "id": "P-397",
+    "name": "Product 397",
+    "category": "Apparel",
+    "sku": "SKU-397",
+    "unit_cost": 188.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-97"
+  },
+  {
+    "id": "P-398",
+    "name": "Product 398",
+    "category": "Home",
+    "sku": "SKU-398",
+    "unit_cost": 189.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-98"
+  },
+  {
+    "id": "P-399",
+    "name": "Product 399",
+    "category": "Food",
+    "sku": "SKU-399",
+    "unit_cost": 189.55,
+    "weight_kg": 7.9,
+    "criticality": "high",
+    "supplier_id": "SUP-99"
+  },
+  {
+    "id": "P-400",
+    "name": "Product 400",
+    "category": "Electronics",
+    "sku": "SKU-400",
+    "unit_cost": 190.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-100"
+  },
+  {
+    "id": "P-401",
+    "name": "Product 401",
+    "category": "Apparel",
+    "sku": "SKU-401",
+    "unit_cost": 190.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-1"
+  },
+  {
+    "id": "P-402",
+    "name": "Product 402",
+    "category": "Home",
+    "sku": "SKU-402",
+    "unit_cost": 190.9,
+    "weight_kg": 1.1,
+    "criticality": "high",
+    "supplier_id": "SUP-2"
+  },
+  {
+    "id": "P-403",
+    "name": "Product 403",
+    "category": "Food",
+    "sku": "SKU-403",
+    "unit_cost": 191.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-3"
+  },
+  {
+    "id": "P-404",
+    "name": "Product 404",
+    "category": "Electronics",
+    "sku": "SKU-404",
+    "unit_cost": 191.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-4"
+  },
+  {
+    "id": "P-405",
+    "name": "Product 405",
+    "category": "Apparel",
+    "sku": "SKU-405",
+    "unit_cost": 192.25,
+    "weight_kg": 2.3,
+    "criticality": "high",
+    "supplier_id": "SUP-5"
+  },
+  {
+    "id": "P-406",
+    "name": "Product 406",
+    "category": "Home",
+    "sku": "SKU-406",
+    "unit_cost": 192.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-6"
+  },
+  {
+    "id": "P-407",
+    "name": "Product 407",
+    "category": "Food",
+    "sku": "SKU-407",
+    "unit_cost": 193.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-7"
+  },
+  {
+    "id": "P-408",
+    "name": "Product 408",
+    "category": "Electronics",
+    "sku": "SKU-408",
+    "unit_cost": 193.6,
+    "weight_kg": 3.5,
+    "criticality": "high",
+    "supplier_id": "SUP-8"
+  },
+  {
+    "id": "P-409",
+    "name": "Product 409",
+    "category": "Apparel",
+    "sku": "SKU-409",
+    "unit_cost": 194.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-9"
+  },
+  {
+    "id": "P-410",
+    "name": "Product 410",
+    "category": "Home",
+    "sku": "SKU-410",
+    "unit_cost": 194.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-10"
+  },
+  {
+    "id": "P-411",
+    "name": "Product 411",
+    "category": "Food",
+    "sku": "SKU-411",
+    "unit_cost": 194.95,
+    "weight_kg": 4.7,
+    "criticality": "high",
+    "supplier_id": "SUP-11"
+  },
+  {
+    "id": "P-412",
+    "name": "Product 412",
+    "category": "Electronics",
+    "sku": "SKU-412",
+    "unit_cost": 195.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-12"
+  },
+  {
+    "id": "P-413",
+    "name": "Product 413",
+    "category": "Apparel",
+    "sku": "SKU-413",
+    "unit_cost": 195.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-13"
+  },
+  {
+    "id": "P-414",
+    "name": "Product 414",
+    "category": "Home",
+    "sku": "SKU-414",
+    "unit_cost": 196.3,
+    "weight_kg": 5.9,
+    "criticality": "high",
+    "supplier_id": "SUP-14"
+  },
+  {
+    "id": "P-415",
+    "name": "Product 415",
+    "category": "Food",
+    "sku": "SKU-415",
+    "unit_cost": 196.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-15"
+  },
+  {
+    "id": "P-416",
+    "name": "Product 416",
+    "category": "Electronics",
+    "sku": "SKU-416",
+    "unit_cost": 197.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-16"
+  },
+  {
+    "id": "P-417",
+    "name": "Product 417",
+    "category": "Apparel",
+    "sku": "SKU-417",
+    "unit_cost": 197.65,
+    "weight_kg": 7.1,
+    "criticality": "high",
+    "supplier_id": "SUP-17"
+  },
+  {
+    "id": "P-418",
+    "name": "Product 418",
+    "category": "Home",
+    "sku": "SKU-418",
+    "unit_cost": 198.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-18"
+  },
+  {
+    "id": "P-419",
+    "name": "Product 419",
+    "category": "Food",
+    "sku": "SKU-419",
+    "unit_cost": 198.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-19"
+  },
+  {
+    "id": "P-420",
+    "name": "Product 420",
+    "category": "Electronics",
+    "sku": "SKU-420",
+    "unit_cost": 199.0,
+    "weight_kg": 0.3,
+    "criticality": "high",
+    "supplier_id": "SUP-20"
+  },
+  {
+    "id": "P-421",
+    "name": "Product 421",
+    "category": "Apparel",
+    "sku": "SKU-421",
+    "unit_cost": 199.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-21"
+  },
+  {
+    "id": "P-422",
+    "name": "Product 422",
+    "category": "Home",
+    "sku": "SKU-422",
+    "unit_cost": 199.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-22"
+  },
+  {
+    "id": "P-423",
+    "name": "Product 423",
+    "category": "Food",
+    "sku": "SKU-423",
+    "unit_cost": 200.35,
+    "weight_kg": 1.5,
+    "criticality": "high",
+    "supplier_id": "SUP-23"
+  },
+  {
+    "id": "P-424",
+    "name": "Product 424",
+    "category": "Electronics",
+    "sku": "SKU-424",
+    "unit_cost": 200.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-24"
+  },
+  {
+    "id": "P-425",
+    "name": "Product 425",
+    "category": "Apparel",
+    "sku": "SKU-425",
+    "unit_cost": 201.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-25"
+  },
+  {
+    "id": "P-426",
+    "name": "Product 426",
+    "category": "Home",
+    "sku": "SKU-426",
+    "unit_cost": 201.7,
+    "weight_kg": 2.7,
+    "criticality": "high",
+    "supplier_id": "SUP-26"
+  },
+  {
+    "id": "P-427",
+    "name": "Product 427",
+    "category": "Food",
+    "sku": "SKU-427",
+    "unit_cost": 202.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-27"
+  },
+  {
+    "id": "P-428",
+    "name": "Product 428",
+    "category": "Electronics",
+    "sku": "SKU-428",
+    "unit_cost": 202.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-28"
+  },
+  {
+    "id": "P-429",
+    "name": "Product 429",
+    "category": "Apparel",
+    "sku": "SKU-429",
+    "unit_cost": 203.05,
+    "weight_kg": 3.9,
+    "criticality": "high",
+    "supplier_id": "SUP-29"
+  },
+  {
+    "id": "P-430",
+    "name": "Product 430",
+    "category": "Home",
+    "sku": "SKU-430",
+    "unit_cost": 203.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-30"
+  },
+  {
+    "id": "P-431",
+    "name": "Product 431",
+    "category": "Food",
+    "sku": "SKU-431",
+    "unit_cost": 203.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-31"
+  },
+  {
+    "id": "P-432",
+    "name": "Product 432",
+    "category": "Electronics",
+    "sku": "SKU-432",
+    "unit_cost": 204.4,
+    "weight_kg": 5.1,
+    "criticality": "high",
+    "supplier_id": "SUP-32"
+  },
+  {
+    "id": "P-433",
+    "name": "Product 433",
+    "category": "Apparel",
+    "sku": "SKU-433",
+    "unit_cost": 204.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-33"
+  },
+  {
+    "id": "P-434",
+    "name": "Product 434",
+    "category": "Home",
+    "sku": "SKU-434",
+    "unit_cost": 205.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-34"
+  },
+  {
+    "id": "P-435",
+    "name": "Product 435",
+    "category": "Food",
+    "sku": "SKU-435",
+    "unit_cost": 205.75,
+    "weight_kg": 6.3,
+    "criticality": "high",
+    "supplier_id": "SUP-35"
+  },
+  {
+    "id": "P-436",
+    "name": "Product 436",
+    "category": "Electronics",
+    "sku": "SKU-436",
+    "unit_cost": 206.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-36"
+  },
+  {
+    "id": "P-437",
+    "name": "Product 437",
+    "category": "Apparel",
+    "sku": "SKU-437",
+    "unit_cost": 206.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-37"
+  },
+  {
+    "id": "P-438",
+    "name": "Product 438",
+    "category": "Home",
+    "sku": "SKU-438",
+    "unit_cost": 207.1,
+    "weight_kg": 7.5,
+    "criticality": "high",
+    "supplier_id": "SUP-38"
+  },
+  {
+    "id": "P-439",
+    "name": "Product 439",
+    "category": "Food",
+    "sku": "SKU-439",
+    "unit_cost": 207.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-39"
+  },
+  {
+    "id": "P-440",
+    "name": "Product 440",
+    "category": "Electronics",
+    "sku": "SKU-440",
+    "unit_cost": 208.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-40"
+  },
+  {
+    "id": "P-441",
+    "name": "Product 441",
+    "category": "Apparel",
+    "sku": "SKU-441",
+    "unit_cost": 208.45,
+    "weight_kg": 0.7,
+    "criticality": "high",
+    "supplier_id": "SUP-41"
+  },
+  {
+    "id": "P-442",
+    "name": "Product 442",
+    "category": "Home",
+    "sku": "SKU-442",
+    "unit_cost": 208.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-42"
+  },
+  {
+    "id": "P-443",
+    "name": "Product 443",
+    "category": "Food",
+    "sku": "SKU-443",
+    "unit_cost": 209.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-43"
+  },
+  {
+    "id": "P-444",
+    "name": "Product 444",
+    "category": "Electronics",
+    "sku": "SKU-444",
+    "unit_cost": 209.8,
+    "weight_kg": 1.9,
+    "criticality": "high",
+    "supplier_id": "SUP-44"
+  },
+  {
+    "id": "P-445",
+    "name": "Product 445",
+    "category": "Apparel",
+    "sku": "SKU-445",
+    "unit_cost": 210.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-45"
+  },
+  {
+    "id": "P-446",
+    "name": "Product 446",
+    "category": "Home",
+    "sku": "SKU-446",
+    "unit_cost": 210.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-46"
+  },
+  {
+    "id": "P-447",
+    "name": "Product 447",
+    "category": "Food",
+    "sku": "SKU-447",
+    "unit_cost": 211.15,
+    "weight_kg": 3.1,
+    "criticality": "high",
+    "supplier_id": "SUP-47"
+  },
+  {
+    "id": "P-448",
+    "name": "Product 448",
+    "category": "Electronics",
+    "sku": "SKU-448",
+    "unit_cost": 211.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-48"
+  },
+  {
+    "id": "P-449",
+    "name": "Product 449",
+    "category": "Apparel",
+    "sku": "SKU-449",
+    "unit_cost": 212.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-49"
+  },
+  {
+    "id": "P-450",
+    "name": "Product 450",
+    "category": "Home",
+    "sku": "SKU-450",
+    "unit_cost": 212.5,
+    "weight_kg": 4.3,
+    "criticality": "high",
+    "supplier_id": "SUP-50"
+  },
+  {
+    "id": "P-451",
+    "name": "Product 451",
+    "category": "Food",
+    "sku": "SKU-451",
+    "unit_cost": 212.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-51"
+  },
+  {
+    "id": "P-452",
+    "name": "Product 452",
+    "category": "Electronics",
+    "sku": "SKU-452",
+    "unit_cost": 213.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-52"
+  },
+  {
+    "id": "P-453",
+    "name": "Product 453",
+    "category": "Apparel",
+    "sku": "SKU-453",
+    "unit_cost": 213.85,
+    "weight_kg": 5.5,
+    "criticality": "high",
+    "supplier_id": "SUP-53"
+  },
+  {
+    "id": "P-454",
+    "name": "Product 454",
+    "category": "Home",
+    "sku": "SKU-454",
+    "unit_cost": 214.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-54"
+  },
+  {
+    "id": "P-455",
+    "name": "Product 455",
+    "category": "Food",
+    "sku": "SKU-455",
+    "unit_cost": 214.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-55"
+  },
+  {
+    "id": "P-456",
+    "name": "Product 456",
+    "category": "Electronics",
+    "sku": "SKU-456",
+    "unit_cost": 215.2,
+    "weight_kg": 6.7,
+    "criticality": "high",
+    "supplier_id": "SUP-56"
+  },
+  {
+    "id": "P-457",
+    "name": "Product 457",
+    "category": "Apparel",
+    "sku": "SKU-457",
+    "unit_cost": 215.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-57"
+  },
+  {
+    "id": "P-458",
+    "name": "Product 458",
+    "category": "Home",
+    "sku": "SKU-458",
+    "unit_cost": 216.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-58"
+  },
+  {
+    "id": "P-459",
+    "name": "Product 459",
+    "category": "Food",
+    "sku": "SKU-459",
+    "unit_cost": 216.55,
+    "weight_kg": 7.9,
+    "criticality": "high",
+    "supplier_id": "SUP-59"
+  },
+  {
+    "id": "P-460",
+    "name": "Product 460",
+    "category": "Electronics",
+    "sku": "SKU-460",
+    "unit_cost": 217.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-60"
+  },
+  {
+    "id": "P-461",
+    "name": "Product 461",
+    "category": "Apparel",
+    "sku": "SKU-461",
+    "unit_cost": 217.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-61"
+  },
+  {
+    "id": "P-462",
+    "name": "Product 462",
+    "category": "Home",
+    "sku": "SKU-462",
+    "unit_cost": 217.9,
+    "weight_kg": 1.1,
+    "criticality": "high",
+    "supplier_id": "SUP-62"
+  },
+  {
+    "id": "P-463",
+    "name": "Product 463",
+    "category": "Food",
+    "sku": "SKU-463",
+    "unit_cost": 218.35,
+    "weight_kg": 1.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-63"
+  },
+  {
+    "id": "P-464",
+    "name": "Product 464",
+    "category": "Electronics",
+    "sku": "SKU-464",
+    "unit_cost": 218.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-64"
+  },
+  {
+    "id": "P-465",
+    "name": "Product 465",
+    "category": "Apparel",
+    "sku": "SKU-465",
+    "unit_cost": 219.25,
+    "weight_kg": 2.3,
+    "criticality": "high",
+    "supplier_id": "SUP-65"
+  },
+  {
+    "id": "P-466",
+    "name": "Product 466",
+    "category": "Home",
+    "sku": "SKU-466",
+    "unit_cost": 219.7,
+    "weight_kg": 2.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-66"
+  },
+  {
+    "id": "P-467",
+    "name": "Product 467",
+    "category": "Food",
+    "sku": "SKU-467",
+    "unit_cost": 220.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-67"
+  },
+  {
+    "id": "P-468",
+    "name": "Product 468",
+    "category": "Electronics",
+    "sku": "SKU-468",
+    "unit_cost": 220.6,
+    "weight_kg": 3.5,
+    "criticality": "high",
+    "supplier_id": "SUP-68"
+  },
+  {
+    "id": "P-469",
+    "name": "Product 469",
+    "category": "Apparel",
+    "sku": "SKU-469",
+    "unit_cost": 221.05,
+    "weight_kg": 3.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-69"
+  },
+  {
+    "id": "P-470",
+    "name": "Product 470",
+    "category": "Home",
+    "sku": "SKU-470",
+    "unit_cost": 221.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-70"
+  },
+  {
+    "id": "P-471",
+    "name": "Product 471",
+    "category": "Food",
+    "sku": "SKU-471",
+    "unit_cost": 221.95,
+    "weight_kg": 4.7,
+    "criticality": "high",
+    "supplier_id": "SUP-71"
+  },
+  {
+    "id": "P-472",
+    "name": "Product 472",
+    "category": "Electronics",
+    "sku": "SKU-472",
+    "unit_cost": 222.4,
+    "weight_kg": 5.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-72"
+  },
+  {
+    "id": "P-473",
+    "name": "Product 473",
+    "category": "Apparel",
+    "sku": "SKU-473",
+    "unit_cost": 222.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-73"
+  },
+  {
+    "id": "P-474",
+    "name": "Product 474",
+    "category": "Home",
+    "sku": "SKU-474",
+    "unit_cost": 223.3,
+    "weight_kg": 5.9,
+    "criticality": "high",
+    "supplier_id": "SUP-74"
+  },
+  {
+    "id": "P-475",
+    "name": "Product 475",
+    "category": "Food",
+    "sku": "SKU-475",
+    "unit_cost": 223.75,
+    "weight_kg": 6.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-75"
+  },
+  {
+    "id": "P-476",
+    "name": "Product 476",
+    "category": "Electronics",
+    "sku": "SKU-476",
+    "unit_cost": 224.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-76"
+  },
+  {
+    "id": "P-477",
+    "name": "Product 477",
+    "category": "Apparel",
+    "sku": "SKU-477",
+    "unit_cost": 224.65,
+    "weight_kg": 7.1,
+    "criticality": "high",
+    "supplier_id": "SUP-77"
+  },
+  {
+    "id": "P-478",
+    "name": "Product 478",
+    "category": "Home",
+    "sku": "SKU-478",
+    "unit_cost": 225.1,
+    "weight_kg": 7.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-78"
+  },
+  {
+    "id": "P-479",
+    "name": "Product 479",
+    "category": "Food",
+    "sku": "SKU-479",
+    "unit_cost": 225.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-79"
+  },
+  {
+    "id": "P-480",
+    "name": "Product 480",
+    "category": "Electronics",
+    "sku": "SKU-480",
+    "unit_cost": 226.0,
+    "weight_kg": 0.3,
+    "criticality": "high",
+    "supplier_id": "SUP-80"
+  },
+  {
+    "id": "P-481",
+    "name": "Product 481",
+    "category": "Apparel",
+    "sku": "SKU-481",
+    "unit_cost": 226.45,
+    "weight_kg": 0.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-81"
+  },
+  {
+    "id": "P-482",
+    "name": "Product 482",
+    "category": "Home",
+    "sku": "SKU-482",
+    "unit_cost": 226.9,
+    "weight_kg": 1.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-82"
+  },
+  {
+    "id": "P-483",
+    "name": "Product 483",
+    "category": "Food",
+    "sku": "SKU-483",
+    "unit_cost": 227.35,
+    "weight_kg": 1.5,
+    "criticality": "high",
+    "supplier_id": "SUP-83"
+  },
+  {
+    "id": "P-484",
+    "name": "Product 484",
+    "category": "Electronics",
+    "sku": "SKU-484",
+    "unit_cost": 227.8,
+    "weight_kg": 1.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-84"
+  },
+  {
+    "id": "P-485",
+    "name": "Product 485",
+    "category": "Apparel",
+    "sku": "SKU-485",
+    "unit_cost": 228.25,
+    "weight_kg": 2.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-85"
+  },
+  {
+    "id": "P-486",
+    "name": "Product 486",
+    "category": "Home",
+    "sku": "SKU-486",
+    "unit_cost": 228.7,
+    "weight_kg": 2.7,
+    "criticality": "high",
+    "supplier_id": "SUP-86"
+  },
+  {
+    "id": "P-487",
+    "name": "Product 487",
+    "category": "Food",
+    "sku": "SKU-487",
+    "unit_cost": 229.15,
+    "weight_kg": 3.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-87"
+  },
+  {
+    "id": "P-488",
+    "name": "Product 488",
+    "category": "Electronics",
+    "sku": "SKU-488",
+    "unit_cost": 229.6,
+    "weight_kg": 3.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-88"
+  },
+  {
+    "id": "P-489",
+    "name": "Product 489",
+    "category": "Apparel",
+    "sku": "SKU-489",
+    "unit_cost": 230.05,
+    "weight_kg": 3.9,
+    "criticality": "high",
+    "supplier_id": "SUP-89"
+  },
+  {
+    "id": "P-490",
+    "name": "Product 490",
+    "category": "Home",
+    "sku": "SKU-490",
+    "unit_cost": 230.5,
+    "weight_kg": 4.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-90"
+  },
+  {
+    "id": "P-491",
+    "name": "Product 491",
+    "category": "Food",
+    "sku": "SKU-491",
+    "unit_cost": 230.95,
+    "weight_kg": 4.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-91"
+  },
+  {
+    "id": "P-492",
+    "name": "Product 492",
+    "category": "Electronics",
+    "sku": "SKU-492",
+    "unit_cost": 231.4,
+    "weight_kg": 5.1,
+    "criticality": "high",
+    "supplier_id": "SUP-92"
+  },
+  {
+    "id": "P-493",
+    "name": "Product 493",
+    "category": "Apparel",
+    "sku": "SKU-493",
+    "unit_cost": 231.85,
+    "weight_kg": 5.5,
+    "criticality": "medium",
+    "supplier_id": "SUP-93"
+  },
+  {
+    "id": "P-494",
+    "name": "Product 494",
+    "category": "Home",
+    "sku": "SKU-494",
+    "unit_cost": 232.3,
+    "weight_kg": 5.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-94"
+  },
+  {
+    "id": "P-495",
+    "name": "Product 495",
+    "category": "Food",
+    "sku": "SKU-495",
+    "unit_cost": 232.75,
+    "weight_kg": 6.3,
+    "criticality": "high",
+    "supplier_id": "SUP-95"
+  },
+  {
+    "id": "P-496",
+    "name": "Product 496",
+    "category": "Electronics",
+    "sku": "SKU-496",
+    "unit_cost": 233.2,
+    "weight_kg": 6.7,
+    "criticality": "medium",
+    "supplier_id": "SUP-96"
+  },
+  {
+    "id": "P-497",
+    "name": "Product 497",
+    "category": "Apparel",
+    "sku": "SKU-497",
+    "unit_cost": 233.65,
+    "weight_kg": 7.1,
+    "criticality": "medium",
+    "supplier_id": "SUP-97"
+  },
+  {
+    "id": "P-498",
+    "name": "Product 498",
+    "category": "Home",
+    "sku": "SKU-498",
+    "unit_cost": 234.1,
+    "weight_kg": 7.5,
+    "criticality": "high",
+    "supplier_id": "SUP-98"
+  },
+  {
+    "id": "P-499",
+    "name": "Product 499",
+    "category": "Food",
+    "sku": "SKU-499",
+    "unit_cost": 234.55,
+    "weight_kg": 7.9,
+    "criticality": "medium",
+    "supplier_id": "SUP-99"
+  },
+  {
+    "id": "P-500",
+    "name": "Product 500",
+    "category": "Electronics",
+    "sku": "SKU-500",
+    "unit_cost": 235.0,
+    "weight_kg": 0.3,
+    "criticality": "medium",
+    "supplier_id": "SUP-100"
+  }
+]

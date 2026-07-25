@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "RP-1",
+    "incident_id": "INC-1",
+    "strategy": "reroute",
+    "cost_estimate": 2025,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-2",
+    "incident_id": "INC-2",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 2050,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-3",
+    "incident_id": "INC-3",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 2075,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-4",
+    "incident_id": "INC-4",
+    "strategy": "split-shipments",
+    "cost_estimate": 2100,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-5",
+    "incident_id": "INC-5",
+    "strategy": "reroute",
+    "cost_estimate": 2125,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-6",
+    "incident_id": "INC-6",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 2150,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-7",
+    "incident_id": "INC-7",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 2175,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-8",
+    "incident_id": "INC-8",
+    "strategy": "split-shipments",
+    "cost_estimate": 2200,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-9",
+    "incident_id": "INC-9",
+    "strategy": "reroute",
+    "cost_estimate": 2225,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-10",
+    "incident_id": "INC-10",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 2250,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-11",
+    "incident_id": "INC-11",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 2275,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-12",
+    "incident_id": "INC-12",
+    "strategy": "split-shipments",
+    "cost_estimate": 2300,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-13",
+    "incident_id": "INC-13",
+    "strategy": "reroute",
+    "cost_estimate": 2325,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-14",
+    "incident_id": "INC-14",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 2350,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-15",
+    "incident_id": "INC-15",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 2375,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-16",
+    "incident_id": "INC-16",
+    "strategy": "split-shipments",
+    "cost_estimate": 2400,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-17",
+    "incident_id": "INC-17",
+    "strategy": "reroute",
+    "cost_estimate": 2425,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-18",
+    "incident_id": "INC-18",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 2450,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-19",
+    "incident_id": "INC-19",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 2475,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-20",
+    "incident_id": "INC-20",
+    "strategy": "split-shipments",
+    "cost_estimate": 2500,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-21",
+    "incident_id": "INC-21",
+    "strategy": "reroute",
+    "cost_estimate": 2525,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-22",
+    "incident_id": "INC-22",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 2550,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-23",
+    "incident_id": "INC-23",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 2575,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-24",
+    "incident_id": "INC-24",
+    "strategy": "split-shipments",
+    "cost_estimate": 2600,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-25",
+    "incident_id": "INC-25",
+    "strategy": "reroute",
+    "cost_estimate": 2625,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-26",
+    "incident_id": "INC-26",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 2650,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-27",
+    "incident_id": "INC-27",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 2675,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-28",
+    "incident_id": "INC-28",
+    "strategy": "split-shipments",
+    "cost_estimate": 2700,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-29",
+    "incident_id": "INC-29",
+    "strategy": "reroute",
+    "cost_estimate": 2725,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-30",
+    "incident_id": "INC-30",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 2750,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-31",
+    "incident_id": "INC-31",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 2775,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-32",
+    "incident_id": "INC-32",
+    "strategy": "split-shipments",
+    "cost_estimate": 2800,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-33",
+    "incident_id": "INC-33",
+    "strategy": "reroute",
+    "cost_estimate": 2825,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-34",
+    "incident_id": "INC-34",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 2850,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-35",
+    "incident_id": "INC-35",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 2875,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-36",
+    "incident_id": "INC-36",
+    "strategy": "split-shipments",
+    "cost_estimate": 2900,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-37",
+    "incident_id": "INC-37",
+    "strategy": "reroute",
+    "cost_estimate": 2925,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-38",
+    "incident_id": "INC-38",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 2950,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-39",
+    "incident_id": "INC-39",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 2975,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-40",
+    "incident_id": "INC-40",
+    "strategy": "split-shipments",
+    "cost_estimate": 3000,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-41",
+    "incident_id": "INC-41",
+    "strategy": "reroute",
+    "cost_estimate": 3025,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-42",
+    "incident_id": "INC-42",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 3050,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-43",
+    "incident_id": "INC-43",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 3075,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-44",
+    "incident_id": "INC-44",
+    "strategy": "split-shipments",
+    "cost_estimate": 3100,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-45",
+    "incident_id": "INC-45",
+    "strategy": "reroute",
+    "cost_estimate": 3125,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-46",
+    "incident_id": "INC-46",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 3150,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-47",
+    "incident_id": "INC-47",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 3175,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-48",
+    "incident_id": "INC-48",
+    "strategy": "split-shipments",
+    "cost_estimate": 3200,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-49",
+    "incident_id": "INC-49",
+    "strategy": "reroute",
+    "cost_estimate": 3225,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-50",
+    "incident_id": "INC-50",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 3250,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-51",
+    "incident_id": "INC-51",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 3275,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-52",
+    "incident_id": "INC-52",
+    "strategy": "split-shipments",
+    "cost_estimate": 3300,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-53",
+    "incident_id": "INC-53",
+    "strategy": "reroute",
+    "cost_estimate": 3325,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-54",
+    "incident_id": "INC-54",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 3350,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-55",
+    "incident_id": "INC-55",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 3375,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-56",
+    "incident_id": "INC-56",
+    "strategy": "split-shipments",
+    "cost_estimate": 3400,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-57",
+    "incident_id": "INC-57",
+    "strategy": "reroute",
+    "cost_estimate": 3425,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-58",
+    "incident_id": "INC-58",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 3450,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-59",
+    "incident_id": "INC-59",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 3475,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-60",
+    "incident_id": "INC-60",
+    "strategy": "split-shipments",
+    "cost_estimate": 3500,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-61",
+    "incident_id": "INC-61",
+    "strategy": "reroute",
+    "cost_estimate": 3525,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-62",
+    "incident_id": "INC-62",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 3550,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-63",
+    "incident_id": "INC-63",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 3575,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-64",
+    "incident_id": "INC-64",
+    "strategy": "split-shipments",
+    "cost_estimate": 3600,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-65",
+    "incident_id": "INC-65",
+    "strategy": "reroute",
+    "cost_estimate": 3625,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-66",
+    "incident_id": "INC-66",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 3650,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-67",
+    "incident_id": "INC-67",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 3675,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-68",
+    "incident_id": "INC-68",
+    "strategy": "split-shipments",
+    "cost_estimate": 3700,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-69",
+    "incident_id": "INC-69",
+    "strategy": "reroute",
+    "cost_estimate": 3725,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-70",
+    "incident_id": "INC-70",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 3750,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-71",
+    "incident_id": "INC-71",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 3775,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-72",
+    "incident_id": "INC-72",
+    "strategy": "split-shipments",
+    "cost_estimate": 3800,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-73",
+    "incident_id": "INC-73",
+    "strategy": "reroute",
+    "cost_estimate": 3825,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-74",
+    "incident_id": "INC-74",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 3850,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-75",
+    "incident_id": "INC-75",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 3875,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-76",
+    "incident_id": "INC-76",
+    "strategy": "split-shipments",
+    "cost_estimate": 3900,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-77",
+    "incident_id": "INC-77",
+    "strategy": "reroute",
+    "cost_estimate": 3925,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-78",
+    "incident_id": "INC-78",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 3950,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-79",
+    "incident_id": "INC-79",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 3975,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-80",
+    "incident_id": "INC-80",
+    "strategy": "split-shipments",
+    "cost_estimate": 4000,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-81",
+    "incident_id": "INC-81",
+    "strategy": "reroute",
+    "cost_estimate": 4025,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-82",
+    "incident_id": "INC-82",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 4050,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-83",
+    "incident_id": "INC-83",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 4075,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-84",
+    "incident_id": "INC-84",
+    "strategy": "split-shipments",
+    "cost_estimate": 4100,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-85",
+    "incident_id": "INC-85",
+    "strategy": "reroute",
+    "cost_estimate": 4125,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-86",
+    "incident_id": "INC-86",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 4150,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-87",
+    "incident_id": "INC-87",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 4175,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-88",
+    "incident_id": "INC-88",
+    "strategy": "split-shipments",
+    "cost_estimate": 4200,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-89",
+    "incident_id": "INC-89",
+    "strategy": "reroute",
+    "cost_estimate": 4225,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-90",
+    "incident_id": "INC-90",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 4250,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-91",
+    "incident_id": "INC-91",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 4275,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-92",
+    "incident_id": "INC-92",
+    "strategy": "split-shipments",
+    "cost_estimate": 4300,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-93",
+    "incident_id": "INC-93",
+    "strategy": "reroute",
+    "cost_estimate": 4325,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-94",
+    "incident_id": "INC-94",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 4350,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-95",
+    "incident_id": "INC-95",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 4375,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-96",
+    "incident_id": "INC-96",
+    "strategy": "split-shipments",
+    "cost_estimate": 4400,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-97",
+    "incident_id": "INC-97",
+    "strategy": "reroute",
+    "cost_estimate": 4425,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-98",
+    "incident_id": "INC-98",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 4450,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-99",
+    "incident_id": "INC-99",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 4475,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-100",
+    "incident_id": "INC-100",
+    "strategy": "split-shipments",
+    "cost_estimate": 4500,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-101",
+    "incident_id": "INC-101",
+    "strategy": "reroute",
+    "cost_estimate": 4525,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-102",
+    "incident_id": "INC-102",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 4550,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-103",
+    "incident_id": "INC-103",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 4575,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-104",
+    "incident_id": "INC-104",
+    "strategy": "split-shipments",
+    "cost_estimate": 4600,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-105",
+    "incident_id": "INC-105",
+    "strategy": "reroute",
+    "cost_estimate": 4625,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-106",
+    "incident_id": "INC-106",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 4650,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-107",
+    "incident_id": "INC-107",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 4675,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-108",
+    "incident_id": "INC-108",
+    "strategy": "split-shipments",
+    "cost_estimate": 4700,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-109",
+    "incident_id": "INC-109",
+    "strategy": "reroute",
+    "cost_estimate": 4725,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-110",
+    "incident_id": "INC-110",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 4750,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-111",
+    "incident_id": "INC-111",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 4775,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-112",
+    "incident_id": "INC-112",
+    "strategy": "split-shipments",
+    "cost_estimate": 4800,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-113",
+    "incident_id": "INC-113",
+    "strategy": "reroute",
+    "cost_estimate": 4825,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-114",
+    "incident_id": "INC-114",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 4850,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-115",
+    "incident_id": "INC-115",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 4875,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-116",
+    "incident_id": "INC-116",
+    "strategy": "split-shipments",
+    "cost_estimate": 4900,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-117",
+    "incident_id": "INC-117",
+    "strategy": "reroute",
+    "cost_estimate": 4925,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-118",
+    "incident_id": "INC-118",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 4950,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-119",
+    "incident_id": "INC-119",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 4975,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-120",
+    "incident_id": "INC-120",
+    "strategy": "split-shipments",
+    "cost_estimate": 5000,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-121",
+    "incident_id": "INC-121",
+    "strategy": "reroute",
+    "cost_estimate": 5025,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-122",
+    "incident_id": "INC-122",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 5050,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-123",
+    "incident_id": "INC-123",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 5075,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-124",
+    "incident_id": "INC-124",
+    "strategy": "split-shipments",
+    "cost_estimate": 5100,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-125",
+    "incident_id": "INC-125",
+    "strategy": "reroute",
+    "cost_estimate": 5125,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-126",
+    "incident_id": "INC-126",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 5150,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-127",
+    "incident_id": "INC-127",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 5175,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-128",
+    "incident_id": "INC-128",
+    "strategy": "split-shipments",
+    "cost_estimate": 5200,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-129",
+    "incident_id": "INC-129",
+    "strategy": "reroute",
+    "cost_estimate": 5225,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-130",
+    "incident_id": "INC-130",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 5250,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-131",
+    "incident_id": "INC-131",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 5275,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-132",
+    "incident_id": "INC-132",
+    "strategy": "split-shipments",
+    "cost_estimate": 5300,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-133",
+    "incident_id": "INC-133",
+    "strategy": "reroute",
+    "cost_estimate": 5325,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-134",
+    "incident_id": "INC-134",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 5350,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-135",
+    "incident_id": "INC-135",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 5375,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-136",
+    "incident_id": "INC-136",
+    "strategy": "split-shipments",
+    "cost_estimate": 5400,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-137",
+    "incident_id": "INC-137",
+    "strategy": "reroute",
+    "cost_estimate": 5425,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-138",
+    "incident_id": "INC-138",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 5450,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-139",
+    "incident_id": "INC-139",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 5475,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-140",
+    "incident_id": "INC-140",
+    "strategy": "split-shipments",
+    "cost_estimate": 5500,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-141",
+    "incident_id": "INC-141",
+    "strategy": "reroute",
+    "cost_estimate": 5525,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-142",
+    "incident_id": "INC-142",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 5550,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-143",
+    "incident_id": "INC-143",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 5575,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-144",
+    "incident_id": "INC-144",
+    "strategy": "split-shipments",
+    "cost_estimate": 5600,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-145",
+    "incident_id": "INC-145",
+    "strategy": "reroute",
+    "cost_estimate": 5625,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-146",
+    "incident_id": "INC-146",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 5650,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-147",
+    "incident_id": "INC-147",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 5675,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-148",
+    "incident_id": "INC-148",
+    "strategy": "split-shipments",
+    "cost_estimate": 5700,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-149",
+    "incident_id": "INC-149",
+    "strategy": "reroute",
+    "cost_estimate": 5725,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-150",
+    "incident_id": "INC-150",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 5750,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-151",
+    "incident_id": "INC-151",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 5775,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-152",
+    "incident_id": "INC-152",
+    "strategy": "split-shipments",
+    "cost_estimate": 5800,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-153",
+    "incident_id": "INC-153",
+    "strategy": "reroute",
+    "cost_estimate": 5825,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-154",
+    "incident_id": "INC-154",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 5850,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-155",
+    "incident_id": "INC-155",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 5875,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-156",
+    "incident_id": "INC-156",
+    "strategy": "split-shipments",
+    "cost_estimate": 5900,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-157",
+    "incident_id": "INC-157",
+    "strategy": "reroute",
+    "cost_estimate": 5925,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-158",
+    "incident_id": "INC-158",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 5950,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-159",
+    "incident_id": "INC-159",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 5975,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-160",
+    "incident_id": "INC-160",
+    "strategy": "split-shipments",
+    "cost_estimate": 6000,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-161",
+    "incident_id": "INC-161",
+    "strategy": "reroute",
+    "cost_estimate": 6025,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-162",
+    "incident_id": "INC-162",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 6050,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-163",
+    "incident_id": "INC-163",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 6075,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-164",
+    "incident_id": "INC-164",
+    "strategy": "split-shipments",
+    "cost_estimate": 6100,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-165",
+    "incident_id": "INC-165",
+    "strategy": "reroute",
+    "cost_estimate": 6125,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-166",
+    "incident_id": "INC-166",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 6150,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-167",
+    "incident_id": "INC-167",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 6175,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-168",
+    "incident_id": "INC-168",
+    "strategy": "split-shipments",
+    "cost_estimate": 6200,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-169",
+    "incident_id": "INC-169",
+    "strategy": "reroute",
+    "cost_estimate": 6225,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-170",
+    "incident_id": "INC-170",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 6250,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-171",
+    "incident_id": "INC-171",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 6275,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-172",
+    "incident_id": "INC-172",
+    "strategy": "split-shipments",
+    "cost_estimate": 6300,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-173",
+    "incident_id": "INC-173",
+    "strategy": "reroute",
+    "cost_estimate": 6325,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-174",
+    "incident_id": "INC-174",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 6350,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-175",
+    "incident_id": "INC-175",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 6375,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-176",
+    "incident_id": "INC-176",
+    "strategy": "split-shipments",
+    "cost_estimate": 6400,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-177",
+    "incident_id": "INC-177",
+    "strategy": "reroute",
+    "cost_estimate": 6425,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-178",
+    "incident_id": "INC-178",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 6450,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-179",
+    "incident_id": "INC-179",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 6475,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-180",
+    "incident_id": "INC-180",
+    "strategy": "split-shipments",
+    "cost_estimate": 6500,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-181",
+    "incident_id": "INC-181",
+    "strategy": "reroute",
+    "cost_estimate": 6525,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-182",
+    "incident_id": "INC-182",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 6550,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-183",
+    "incident_id": "INC-183",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 6575,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-184",
+    "incident_id": "INC-184",
+    "strategy": "split-shipments",
+    "cost_estimate": 6600,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-185",
+    "incident_id": "INC-185",
+    "strategy": "reroute",
+    "cost_estimate": 6625,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-186",
+    "incident_id": "INC-186",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 6650,
+    "recovery_days": 3,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-187",
+    "incident_id": "INC-187",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 6675,
+    "recovery_days": 4,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-188",
+    "incident_id": "INC-188",
+    "strategy": "split-shipments",
+    "cost_estimate": 6700,
+    "recovery_days": 5,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-189",
+    "incident_id": "INC-189",
+    "strategy": "reroute",
+    "cost_estimate": 6725,
+    "recovery_days": 6,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-190",
+    "incident_id": "INC-190",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 6750,
+    "recovery_days": 2,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-191",
+    "incident_id": "INC-191",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 6775,
+    "recovery_days": 3,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-192",
+    "incident_id": "INC-192",
+    "strategy": "split-shipments",
+    "cost_estimate": 6800,
+    "recovery_days": 4,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-193",
+    "incident_id": "INC-193",
+    "strategy": "reroute",
+    "cost_estimate": 6825,
+    "recovery_days": 5,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-194",
+    "incident_id": "INC-194",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 6850,
+    "recovery_days": 6,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-195",
+    "incident_id": "INC-195",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 6875,
+    "recovery_days": 2,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-196",
+    "incident_id": "INC-196",
+    "strategy": "split-shipments",
+    "cost_estimate": 6900,
+    "recovery_days": 3,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-197",
+    "incident_id": "INC-197",
+    "strategy": "reroute",
+    "cost_estimate": 6925,
+    "recovery_days": 4,
+    "risk_level": "high",
+    "status": "draft"
+  },
+  {
+    "id": "RP-198",
+    "incident_id": "INC-198",
+    "strategy": "secondary-supplier",
+    "cost_estimate": 6950,
+    "recovery_days": 5,
+    "risk_level": "low",
+    "status": "draft"
+  },
+  {
+    "id": "RP-199",
+    "incident_id": "INC-199",
+    "strategy": "inventory-redistribution",
+    "cost_estimate": 6975,
+    "recovery_days": 6,
+    "risk_level": "medium",
+    "status": "draft"
+  },
+  {
+    "id": "RP-200",
+    "incident_id": "INC-200",
+    "strategy": "split-shipments",
+    "cost_estimate": 7000,
+    "recovery_days": 2,
+    "risk_level": "high",
+    "status": "draft"
+  }
+]

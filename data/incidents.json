@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "INC-1",
+    "title": "Incident 1",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-2"
+    ],
+    "affected_product_ids": [
+      "P-2"
+    ],
+    "impact_score": 31,
+    "shipment_ids": [
+      "S-1"
+    ]
+  },
+  {
+    "id": "INC-2",
+    "title": "Incident 2",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-3"
+    ],
+    "affected_product_ids": [
+      "P-3"
+    ],
+    "impact_score": 32,
+    "shipment_ids": [
+      "S-2"
+    ]
+  },
+  {
+    "id": "INC-3",
+    "title": "Incident 3",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-4"
+    ],
+    "affected_product_ids": [
+      "P-4"
+    ],
+    "impact_score": 33,
+    "shipment_ids": [
+      "S-3"
+    ]
+  },
+  {
+    "id": "INC-4",
+    "title": "Incident 4",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-5"
+    ],
+    "affected_product_ids": [
+      "P-5"
+    ],
+    "impact_score": 34,
+    "shipment_ids": [
+      "S-4"
+    ]
+  },
+  {
+    "id": "INC-5",
+    "title": "Incident 5",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-6"
+    ],
+    "affected_product_ids": [
+      "P-6"
+    ],
+    "impact_score": 35,
+    "shipment_ids": [
+      "S-5"
+    ]
+  },
+  {
+    "id": "INC-6",
+    "title": "Incident 6",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-7"
+    ],
+    "affected_product_ids": [
+      "P-7"
+    ],
+    "impact_score": 36,
+    "shipment_ids": [
+      "S-6"
+    ]
+  },
+  {
+    "id": "INC-7",
+    "title": "Incident 7",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-8"
+    ],
+    "affected_product_ids": [
+      "P-8"
+    ],
+    "impact_score": 37,
+    "shipment_ids": [
+      "S-7"
+    ]
+  },
+  {
+    "id": "INC-8",
+    "title": "Incident 8",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-9"
+    ],
+    "affected_product_ids": [
+      "P-9"
+    ],
+    "impact_score": 38,
+    "shipment_ids": [
+      "S-8"
+    ]
+  },
+  {
+    "id": "INC-9",
+    "title": "Incident 9",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-10"
+    ],
+    "affected_product_ids": [
+      "P-10"
+    ],
+    "impact_score": 39,
+    "shipment_ids": [
+      "S-9"
+    ]
+  },
+  {
+    "id": "INC-10",
+    "title": "Incident 10",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-11"
+    ],
+    "affected_product_ids": [
+      "P-11"
+    ],
+    "impact_score": 40,
+    "shipment_ids": [
+      "S-10"
+    ]
+  },
+  {
+    "id": "INC-11",
+    "title": "Incident 11",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-12"
+    ],
+    "affected_product_ids": [
+      "P-12"
+    ],
+    "impact_score": 41,
+    "shipment_ids": [
+      "S-11"
+    ]
+  },
+  {
+    "id": "INC-12",
+    "title": "Incident 12",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-13"
+    ],
+    "affected_product_ids": [
+      "P-13"
+    ],
+    "impact_score": 42,
+    "shipment_ids": [
+      "S-12"
+    ]
+  },
+  {
+    "id": "INC-13",
+    "title": "Incident 13",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-14"
+    ],
+    "affected_product_ids": [
+      "P-14"
+    ],
+    "impact_score": 43,
+    "shipment_ids": [
+      "S-13"
+    ]
+  },
+  {
+    "id": "INC-14",
+    "title": "Incident 14",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-15"
+    ],
+    "affected_product_ids": [
+      "P-15"
+    ],
+    "impact_score": 44,
+    "shipment_ids": [
+      "S-14"
+    ]
+  },
+  {
+    "id": "INC-15",
+    "title": "Incident 15",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-16"
+    ],
+    "affected_product_ids": [
+      "P-16"
+    ],
+    "impact_score": 45,
+    "shipment_ids": [
+      "S-15"
+    ]
+  },
+  {
+    "id": "INC-16",
+    "title": "Incident 16",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-17"
+    ],
+    "affected_product_ids": [
+      "P-17"
+    ],
+    "impact_score": 46,
+    "shipment_ids": [
+      "S-16"
+    ]
+  },
+  {
+    "id": "INC-17",
+    "title": "Incident 17",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-18"
+    ],
+    "affected_product_ids": [
+      "P-18"
+    ],
+    "impact_score": 47,
+    "shipment_ids": [
+      "S-17"
+    ]
+  },
+  {
+    "id": "INC-18",
+    "title": "Incident 18",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-19"
+    ],
+    "affected_product_ids": [
+      "P-19"
+    ],
+    "impact_score": 48,
+    "shipment_ids": [
+      "S-18"
+    ]
+  },
+  {
+    "id": "INC-19",
+    "title": "Incident 19",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-20"
+    ],
+    "affected_product_ids": [
+      "P-20"
+    ],
+    "impact_score": 49,
+    "shipment_ids": [
+      "S-19"
+    ]
+  },
+  {
+    "id": "INC-20",
+    "title": "Incident 20",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-21"
+    ],
+    "affected_product_ids": [
+      "P-21"
+    ],
+    "impact_score": 50,
+    "shipment_ids": [
+      "S-20"
+    ]
+  },
+  {
+    "id": "INC-21",
+    "title": "Incident 21",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-22"
+    ],
+    "affected_product_ids": [
+      "P-22"
+    ],
+    "impact_score": 51,
+    "shipment_ids": [
+      "S-21"
+    ]
+  },
+  {
+    "id": "INC-22",
+    "title": "Incident 22",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-23"
+    ],
+    "affected_product_ids": [
+      "P-23"
+    ],
+    "impact_score": 52,
+    "shipment_ids": [
+      "S-22"
+    ]
+  },
+  {
+    "id": "INC-23",
+    "title": "Incident 23",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-24"
+    ],
+    "affected_product_ids": [
+      "P-24"
+    ],
+    "impact_score": 53,
+    "shipment_ids": [
+      "S-23"
+    ]
+  },
+  {
+    "id": "INC-24",
+    "title": "Incident 24",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-25"
+    ],
+    "affected_product_ids": [
+      "P-25"
+    ],
+    "impact_score": 54,
+    "shipment_ids": [
+      "S-24"
+    ]
+  },
+  {
+    "id": "INC-25",
+    "title": "Incident 25",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-26"
+    ],
+    "affected_product_ids": [
+      "P-26"
+    ],
+    "impact_score": 55,
+    "shipment_ids": [
+      "S-25"
+    ]
+  },
+  {
+    "id": "INC-26",
+    "title": "Incident 26",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-27"
+    ],
+    "affected_product_ids": [
+      "P-27"
+    ],
+    "impact_score": 56,
+    "shipment_ids": [
+      "S-26"
+    ]
+  },
+  {
+    "id": "INC-27",
+    "title": "Incident 27",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-28"
+    ],
+    "affected_product_ids": [
+      "P-28"
+    ],
+    "impact_score": 57,
+    "shipment_ids": [
+      "S-27"
+    ]
+  },
+  {
+    "id": "INC-28",
+    "title": "Incident 28",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-29"
+    ],
+    "affected_product_ids": [
+      "P-29"
+    ],
+    "impact_score": 58,
+    "shipment_ids": [
+      "S-28"
+    ]
+  },
+  {
+    "id": "INC-29",
+    "title": "Incident 29",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-30"
+    ],
+    "affected_product_ids": [
+      "P-30"
+    ],
+    "impact_score": 59,
+    "shipment_ids": [
+      "S-29"
+    ]
+  },
+  {
+    "id": "INC-30",
+    "title": "Incident 30",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-31"
+    ],
+    "affected_product_ids": [
+      "P-31"
+    ],
+    "impact_score": 60,
+    "shipment_ids": [
+      "S-30"
+    ]
+  },
+  {
+    "id": "INC-31",
+    "title": "Incident 31",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-32"
+    ],
+    "affected_product_ids": [
+      "P-32"
+    ],
+    "impact_score": 61,
+    "shipment_ids": [
+      "S-31"
+    ]
+  },
+  {
+    "id": "INC-32",
+    "title": "Incident 32",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-33"
+    ],
+    "affected_product_ids": [
+      "P-33"
+    ],
+    "impact_score": 62,
+    "shipment_ids": [
+      "S-32"
+    ]
+  },
+  {
+    "id": "INC-33",
+    "title": "Incident 33",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-34"
+    ],
+    "affected_product_ids": [
+      "P-34"
+    ],
+    "impact_score": 63,
+    "shipment_ids": [
+      "S-33"
+    ]
+  },
+  {
+    "id": "INC-34",
+    "title": "Incident 34",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-35"
+    ],
+    "affected_product_ids": [
+      "P-35"
+    ],
+    "impact_score": 64,
+    "shipment_ids": [
+      "S-34"
+    ]
+  },
+  {
+    "id": "INC-35",
+    "title": "Incident 35",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-36"
+    ],
+    "affected_product_ids": [
+      "P-36"
+    ],
+    "impact_score": 65,
+    "shipment_ids": [
+      "S-35"
+    ]
+  },
+  {
+    "id": "INC-36",
+    "title": "Incident 36",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-37"
+    ],
+    "affected_product_ids": [
+      "P-37"
+    ],
+    "impact_score": 66,
+    "shipment_ids": [
+      "S-36"
+    ]
+  },
+  {
+    "id": "INC-37",
+    "title": "Incident 37",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-38"
+    ],
+    "affected_product_ids": [
+      "P-38"
+    ],
+    "impact_score": 67,
+    "shipment_ids": [
+      "S-37"
+    ]
+  },
+  {
+    "id": "INC-38",
+    "title": "Incident 38",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-39"
+    ],
+    "affected_product_ids": [
+      "P-39"
+    ],
+    "impact_score": 68,
+    "shipment_ids": [
+      "S-38"
+    ]
+  },
+  {
+    "id": "INC-39",
+    "title": "Incident 39",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-40"
+    ],
+    "affected_product_ids": [
+      "P-40"
+    ],
+    "impact_score": 69,
+    "shipment_ids": [
+      "S-39"
+    ]
+  },
+  {
+    "id": "INC-40",
+    "title": "Incident 40",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-41"
+    ],
+    "affected_product_ids": [
+      "P-41"
+    ],
+    "impact_score": 30,
+    "shipment_ids": [
+      "S-40"
+    ]
+  },
+  {
+    "id": "INC-41",
+    "title": "Incident 41",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-42"
+    ],
+    "affected_product_ids": [
+      "P-42"
+    ],
+    "impact_score": 31,
+    "shipment_ids": [
+      "S-41"
+    ]
+  },
+  {
+    "id": "INC-42",
+    "title": "Incident 42",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-43"
+    ],
+    "affected_product_ids": [
+      "P-43"
+    ],
+    "impact_score": 32,
+    "shipment_ids": [
+      "S-42"
+    ]
+  },
+  {
+    "id": "INC-43",
+    "title": "Incident 43",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-44"
+    ],
+    "affected_product_ids": [
+      "P-44"
+    ],
+    "impact_score": 33,
+    "shipment_ids": [
+      "S-43"
+    ]
+  },
+  {
+    "id": "INC-44",
+    "title": "Incident 44",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-45"
+    ],
+    "affected_product_ids": [
+      "P-45"
+    ],
+    "impact_score": 34,
+    "shipment_ids": [
+      "S-44"
+    ]
+  },
+  {
+    "id": "INC-45",
+    "title": "Incident 45",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-46"
+    ],
+    "affected_product_ids": [
+      "P-46"
+    ],
+    "impact_score": 35,
+    "shipment_ids": [
+      "S-45"
+    ]
+  },
+  {
+    "id": "INC-46",
+    "title": "Incident 46",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-47"
+    ],
+    "affected_product_ids": [
+      "P-47"
+    ],
+    "impact_score": 36,
+    "shipment_ids": [
+      "S-46"
+    ]
+  },
+  {
+    "id": "INC-47",
+    "title": "Incident 47",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-48"
+    ],
+    "affected_product_ids": [
+      "P-48"
+    ],
+    "impact_score": 37,
+    "shipment_ids": [
+      "S-47"
+    ]
+  },
+  {
+    "id": "INC-48",
+    "title": "Incident 48",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-49"
+    ],
+    "affected_product_ids": [
+      "P-49"
+    ],
+    "impact_score": 38,
+    "shipment_ids": [
+      "S-48"
+    ]
+  },
+  {
+    "id": "INC-49",
+    "title": "Incident 49",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-50"
+    ],
+    "affected_product_ids": [
+      "P-50"
+    ],
+    "impact_score": 39,
+    "shipment_ids": [
+      "S-49"
+    ]
+  },
+  {
+    "id": "INC-50",
+    "title": "Incident 50",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-51"
+    ],
+    "affected_product_ids": [
+      "P-51"
+    ],
+    "impact_score": 40,
+    "shipment_ids": [
+      "S-50"
+    ]
+  },
+  {
+    "id": "INC-51",
+    "title": "Incident 51",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-52"
+    ],
+    "affected_product_ids": [
+      "P-52"
+    ],
+    "impact_score": 41,
+    "shipment_ids": [
+      "S-51"
+    ]
+  },
+  {
+    "id": "INC-52",
+    "title": "Incident 52",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-53"
+    ],
+    "affected_product_ids": [
+      "P-53"
+    ],
+    "impact_score": 42,
+    "shipment_ids": [
+      "S-52"
+    ]
+  },
+  {
+    "id": "INC-53",
+    "title": "Incident 53",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-54"
+    ],
+    "affected_product_ids": [
+      "P-54"
+    ],
+    "impact_score": 43,
+    "shipment_ids": [
+      "S-53"
+    ]
+  },
+  {
+    "id": "INC-54",
+    "title": "Incident 54",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-55"
+    ],
+    "affected_product_ids": [
+      "P-55"
+    ],
+    "impact_score": 44,
+    "shipment_ids": [
+      "S-54"
+    ]
+  },
+  {
+    "id": "INC-55",
+    "title": "Incident 55",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-56"
+    ],
+    "affected_product_ids": [
+      "P-56"
+    ],
+    "impact_score": 45,
+    "shipment_ids": [
+      "S-55"
+    ]
+  },
+  {
+    "id": "INC-56",
+    "title": "Incident 56",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-57"
+    ],
+    "affected_product_ids": [
+      "P-57"
+    ],
+    "impact_score": 46,
+    "shipment_ids": [
+      "S-56"
+    ]
+  },
+  {
+    "id": "INC-57",
+    "title": "Incident 57",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-58"
+    ],
+    "affected_product_ids": [
+      "P-58"
+    ],
+    "impact_score": 47,
+    "shipment_ids": [
+      "S-57"
+    ]
+  },
+  {
+    "id": "INC-58",
+    "title": "Incident 58",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-59"
+    ],
+    "affected_product_ids": [
+      "P-59"
+    ],
+    "impact_score": 48,
+    "shipment_ids": [
+      "S-58"
+    ]
+  },
+  {
+    "id": "INC-59",
+    "title": "Incident 59",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-60"
+    ],
+    "affected_product_ids": [
+      "P-60"
+    ],
+    "impact_score": 49,
+    "shipment_ids": [
+      "S-59"
+    ]
+  },
+  {
+    "id": "INC-60",
+    "title": "Incident 60",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-61"
+    ],
+    "affected_product_ids": [
+      "P-61"
+    ],
+    "impact_score": 50,
+    "shipment_ids": [
+      "S-60"
+    ]
+  },
+  {
+    "id": "INC-61",
+    "title": "Incident 61",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-62"
+    ],
+    "affected_product_ids": [
+      "P-62"
+    ],
+    "impact_score": 51,
+    "shipment_ids": [
+      "S-61"
+    ]
+  },
+  {
+    "id": "INC-62",
+    "title": "Incident 62",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-63"
+    ],
+    "affected_product_ids": [
+      "P-63"
+    ],
+    "impact_score": 52,
+    "shipment_ids": [
+      "S-62"
+    ]
+  },
+  {
+    "id": "INC-63",
+    "title": "Incident 63",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-64"
+    ],
+    "affected_product_ids": [
+      "P-64"
+    ],
+    "impact_score": 53,
+    "shipment_ids": [
+      "S-63"
+    ]
+  },
+  {
+    "id": "INC-64",
+    "title": "Incident 64",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-65"
+    ],
+    "affected_product_ids": [
+      "P-65"
+    ],
+    "impact_score": 54,
+    "shipment_ids": [
+      "S-64"
+    ]
+  },
+  {
+    "id": "INC-65",
+    "title": "Incident 65",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-66"
+    ],
+    "affected_product_ids": [
+      "P-66"
+    ],
+    "impact_score": 55,
+    "shipment_ids": [
+      "S-65"
+    ]
+  },
+  {
+    "id": "INC-66",
+    "title": "Incident 66",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-67"
+    ],
+    "affected_product_ids": [
+      "P-67"
+    ],
+    "impact_score": 56,
+    "shipment_ids": [
+      "S-66"
+    ]
+  },
+  {
+    "id": "INC-67",
+    "title": "Incident 67",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-68"
+    ],
+    "affected_product_ids": [
+      "P-68"
+    ],
+    "impact_score": 57,
+    "shipment_ids": [
+      "S-67"
+    ]
+  },
+  {
+    "id": "INC-68",
+    "title": "Incident 68",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-69"
+    ],
+    "affected_product_ids": [
+      "P-69"
+    ],
+    "impact_score": 58,
+    "shipment_ids": [
+      "S-68"
+    ]
+  },
+  {
+    "id": "INC-69",
+    "title": "Incident 69",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-70"
+    ],
+    "affected_product_ids": [
+      "P-70"
+    ],
+    "impact_score": 59,
+    "shipment_ids": [
+      "S-69"
+    ]
+  },
+  {
+    "id": "INC-70",
+    "title": "Incident 70",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-71"
+    ],
+    "affected_product_ids": [
+      "P-71"
+    ],
+    "impact_score": 60,
+    "shipment_ids": [
+      "S-70"
+    ]
+  },
+  {
+    "id": "INC-71",
+    "title": "Incident 71",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-72"
+    ],
+    "affected_product_ids": [
+      "P-72"
+    ],
+    "impact_score": 61,
+    "shipment_ids": [
+      "S-71"
+    ]
+  },
+  {
+    "id": "INC-72",
+    "title": "Incident 72",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-73"
+    ],
+    "affected_product_ids": [
+      "P-73"
+    ],
+    "impact_score": 62,
+    "shipment_ids": [
+      "S-72"
+    ]
+  },
+  {
+    "id": "INC-73",
+    "title": "Incident 73",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-74"
+    ],
+    "affected_product_ids": [
+      "P-74"
+    ],
+    "impact_score": 63,
+    "shipment_ids": [
+      "S-73"
+    ]
+  },
+  {
+    "id": "INC-74",
+    "title": "Incident 74",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-75"
+    ],
+    "affected_product_ids": [
+      "P-75"
+    ],
+    "impact_score": 64,
+    "shipment_ids": [
+      "S-74"
+    ]
+  },
+  {
+    "id": "INC-75",
+    "title": "Incident 75",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-76"
+    ],
+    "affected_product_ids": [
+      "P-76"
+    ],
+    "impact_score": 65,
+    "shipment_ids": [
+      "S-75"
+    ]
+  },
+  {
+    "id": "INC-76",
+    "title": "Incident 76",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-77"
+    ],
+    "affected_product_ids": [
+      "P-77"
+    ],
+    "impact_score": 66,
+    "shipment_ids": [
+      "S-76"
+    ]
+  },
+  {
+    "id": "INC-77",
+    "title": "Incident 77",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-78"
+    ],
+    "affected_product_ids": [
+      "P-78"
+    ],
+    "impact_score": 67,
+    "shipment_ids": [
+      "S-77"
+    ]
+  },
+  {
+    "id": "INC-78",
+    "title": "Incident 78",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-79"
+    ],
+    "affected_product_ids": [
+      "P-79"
+    ],
+    "impact_score": 68,
+    "shipment_ids": [
+      "S-78"
+    ]
+  },
+  {
+    "id": "INC-79",
+    "title": "Incident 79",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-80"
+    ],
+    "affected_product_ids": [
+      "P-80"
+    ],
+    "impact_score": 69,
+    "shipment_ids": [
+      "S-79"
+    ]
+  },
+  {
+    "id": "INC-80",
+    "title": "Incident 80",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-81"
+    ],
+    "affected_product_ids": [
+      "P-81"
+    ],
+    "impact_score": 30,
+    "shipment_ids": [
+      "S-80"
+    ]
+  },
+  {
+    "id": "INC-81",
+    "title": "Incident 81",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-82"
+    ],
+    "affected_product_ids": [
+      "P-82"
+    ],
+    "impact_score": 31,
+    "shipment_ids": [
+      "S-81"
+    ]
+  },
+  {
+    "id": "INC-82",
+    "title": "Incident 82",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-83"
+    ],
+    "affected_product_ids": [
+      "P-83"
+    ],
+    "impact_score": 32,
+    "shipment_ids": [
+      "S-82"
+    ]
+  },
+  {
+    "id": "INC-83",
+    "title": "Incident 83",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-84"
+    ],
+    "affected_product_ids": [
+      "P-84"
+    ],
+    "impact_score": 33,
+    "shipment_ids": [
+      "S-83"
+    ]
+  },
+  {
+    "id": "INC-84",
+    "title": "Incident 84",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-85"
+    ],
+    "affected_product_ids": [
+      "P-85"
+    ],
+    "impact_score": 34,
+    "shipment_ids": [
+      "S-84"
+    ]
+  },
+  {
+    "id": "INC-85",
+    "title": "Incident 85",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-86"
+    ],
+    "affected_product_ids": [
+      "P-86"
+    ],
+    "impact_score": 35,
+    "shipment_ids": [
+      "S-85"
+    ]
+  },
+  {
+    "id": "INC-86",
+    "title": "Incident 86",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-87"
+    ],
+    "affected_product_ids": [
+      "P-87"
+    ],
+    "impact_score": 36,
+    "shipment_ids": [
+      "S-86"
+    ]
+  },
+  {
+    "id": "INC-87",
+    "title": "Incident 87",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-88"
+    ],
+    "affected_product_ids": [
+      "P-88"
+    ],
+    "impact_score": 37,
+    "shipment_ids": [
+      "S-87"
+    ]
+  },
+  {
+    "id": "INC-88",
+    "title": "Incident 88",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-89"
+    ],
+    "affected_product_ids": [
+      "P-89"
+    ],
+    "impact_score": 38,
+    "shipment_ids": [
+      "S-88"
+    ]
+  },
+  {
+    "id": "INC-89",
+    "title": "Incident 89",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-90"
+    ],
+    "affected_product_ids": [
+      "P-90"
+    ],
+    "impact_score": 39,
+    "shipment_ids": [
+      "S-89"
+    ]
+  },
+  {
+    "id": "INC-90",
+    "title": "Incident 90",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-91"
+    ],
+    "affected_product_ids": [
+      "P-91"
+    ],
+    "impact_score": 40,
+    "shipment_ids": [
+      "S-90"
+    ]
+  },
+  {
+    "id": "INC-91",
+    "title": "Incident 91",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-92"
+    ],
+    "affected_product_ids": [
+      "P-92"
+    ],
+    "impact_score": 41,
+    "shipment_ids": [
+      "S-91"
+    ]
+  },
+  {
+    "id": "INC-92",
+    "title": "Incident 92",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-93"
+    ],
+    "affected_product_ids": [
+      "P-93"
+    ],
+    "impact_score": 42,
+    "shipment_ids": [
+      "S-92"
+    ]
+  },
+  {
+    "id": "INC-93",
+    "title": "Incident 93",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-94"
+    ],
+    "affected_product_ids": [
+      "P-94"
+    ],
+    "impact_score": 43,
+    "shipment_ids": [
+      "S-93"
+    ]
+  },
+  {
+    "id": "INC-94",
+    "title": "Incident 94",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-95"
+    ],
+    "affected_product_ids": [
+      "P-95"
+    ],
+    "impact_score": 44,
+    "shipment_ids": [
+      "S-94"
+    ]
+  },
+  {
+    "id": "INC-95",
+    "title": "Incident 95",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-96"
+    ],
+    "affected_product_ids": [
+      "P-96"
+    ],
+    "impact_score": 45,
+    "shipment_ids": [
+      "S-95"
+    ]
+  },
+  {
+    "id": "INC-96",
+    "title": "Incident 96",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-97"
+    ],
+    "affected_product_ids": [
+      "P-97"
+    ],
+    "impact_score": 46,
+    "shipment_ids": [
+      "S-96"
+    ]
+  },
+  {
+    "id": "INC-97",
+    "title": "Incident 97",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-98"
+    ],
+    "affected_product_ids": [
+      "P-98"
+    ],
+    "impact_score": 47,
+    "shipment_ids": [
+      "S-97"
+    ]
+  },
+  {
+    "id": "INC-98",
+    "title": "Incident 98",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-99"
+    ],
+    "affected_product_ids": [
+      "P-99"
+    ],
+    "impact_score": 48,
+    "shipment_ids": [
+      "S-98"
+    ]
+  },
+  {
+    "id": "INC-99",
+    "title": "Incident 99",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-100"
+    ],
+    "affected_product_ids": [
+      "P-100"
+    ],
+    "impact_score": 49,
+    "shipment_ids": [
+      "S-99"
+    ]
+  },
+  {
+    "id": "INC-100",
+    "title": "Incident 100",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-1"
+    ],
+    "affected_product_ids": [
+      "P-101"
+    ],
+    "impact_score": 50,
+    "shipment_ids": [
+      "S-100"
+    ]
+  },
+  {
+    "id": "INC-101",
+    "title": "Incident 101",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-2"
+    ],
+    "affected_product_ids": [
+      "P-102"
+    ],
+    "impact_score": 51,
+    "shipment_ids": [
+      "S-101"
+    ]
+  },
+  {
+    "id": "INC-102",
+    "title": "Incident 102",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-3"
+    ],
+    "affected_product_ids": [
+      "P-103"
+    ],
+    "impact_score": 52,
+    "shipment_ids": [
+      "S-102"
+    ]
+  },
+  {
+    "id": "INC-103",
+    "title": "Incident 103",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-4"
+    ],
+    "affected_product_ids": [
+      "P-104"
+    ],
+    "impact_score": 53,
+    "shipment_ids": [
+      "S-103"
+    ]
+  },
+  {
+    "id": "INC-104",
+    "title": "Incident 104",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-5"
+    ],
+    "affected_product_ids": [
+      "P-105"
+    ],
+    "impact_score": 54,
+    "shipment_ids": [
+      "S-104"
+    ]
+  },
+  {
+    "id": "INC-105",
+    "title": "Incident 105",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-6"
+    ],
+    "affected_product_ids": [
+      "P-106"
+    ],
+    "impact_score": 55,
+    "shipment_ids": [
+      "S-105"
+    ]
+  },
+  {
+    "id": "INC-106",
+    "title": "Incident 106",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-7"
+    ],
+    "affected_product_ids": [
+      "P-107"
+    ],
+    "impact_score": 56,
+    "shipment_ids": [
+      "S-106"
+    ]
+  },
+  {
+    "id": "INC-107",
+    "title": "Incident 107",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-8"
+    ],
+    "affected_product_ids": [
+      "P-108"
+    ],
+    "impact_score": 57,
+    "shipment_ids": [
+      "S-107"
+    ]
+  },
+  {
+    "id": "INC-108",
+    "title": "Incident 108",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-9"
+    ],
+    "affected_product_ids": [
+      "P-109"
+    ],
+    "impact_score": 58,
+    "shipment_ids": [
+      "S-108"
+    ]
+  },
+  {
+    "id": "INC-109",
+    "title": "Incident 109",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-10"
+    ],
+    "affected_product_ids": [
+      "P-110"
+    ],
+    "impact_score": 59,
+    "shipment_ids": [
+      "S-109"
+    ]
+  },
+  {
+    "id": "INC-110",
+    "title": "Incident 110",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-11"
+    ],
+    "affected_product_ids": [
+      "P-111"
+    ],
+    "impact_score": 60,
+    "shipment_ids": [
+      "S-110"
+    ]
+  },
+  {
+    "id": "INC-111",
+    "title": "Incident 111",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-12"
+    ],
+    "affected_product_ids": [
+      "P-112"
+    ],
+    "impact_score": 61,
+    "shipment_ids": [
+      "S-111"
+    ]
+  },
+  {
+    "id": "INC-112",
+    "title": "Incident 112",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-13"
+    ],
+    "affected_product_ids": [
+      "P-113"
+    ],
+    "impact_score": 62,
+    "shipment_ids": [
+      "S-112"
+    ]
+  },
+  {
+    "id": "INC-113",
+    "title": "Incident 113",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-14"
+    ],
+    "affected_product_ids": [
+      "P-114"
+    ],
+    "impact_score": 63,
+    "shipment_ids": [
+      "S-113"
+    ]
+  },
+  {
+    "id": "INC-114",
+    "title": "Incident 114",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-15"
+    ],
+    "affected_product_ids": [
+      "P-115"
+    ],
+    "impact_score": 64,
+    "shipment_ids": [
+      "S-114"
+    ]
+  },
+  {
+    "id": "INC-115",
+    "title": "Incident 115",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-16"
+    ],
+    "affected_product_ids": [
+      "P-116"
+    ],
+    "impact_score": 65,
+    "shipment_ids": [
+      "S-115"
+    ]
+  },
+  {
+    "id": "INC-116",
+    "title": "Incident 116",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-17"
+    ],
+    "affected_product_ids": [
+      "P-117"
+    ],
+    "impact_score": 66,
+    "shipment_ids": [
+      "S-116"
+    ]
+  },
+  {
+    "id": "INC-117",
+    "title": "Incident 117",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-18"
+    ],
+    "affected_product_ids": [
+      "P-118"
+    ],
+    "impact_score": 67,
+    "shipment_ids": [
+      "S-117"
+    ]
+  },
+  {
+    "id": "INC-118",
+    "title": "Incident 118",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-19"
+    ],
+    "affected_product_ids": [
+      "P-119"
+    ],
+    "impact_score": 68,
+    "shipment_ids": [
+      "S-118"
+    ]
+  },
+  {
+    "id": "INC-119",
+    "title": "Incident 119",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-20"
+    ],
+    "affected_product_ids": [
+      "P-120"
+    ],
+    "impact_score": 69,
+    "shipment_ids": [
+      "S-119"
+    ]
+  },
+  {
+    "id": "INC-120",
+    "title": "Incident 120",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-21"
+    ],
+    "affected_product_ids": [
+      "P-121"
+    ],
+    "impact_score": 30,
+    "shipment_ids": [
+      "S-120"
+    ]
+  },
+  {
+    "id": "INC-121",
+    "title": "Incident 121",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-22"
+    ],
+    "affected_product_ids": [
+      "P-122"
+    ],
+    "impact_score": 31,
+    "shipment_ids": [
+      "S-121"
+    ]
+  },
+  {
+    "id": "INC-122",
+    "title": "Incident 122",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-23"
+    ],
+    "affected_product_ids": [
+      "P-123"
+    ],
+    "impact_score": 32,
+    "shipment_ids": [
+      "S-122"
+    ]
+  },
+  {
+    "id": "INC-123",
+    "title": "Incident 123",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-24"
+    ],
+    "affected_product_ids": [
+      "P-124"
+    ],
+    "impact_score": 33,
+    "shipment_ids": [
+      "S-123"
+    ]
+  },
+  {
+    "id": "INC-124",
+    "title": "Incident 124",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-25"
+    ],
+    "affected_product_ids": [
+      "P-125"
+    ],
+    "impact_score": 34,
+    "shipment_ids": [
+      "S-124"
+    ]
+  },
+  {
+    "id": "INC-125",
+    "title": "Incident 125",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-26"
+    ],
+    "affected_product_ids": [
+      "P-126"
+    ],
+    "impact_score": 35,
+    "shipment_ids": [
+      "S-125"
+    ]
+  },
+  {
+    "id": "INC-126",
+    "title": "Incident 126",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-27"
+    ],
+    "affected_product_ids": [
+      "P-127"
+    ],
+    "impact_score": 36,
+    "shipment_ids": [
+      "S-126"
+    ]
+  },
+  {
+    "id": "INC-127",
+    "title": "Incident 127",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-28"
+    ],
+    "affected_product_ids": [
+      "P-128"
+    ],
+    "impact_score": 37,
+    "shipment_ids": [
+      "S-127"
+    ]
+  },
+  {
+    "id": "INC-128",
+    "title": "Incident 128",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-29"
+    ],
+    "affected_product_ids": [
+      "P-129"
+    ],
+    "impact_score": 38,
+    "shipment_ids": [
+      "S-128"
+    ]
+  },
+  {
+    "id": "INC-129",
+    "title": "Incident 129",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-30"
+    ],
+    "affected_product_ids": [
+      "P-130"
+    ],
+    "impact_score": 39,
+    "shipment_ids": [
+      "S-129"
+    ]
+  },
+  {
+    "id": "INC-130",
+    "title": "Incident 130",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-31"
+    ],
+    "affected_product_ids": [
+      "P-131"
+    ],
+    "impact_score": 40,
+    "shipment_ids": [
+      "S-130"
+    ]
+  },
+  {
+    "id": "INC-131",
+    "title": "Incident 131",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-32"
+    ],
+    "affected_product_ids": [
+      "P-132"
+    ],
+    "impact_score": 41,
+    "shipment_ids": [
+      "S-131"
+    ]
+  },
+  {
+    "id": "INC-132",
+    "title": "Incident 132",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-33"
+    ],
+    "affected_product_ids": [
+      "P-133"
+    ],
+    "impact_score": 42,
+    "shipment_ids": [
+      "S-132"
+    ]
+  },
+  {
+    "id": "INC-133",
+    "title": "Incident 133",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-34"
+    ],
+    "affected_product_ids": [
+      "P-134"
+    ],
+    "impact_score": 43,
+    "shipment_ids": [
+      "S-133"
+    ]
+  },
+  {
+    "id": "INC-134",
+    "title": "Incident 134",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-35"
+    ],
+    "affected_product_ids": [
+      "P-135"
+    ],
+    "impact_score": 44,
+    "shipment_ids": [
+      "S-134"
+    ]
+  },
+  {
+    "id": "INC-135",
+    "title": "Incident 135",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-36"
+    ],
+    "affected_product_ids": [
+      "P-136"
+    ],
+    "impact_score": 45,
+    "shipment_ids": [
+      "S-135"
+    ]
+  },
+  {
+    "id": "INC-136",
+    "title": "Incident 136",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-37"
+    ],
+    "affected_product_ids": [
+      "P-137"
+    ],
+    "impact_score": 46,
+    "shipment_ids": [
+      "S-136"
+    ]
+  },
+  {
+    "id": "INC-137",
+    "title": "Incident 137",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-38"
+    ],
+    "affected_product_ids": [
+      "P-138"
+    ],
+    "impact_score": 47,
+    "shipment_ids": [
+      "S-137"
+    ]
+  },
+  {
+    "id": "INC-138",
+    "title": "Incident 138",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-39"
+    ],
+    "affected_product_ids": [
+      "P-139"
+    ],
+    "impact_score": 48,
+    "shipment_ids": [
+      "S-138"
+    ]
+  },
+  {
+    "id": "INC-139",
+    "title": "Incident 139",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-40"
+    ],
+    "affected_product_ids": [
+      "P-140"
+    ],
+    "impact_score": 49,
+    "shipment_ids": [
+      "S-139"
+    ]
+  },
+  {
+    "id": "INC-140",
+    "title": "Incident 140",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-41"
+    ],
+    "affected_product_ids": [
+      "P-141"
+    ],
+    "impact_score": 50,
+    "shipment_ids": [
+      "S-140"
+    ]
+  },
+  {
+    "id": "INC-141",
+    "title": "Incident 141",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-42"
+    ],
+    "affected_product_ids": [
+      "P-142"
+    ],
+    "impact_score": 51,
+    "shipment_ids": [
+      "S-141"
+    ]
+  },
+  {
+    "id": "INC-142",
+    "title": "Incident 142",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-43"
+    ],
+    "affected_product_ids": [
+      "P-143"
+    ],
+    "impact_score": 52,
+    "shipment_ids": [
+      "S-142"
+    ]
+  },
+  {
+    "id": "INC-143",
+    "title": "Incident 143",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-44"
+    ],
+    "affected_product_ids": [
+      "P-144"
+    ],
+    "impact_score": 53,
+    "shipment_ids": [
+      "S-143"
+    ]
+  },
+  {
+    "id": "INC-144",
+    "title": "Incident 144",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-45"
+    ],
+    "affected_product_ids": [
+      "P-145"
+    ],
+    "impact_score": 54,
+    "shipment_ids": [
+      "S-144"
+    ]
+  },
+  {
+    "id": "INC-145",
+    "title": "Incident 145",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-46"
+    ],
+    "affected_product_ids": [
+      "P-146"
+    ],
+    "impact_score": 55,
+    "shipment_ids": [
+      "S-145"
+    ]
+  },
+  {
+    "id": "INC-146",
+    "title": "Incident 146",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-47"
+    ],
+    "affected_product_ids": [
+      "P-147"
+    ],
+    "impact_score": 56,
+    "shipment_ids": [
+      "S-146"
+    ]
+  },
+  {
+    "id": "INC-147",
+    "title": "Incident 147",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-48"
+    ],
+    "affected_product_ids": [
+      "P-148"
+    ],
+    "impact_score": 57,
+    "shipment_ids": [
+      "S-147"
+    ]
+  },
+  {
+    "id": "INC-148",
+    "title": "Incident 148",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-49"
+    ],
+    "affected_product_ids": [
+      "P-149"
+    ],
+    "impact_score": 58,
+    "shipment_ids": [
+      "S-148"
+    ]
+  },
+  {
+    "id": "INC-149",
+    "title": "Incident 149",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-50"
+    ],
+    "affected_product_ids": [
+      "P-150"
+    ],
+    "impact_score": 59,
+    "shipment_ids": [
+      "S-149"
+    ]
+  },
+  {
+    "id": "INC-150",
+    "title": "Incident 150",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-51"
+    ],
+    "affected_product_ids": [
+      "P-151"
+    ],
+    "impact_score": 60,
+    "shipment_ids": [
+      "S-150"
+    ]
+  },
+  {
+    "id": "INC-151",
+    "title": "Incident 151",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-52"
+    ],
+    "affected_product_ids": [
+      "P-152"
+    ],
+    "impact_score": 61,
+    "shipment_ids": [
+      "S-151"
+    ]
+  },
+  {
+    "id": "INC-152",
+    "title": "Incident 152",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-53"
+    ],
+    "affected_product_ids": [
+      "P-153"
+    ],
+    "impact_score": 62,
+    "shipment_ids": [
+      "S-152"
+    ]
+  },
+  {
+    "id": "INC-153",
+    "title": "Incident 153",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-54"
+    ],
+    "affected_product_ids": [
+      "P-154"
+    ],
+    "impact_score": 63,
+    "shipment_ids": [
+      "S-153"
+    ]
+  },
+  {
+    "id": "INC-154",
+    "title": "Incident 154",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-55"
+    ],
+    "affected_product_ids": [
+      "P-155"
+    ],
+    "impact_score": 64,
+    "shipment_ids": [
+      "S-154"
+    ]
+  },
+  {
+    "id": "INC-155",
+    "title": "Incident 155",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-56"
+    ],
+    "affected_product_ids": [
+      "P-156"
+    ],
+    "impact_score": 65,
+    "shipment_ids": [
+      "S-155"
+    ]
+  },
+  {
+    "id": "INC-156",
+    "title": "Incident 156",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-57"
+    ],
+    "affected_product_ids": [
+      "P-157"
+    ],
+    "impact_score": 66,
+    "shipment_ids": [
+      "S-156"
+    ]
+  },
+  {
+    "id": "INC-157",
+    "title": "Incident 157",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-58"
+    ],
+    "affected_product_ids": [
+      "P-158"
+    ],
+    "impact_score": 67,
+    "shipment_ids": [
+      "S-157"
+    ]
+  },
+  {
+    "id": "INC-158",
+    "title": "Incident 158",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-59"
+    ],
+    "affected_product_ids": [
+      "P-159"
+    ],
+    "impact_score": 68,
+    "shipment_ids": [
+      "S-158"
+    ]
+  },
+  {
+    "id": "INC-159",
+    "title": "Incident 159",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-60"
+    ],
+    "affected_product_ids": [
+      "P-160"
+    ],
+    "impact_score": 69,
+    "shipment_ids": [
+      "S-159"
+    ]
+  },
+  {
+    "id": "INC-160",
+    "title": "Incident 160",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-61"
+    ],
+    "affected_product_ids": [
+      "P-161"
+    ],
+    "impact_score": 30,
+    "shipment_ids": [
+      "S-160"
+    ]
+  },
+  {
+    "id": "INC-161",
+    "title": "Incident 161",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-62"
+    ],
+    "affected_product_ids": [
+      "P-162"
+    ],
+    "impact_score": 31,
+    "shipment_ids": [
+      "S-161"
+    ]
+  },
+  {
+    "id": "INC-162",
+    "title": "Incident 162",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-63"
+    ],
+    "affected_product_ids": [
+      "P-163"
+    ],
+    "impact_score": 32,
+    "shipment_ids": [
+      "S-162"
+    ]
+  },
+  {
+    "id": "INC-163",
+    "title": "Incident 163",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-64"
+    ],
+    "affected_product_ids": [
+      "P-164"
+    ],
+    "impact_score": 33,
+    "shipment_ids": [
+      "S-163"
+    ]
+  },
+  {
+    "id": "INC-164",
+    "title": "Incident 164",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-65"
+    ],
+    "affected_product_ids": [
+      "P-165"
+    ],
+    "impact_score": 34,
+    "shipment_ids": [
+      "S-164"
+    ]
+  },
+  {
+    "id": "INC-165",
+    "title": "Incident 165",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-66"
+    ],
+    "affected_product_ids": [
+      "P-166"
+    ],
+    "impact_score": 35,
+    "shipment_ids": [
+      "S-165"
+    ]
+  },
+  {
+    "id": "INC-166",
+    "title": "Incident 166",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-67"
+    ],
+    "affected_product_ids": [
+      "P-167"
+    ],
+    "impact_score": 36,
+    "shipment_ids": [
+      "S-166"
+    ]
+  },
+  {
+    "id": "INC-167",
+    "title": "Incident 167",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-68"
+    ],
+    "affected_product_ids": [
+      "P-168"
+    ],
+    "impact_score": 37,
+    "shipment_ids": [
+      "S-167"
+    ]
+  },
+  {
+    "id": "INC-168",
+    "title": "Incident 168",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-69"
+    ],
+    "affected_product_ids": [
+      "P-169"
+    ],
+    "impact_score": 38,
+    "shipment_ids": [
+      "S-168"
+    ]
+  },
+  {
+    "id": "INC-169",
+    "title": "Incident 169",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-70"
+    ],
+    "affected_product_ids": [
+      "P-170"
+    ],
+    "impact_score": 39,
+    "shipment_ids": [
+      "S-169"
+    ]
+  },
+  {
+    "id": "INC-170",
+    "title": "Incident 170",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-71"
+    ],
+    "affected_product_ids": [
+      "P-171"
+    ],
+    "impact_score": 40,
+    "shipment_ids": [
+      "S-170"
+    ]
+  },
+  {
+    "id": "INC-171",
+    "title": "Incident 171",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-72"
+    ],
+    "affected_product_ids": [
+      "P-172"
+    ],
+    "impact_score": 41,
+    "shipment_ids": [
+      "S-171"
+    ]
+  },
+  {
+    "id": "INC-172",
+    "title": "Incident 172",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-73"
+    ],
+    "affected_product_ids": [
+      "P-173"
+    ],
+    "impact_score": 42,
+    "shipment_ids": [
+      "S-172"
+    ]
+  },
+  {
+    "id": "INC-173",
+    "title": "Incident 173",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-74"
+    ],
+    "affected_product_ids": [
+      "P-174"
+    ],
+    "impact_score": 43,
+    "shipment_ids": [
+      "S-173"
+    ]
+  },
+  {
+    "id": "INC-174",
+    "title": "Incident 174",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-75"
+    ],
+    "affected_product_ids": [
+      "P-175"
+    ],
+    "impact_score": 44,
+    "shipment_ids": [
+      "S-174"
+    ]
+  },
+  {
+    "id": "INC-175",
+    "title": "Incident 175",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-76"
+    ],
+    "affected_product_ids": [
+      "P-176"
+    ],
+    "impact_score": 45,
+    "shipment_ids": [
+      "S-175"
+    ]
+  },
+  {
+    "id": "INC-176",
+    "title": "Incident 176",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-77"
+    ],
+    "affected_product_ids": [
+      "P-177"
+    ],
+    "impact_score": 46,
+    "shipment_ids": [
+      "S-176"
+    ]
+  },
+  {
+    "id": "INC-177",
+    "title": "Incident 177",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-78"
+    ],
+    "affected_product_ids": [
+      "P-178"
+    ],
+    "impact_score": 47,
+    "shipment_ids": [
+      "S-177"
+    ]
+  },
+  {
+    "id": "INC-178",
+    "title": "Incident 178",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-79"
+    ],
+    "affected_product_ids": [
+      "P-179"
+    ],
+    "impact_score": 48,
+    "shipment_ids": [
+      "S-178"
+    ]
+  },
+  {
+    "id": "INC-179",
+    "title": "Incident 179",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-80"
+    ],
+    "affected_product_ids": [
+      "P-180"
+    ],
+    "impact_score": 49,
+    "shipment_ids": [
+      "S-179"
+    ]
+  },
+  {
+    "id": "INC-180",
+    "title": "Incident 180",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-81"
+    ],
+    "affected_product_ids": [
+      "P-181"
+    ],
+    "impact_score": 50,
+    "shipment_ids": [
+      "S-180"
+    ]
+  },
+  {
+    "id": "INC-181",
+    "title": "Incident 181",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-82"
+    ],
+    "affected_product_ids": [
+      "P-182"
+    ],
+    "impact_score": 51,
+    "shipment_ids": [
+      "S-181"
+    ]
+  },
+  {
+    "id": "INC-182",
+    "title": "Incident 182",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-83"
+    ],
+    "affected_product_ids": [
+      "P-183"
+    ],
+    "impact_score": 52,
+    "shipment_ids": [
+      "S-182"
+    ]
+  },
+  {
+    "id": "INC-183",
+    "title": "Incident 183",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-84"
+    ],
+    "affected_product_ids": [
+      "P-184"
+    ],
+    "impact_score": 53,
+    "shipment_ids": [
+      "S-183"
+    ]
+  },
+  {
+    "id": "INC-184",
+    "title": "Incident 184",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-85"
+    ],
+    "affected_product_ids": [
+      "P-185"
+    ],
+    "impact_score": 54,
+    "shipment_ids": [
+      "S-184"
+    ]
+  },
+  {
+    "id": "INC-185",
+    "title": "Incident 185",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-86"
+    ],
+    "affected_product_ids": [
+      "P-186"
+    ],
+    "impact_score": 55,
+    "shipment_ids": [
+      "S-185"
+    ]
+  },
+  {
+    "id": "INC-186",
+    "title": "Incident 186",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-87"
+    ],
+    "affected_product_ids": [
+      "P-187"
+    ],
+    "impact_score": 56,
+    "shipment_ids": [
+      "S-186"
+    ]
+  },
+  {
+    "id": "INC-187",
+    "title": "Incident 187",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-88"
+    ],
+    "affected_product_ids": [
+      "P-188"
+    ],
+    "impact_score": 57,
+    "shipment_ids": [
+      "S-187"
+    ]
+  },
+  {
+    "id": "INC-188",
+    "title": "Incident 188",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-89"
+    ],
+    "affected_product_ids": [
+      "P-189"
+    ],
+    "impact_score": 58,
+    "shipment_ids": [
+      "S-188"
+    ]
+  },
+  {
+    "id": "INC-189",
+    "title": "Incident 189",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-90"
+    ],
+    "affected_product_ids": [
+      "P-190"
+    ],
+    "impact_score": 59,
+    "shipment_ids": [
+      "S-189"
+    ]
+  },
+  {
+    "id": "INC-190",
+    "title": "Incident 190",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-91"
+    ],
+    "affected_product_ids": [
+      "P-191"
+    ],
+    "impact_score": 60,
+    "shipment_ids": [
+      "S-190"
+    ]
+  },
+  {
+    "id": "INC-191",
+    "title": "Incident 191",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-92"
+    ],
+    "affected_product_ids": [
+      "P-192"
+    ],
+    "impact_score": 61,
+    "shipment_ids": [
+      "S-191"
+    ]
+  },
+  {
+    "id": "INC-192",
+    "title": "Incident 192",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-93"
+    ],
+    "affected_product_ids": [
+      "P-193"
+    ],
+    "impact_score": 62,
+    "shipment_ids": [
+      "S-192"
+    ]
+  },
+  {
+    "id": "INC-193",
+    "title": "Incident 193",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-2"
+    ],
+    "affected_supplier_ids": [
+      "SUP-94"
+    ],
+    "affected_product_ids": [
+      "P-194"
+    ],
+    "impact_score": 63,
+    "shipment_ids": [
+      "S-193"
+    ]
+  },
+  {
+    "id": "INC-194",
+    "title": "Incident 194",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-3"
+    ],
+    "affected_supplier_ids": [
+      "SUP-95"
+    ],
+    "affected_product_ids": [
+      "P-195"
+    ],
+    "impact_score": 64,
+    "shipment_ids": [
+      "S-194"
+    ]
+  },
+  {
+    "id": "INC-195",
+    "title": "Incident 195",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-4"
+    ],
+    "affected_supplier_ids": [
+      "SUP-96"
+    ],
+    "affected_product_ids": [
+      "P-196"
+    ],
+    "impact_score": 65,
+    "shipment_ids": [
+      "S-195"
+    ]
+  },
+  {
+    "id": "INC-196",
+    "title": "Incident 196",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-5"
+    ],
+    "affected_supplier_ids": [
+      "SUP-97"
+    ],
+    "affected_product_ids": [
+      "P-197"
+    ],
+    "impact_score": 66,
+    "shipment_ids": [
+      "S-196"
+    ]
+  },
+  {
+    "id": "INC-197",
+    "title": "Incident 197",
+    "incident_type": "inventory",
+    "severity": "medium",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-6"
+    ],
+    "affected_supplier_ids": [
+      "SUP-98"
+    ],
+    "affected_product_ids": [
+      "P-198"
+    ],
+    "impact_score": 67,
+    "shipment_ids": [
+      "S-197"
+    ]
+  },
+  {
+    "id": "INC-198",
+    "title": "Incident 198",
+    "incident_type": "supplier",
+    "severity": "high",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-7"
+    ],
+    "affected_supplier_ids": [
+      "SUP-99"
+    ],
+    "affected_product_ids": [
+      "P-199"
+    ],
+    "impact_score": 68,
+    "shipment_ids": [
+      "S-198"
+    ]
+  },
+  {
+    "id": "INC-199",
+    "title": "Incident 199",
+    "incident_type": "weather",
+    "severity": "critical",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-8"
+    ],
+    "affected_supplier_ids": [
+      "SUP-100"
+    ],
+    "affected_product_ids": [
+      "P-200"
+    ],
+    "impact_score": 69,
+    "shipment_ids": [
+      "S-199"
+    ]
+  },
+  {
+    "id": "INC-200",
+    "title": "Incident 200",
+    "incident_type": "shipment",
+    "severity": "low",
+    "status": "open",
+    "affected_warehouse_ids": [
+      "WH-1"
+    ],
+    "affected_supplier_ids": [
+      "SUP-1"
+    ],
+    "affected_product_ids": [
+      "P-201"
+    ],
+    "impact_score": 30,
+    "shipment_ids": [
+      "S-200"
+    ]
+  }
+]

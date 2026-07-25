@@ -1,0 +1,66 @@
+[
+  {
+    "id": "WH-1",
+    "name": "Warehouse 1",
+    "region": "South",
+    "capacity": 51000,
+    "hub": "HUB-2",
+    "status": "open"
+  },
+  {
+    "id": "WH-2",
+    "name": "Warehouse 2",
+    "region": "East",
+    "capacity": 52000,
+    "hub": "HUB-1",
+    "status": "open"
+  },
+  {
+    "id": "WH-3",
+    "name": "Warehouse 3",
+    "region": "West",
+    "capacity": 53000,
+    "hub": "HUB-2",
+    "status": "open"
+  },
+  {
+    "id": "WH-4",
+    "name": "Warehouse 4",
+    "region": "Central",
+    "capacity": 54000,
+    "hub": "HUB-1",
+    "status": "open"
+  },
+  {
+    "id": "WH-5",
+    "name": "Warehouse 5",
+    "region": "North",
+    "capacity": 55000,
+    "hub": "HUB-2",
+    "status": "open"
+  },
+  {
+    "id": "WH-6",
+    "name": "Warehouse 6",
+    "region": "South",
+    "capacity": 56000,
+    "hub": "HUB-1",
+    "status": "open"
+  },
+  {
+    "id": "WH-7",
+    "name": "Warehouse 7",
+    "region": "East",
+    "capacity": 57000,
+    "hub": "HUB-2",
+    "status": "open"
+  },
+  {
+    "id": "WH-8",
+    "name": "Warehouse 8",
+    "region": "West",
+    "capacity": 58000,
+    "hub": "HUB-1",
+    "status": "open"
+  }
+]

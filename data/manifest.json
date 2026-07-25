@@ -1,0 +1,13 @@
+{
+  "suppliers": 100,
+  "warehouses": 8,
+  "products": 500,
+  "inventory": 2000,
+  "shipments": 5000,
+  "orders": 10000,
+  "customers": 2000,
+  "incidents": 200,
+  "routes": 100,
+  "partners": 20,
+  "recovery_plans": 200
+}
