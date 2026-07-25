@@ -6,9 +6,9 @@ from config.settings import settings
 class LLMService:
     def __init__(self) -> None:
         self.provider = "fallback"
-        if settings.gemini_api_key:
+        if getattr(settings, "gemini_api_key", ""):
             self.provider = "gemini"
-        elif settings.openai_api_key:
+        elif getattr(settings, "openai_api_key", ""):
             self.provider = "openai"
 
     def generate(self, prompt: str, context: Dict[str, Any] | None = None) -> str:
